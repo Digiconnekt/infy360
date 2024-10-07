@@ -1,0 +1,38 @@
+.StickyViewSeoPackageBtn {
+  position: fixed;
+  bottom: 50%;
+  right: 0px;
+  z-index: 600;
+  opacity: 1;
+  visibility: visible;
+  -webkit-transition: all 0.8s ease-in-out;
+  transition: all 0.8s ease-in-out;
+}
+
+.StickyViewSeoPackageBtn .block {
+  display: block;
+  padding: 12px 8px;
+  background: rgb(255, 120, 16);
+  background: linear-gradient(
+    90deg,
+    rgba(255, 120, 16, 1) 0%,
+    rgba(255, 94, 44, 1) 90%
+  );
+  color: #ffffff;
+  border-radius: 4px 0px 0px 4px;
+}
+
+.StickyViewSeoPackageBtn .block span {
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+  transform: rotate(180deg);
+}
+
+@media (max-width: 520px) {
+  .StickyViewSeoPackageBtn .block {
+    padding: 12px 5px;
+  }
+  .StickyViewSeoPackageBtn .block span {
+    font-size: 10px;
+  }
+}

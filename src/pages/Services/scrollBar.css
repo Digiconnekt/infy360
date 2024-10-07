@@ -1,0 +1,57 @@
+.block-1 {
+  max-height: 500px;
+  overflow-y: scroll;
+}
+
+.block-2 {
+  max-height: 400px;
+  overflow-y: scroll;
+}
+
+.block-1,
+.block-2 {
+  -ms-overflow-style: 3px; /* Internet Explorer 10+ */
+  scrollbar-width: 3px; /* Firefox */
+}
+
+.block-1::-webkit-scrollbar,
+.block-2::-webkit-scrollbar {
+  width: 3px; /* Safari and Chrome */
+}
+
+.block-1::-webkit-scrollbar-track,
+.block-2::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+.block-1::-webkit-scrollbar-thumb,
+.block-2::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background: transparent;
+}
+
+.block-1:hover::-webkit-scrollbar,
+.block-2:hover::-webkit-scrollbar {
+  width: 3px;
+}
+
+.block-1:hover::-webkit-scrollbar-thumb,
+.block-2:hover::-webkit-scrollbar-thumb {
+  background: #bec4bd;
+}
+
+.tab.style-2 .nav-tabs .nav-link.five-tabs {
+  width: calc(100% / 5);
+}
+
+@media (max-width: 991px) {
+  .tab.style-2 .nav-tabs .nav-link.five-tabs {
+    width: calc(100% / 3);
+  }
+}
+
+@media (max-width: 576px) {
+  .tab.style-2 .nav-tabs .nav-link.five-tabs {
+    width: 100%;
+  }
+}
