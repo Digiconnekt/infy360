@@ -901,13 +901,17 @@ const Home = () => {
                       style={{ maxWidth: "200px", height: "72px" }}
                     />
                   </div>
-                  {/* <div className="clients-logo">
+                  <div className="clients-logo">
                     <img
                       className="img-fluid"
-                      src="images/home/clients/acuver.png"
-                      alt="Acuver"
+                      src="images/home/clients/affinity.png"
+                      alt="affinity"
+                      style={{
+                        maxWidth: "200px",
+                        height: "72px",
+                      }}
                     />
-                  </div> */}
+                  </div>
                   <div className="clients-logo">
                     <img
                       className="img-fluid"
@@ -922,13 +926,14 @@ const Home = () => {
                       alt="Design Pax"
                     />
                   </div>
-                  {/* <div className="clients-logo">
+                  <div className="clients-logo">
                     <img
                       className="img-fluid"
-                      src="images/home/clients/dream-webies.png"
-                      alt="Dream Webies"
+                      src="images/home/clients/glance.png"
+                      alt="glance"
+                      style={{ maxWidth: "200px", height: "72px" }}
                     />
-                  </div> */}
+                  </div>
                   <div className="clients-logo">
                     <img
                       className="img-fluid"
@@ -936,13 +941,14 @@ const Home = () => {
                       alt="Epam"
                     />
                   </div>
-                  {/* <div className="clients-logo">
+                  <div className="clients-logo">
                     <img
                       className="img-fluid"
-                      src="images/home/clients/life-trail.png"
-                      alt="Life Trail"
+                      src="images/home/clients/haleon.png"
+                      alt="haleon"
+                      style={{ maxWidth: "200px", height: "72px" }}
                     />
-                  </div> */}
+                  </div>
                   <div className="clients-logo">
                     <img
                       className="img-fluid"
@@ -979,13 +985,14 @@ const Home = () => {
                       alt="Startup Buddy"
                     />
                   </div>
-                  {/* <div className="clients-logo">
+                  <div className="clients-logo">
                     <img
                       className="img-fluid"
-                      src="images/home/clients/buildnetic.png"
-                      alt="Buildnetic"
+                      src="images/home/clients/himalaya-wellness.png"
+                      alt="himalaya-wellness"
+                      style={{ maxWidth: "200px", height: "72px" }}
                     />
-                  </div> */}
+                  </div>
                   <div className="clients-logo">
                     <img
                       className="img-fluid"
@@ -993,13 +1000,38 @@ const Home = () => {
                       alt="Air Tour Australia"
                     />
                   </div>
-                  {/* <div className="clients-logo">
+                  <div className="clients-logo">
                     <img
                       className="img-fluid"
-                      src="images/home/clients/the-coding-trail.png"
-                      alt="The Coding Trail"
+                      src="images/home/clients/newgen.png"
+                      alt="newgen"
+                      style={{ maxWidth: "200px", height: "72px" }}
                     />
-                  </div> */}
+                  </div>
+                  <div className="clients-logo">
+                    <img
+                      className="img-fluid"
+                      src="images/home/clients/ooddles.png"
+                      alt="ooddles"
+                      style={{ maxWidth: "200px", height: "72px" }}
+                    />
+                  </div>
+                  <div className="clients-logo">
+                    <img
+                      className="img-fluid"
+                      src="images/home/clients/sleepwell.png"
+                      alt="sleepwell"
+                      style={{ maxWidth: "200px", height: "72px" }}
+                    />
+                  </div>
+                  <div className="clients-logo">
+                    <img
+                      className="img-fluid"
+                      src="images/home/clients/umar-ujala.png"
+                      alt="umar-ujala"
+                      style={{ maxWidth: "200px", height: "72px" }}
+                    />
+                  </div>
                 </div>
               </div>
             </div>
