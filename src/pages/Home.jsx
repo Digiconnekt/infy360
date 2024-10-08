@@ -901,13 +901,13 @@ const Home = () => {
                       style={{ maxWidth: "200px", height: "72px" }}
                     />
                   </div>
-                  <div className="clients-logo">
+                  {/* <div className="clients-logo">
                     <img
                       className="img-fluid"
                       src="images/home/clients/acuver.png"
                       alt="Acuver"
                     />
-                  </div>
+                  </div> */}
                   <div className="clients-logo">
                     <img
                       className="img-fluid"
@@ -922,13 +922,13 @@ const Home = () => {
                       alt="Design Pax"
                     />
                   </div>
-                  <div className="clients-logo">
+                  {/* <div className="clients-logo">
                     <img
                       className="img-fluid"
                       src="images/home/clients/dream-webies.png"
                       alt="Dream Webies"
                     />
-                  </div>
+                  </div> */}
                   <div className="clients-logo">
                     <img
                       className="img-fluid"
@@ -936,13 +936,13 @@ const Home = () => {
                       alt="Epam"
                     />
                   </div>
-                  <div className="clients-logo">
+                  {/* <div className="clients-logo">
                     <img
                       className="img-fluid"
                       src="images/home/clients/life-trail.png"
                       alt="Life Trail"
                     />
-                  </div>
+                  </div> */}
                   <div className="clients-logo">
                     <img
                       className="img-fluid"
@@ -979,13 +979,13 @@ const Home = () => {
                       alt="Startup Buddy"
                     />
                   </div>
-                  <div className="clients-logo">
+                  {/* <div className="clients-logo">
                     <img
                       className="img-fluid"
                       src="images/home/clients/buildnetic.png"
                       alt="Buildnetic"
                     />
-                  </div>
+                  </div> */}
                   <div className="clients-logo">
                     <img
                       className="img-fluid"
@@ -993,13 +993,13 @@ const Home = () => {
                       alt="Air Tour Australia"
                     />
                   </div>
-                  <div className="clients-logo">
+                  {/* <div className="clients-logo">
                     <img
                       className="img-fluid"
                       src="images/home/clients/the-coding-trail.png"
                       alt="The Coding Trail"
                     />
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>

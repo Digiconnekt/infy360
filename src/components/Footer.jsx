@@ -149,9 +149,9 @@ const Footer = () => {
                           <li>
                             <a href="/about-us">About Us</a>
                           </li>
-                          <li>
+                          {/* <li>
                             <a href="/blogs">Blogs</a>
-                          </li>
+                          </li> */}
                           <li>
                             <a href="/proposal">Get A Proposal</a>
                           </li>
@@ -216,11 +216,11 @@ const Footer = () => {
                       </li>
                       <li>
                         <a
-                          href="tel:+919953306911"
+                          href="tel:+918595334605"
                           target="_blank"
                           rel="noreferrer"
                         >
-                          +91 99533 06911
+                          +91 85953 34605
                         </a>
                       </li>
                     </ul>
