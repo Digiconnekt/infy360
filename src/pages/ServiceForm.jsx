@@ -68,7 +68,7 @@ const ServiceForm = () => {
     websiteLink: formData.websiteLink,
     message: formData.message,
 
-    organisation: "infy360",
+    organisation: "brandnest",
     messageFrom: window.location.href,
   };
 
@@ -140,7 +140,7 @@ const ServiceForm = () => {
     <>
       <Helmet>
         {/* Title */}
-        <title>Services - Infy360</title>
+        <title>Services - Brandnest</title>
 
         {/* Description */}
         <meta name="description" content="" />

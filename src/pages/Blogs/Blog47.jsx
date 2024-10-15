@@ -266,7 +266,7 @@ const Blog47 = () => {
                       </ul>
 
                       <p className="lead">
-                        At Infy360, we understand the complexities of online
+                        At Brandnest, we understand the complexities of online
                         marketing and the importance of maximizing{" "}
                         <NavLink
                           to={
@@ -313,7 +313,7 @@ const Blog47 = () => {
                         fall short of their potential.
                       </p>
                       <p className="lead">
-                        Partner with Infy360 and unlock the power of proven
+                        Partner with Brandnest and unlock the power of proven
                         ideas, data-driven strategies, and expert execution to
                         drive exceptional ROI and propel your business to new
                         heights of success.

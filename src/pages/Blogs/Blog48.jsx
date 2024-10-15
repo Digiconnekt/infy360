@@ -318,11 +318,11 @@ const Blog48 = () => {
                         As we conclude, it's important to recognize the broader
                         context of video SEO within the realm of social media
                         optimization (SMO). This is where partnering with an
-                        experienced digital marketing agency like Infy360 can
+                        experienced digital marketing agency like Brandnest can
                         make a significant difference.
                       </p>
                       <p className="lead">
-                        Infy360 understands that SMO, which has evolved
+                        Brandnest understands that SMO, which has evolved
                         significantly since its inception in 2006, is now an
                         indispensable part of digital marketing. Our approach to
                         SMO goes beyond just technical optimization,
@@ -331,21 +331,22 @@ const Blog48 = () => {
                       </p>
                       <p className="lead">
                         With expertise in social media optimization services,
-                        Infy360 can help businesses leverage the full potential
-                        of platforms like YouTube and Instagram. We recognize
-                        that 83% of Instagram users discover new products or
-                        services through the platform, with 74% considering them
-                        trustworthy. For YouTube, being the second-largest
-                        search engine with over 5 billion videos consumed daily,
-                        Infy360 can help you reach your audience effectively,
-                        even without a large number of advertising videos.
+                        Brandnest can help businesses leverage the full
+                        potential of platforms like YouTube and Instagram. We
+                        recognize that 83% of Instagram users discover new
+                        products or services through the platform, with 74%
+                        considering them trustworthy. For YouTube, being the
+                        second-largest search engine with over 5 billion videos
+                        consumed daily, Brandnest can help you reach your
+                        audience effectively, even without a large number of
+                        advertising videos.
                       </p>
                       <p className="lead">
-                        Infy360's comprehensive approach to SMO and video SEO
+                        Brandnest's comprehensive approach to SMO and video SEO
                         can help your business create a strong network within
                         your community, engage with established influencers, and
                         effectively use hashtags to boost your brand visibility.
-                        By partnering with Infy360, you can ensure that your
+                        By partnering with Brandnest, you can ensure that your
                         video content not only ranks well on YouTube but also
                         contributes to a robust, multi-platform social media
                         strategy that drives engagement and business growth in

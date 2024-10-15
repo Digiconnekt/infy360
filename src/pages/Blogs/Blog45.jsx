@@ -155,24 +155,24 @@ const Blog45 = () => {
                         and generating qualified leads for your business.
                       </p>
                       <p className="lead">
-                        Infy360, a leading pay-per-click lead generation agency
-                        in India, offers a comprehensive suite of PPC services
-                        tailored to the unique needs of businesses in the
-                        region. With a team of certified Google Ads
+                        Brandnest, a leading pay-per-click lead generation
+                        agency in India, offers a comprehensive suite of PPC
+                        services tailored to the unique needs of businesses in
+                        the region. With a team of certified Google Ads
                         professionals and a proven track record of success,
-                        Infy360 is well-equipped to maximize the impact of your
-                        PPC campaigns.
+                        Brandnest is well-equipped to maximize the impact of
+                        your PPC campaigns.
                       </p>
                       <p className="lead">
-                        The approach at Infy360 begins with a deep understanding
-                        of your business objectives, target audience, and
-                        industry landscape. Through extensive research and
-                        analysis, we develop a customized PPC strategy that
-                        aligns with your goals and leverages the most effective
-                        targeting techniques and ad formats.
+                        The approach at Brandnest begins with a deep
+                        understanding of your business objectives, target
+                        audience, and industry landscape. Through extensive
+                        research and analysis, we develop a customized PPC
+                        strategy that aligns with your goals and leverages the
+                        most effective targeting techniques and ad formats.
                       </p>
                       <p className="lead">
-                        Infy360's expertise extends beyond just campaign setup
+                        Brandnest's expertise extends beyond just campaign setup
                         and management. We also specialize in landing page
                         optimization, conversion rate optimization (CRO), and
                         remarketing strategies, ensuring that every touchpoint
@@ -181,7 +181,7 @@ const Blog45 = () => {
                       </p>
                       <p className="lead">
                         With transparent reporting and open communication,
-                        Infy360 keeps you informed every step of the way,
+                        Brandnest keeps you informed every step of the way,
                         providing valuable insights and data-driven
                         recommendations to continuously refine and improve your
                         PPC campaigns.
@@ -191,7 +191,7 @@ const Blog45 = () => {
                         advertising budget any longer.
                       </p>
                       <p className="lead">
-                        Partner with Infy360, a trusted{" "}
+                        Partner with Brandnest, a trusted{" "}
                         <NavLink to="/services/ppc">
                           Google PPC agency in India
                         </NavLink>

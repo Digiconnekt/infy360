@@ -66,8 +66,8 @@ const Blog35 = () => {
                         visible to potential customers in their immediate
                         vicinity. Enter local SEO – a powerful strategy that can
                         propel your business to the forefront of online searches
-                        and drive targeted traffic to your doorstep. At Infy360,
-                        a leading{" "}
+                        and drive targeted traffic to your doorstep. At
+                        Brandnest, a leading{" "}
                         <a href="../">local SEO company in the USA & Canada,</a>
                         and a reputable digital marketing agency, we understand
                         the complexities of local search optimization and have
@@ -90,8 +90,9 @@ const Blog35 = () => {
                           listing acts as your business's virtual storefront,
                           providing essential information such as your address,
                           business hours, contact details, and reviews. At
-                          Infy360 <b>local SEO company in the USA & Canada,</b>{" "}
-                          we ensure that your GMB listing is accurately claimed,
+                          Brandnest{" "}
+                          <b>local SEO company in the USA & Canada,</b> we
+                          ensure that your GMB listing is accurately claimed,
                           optimized with relevant keywords, and consistently
                           updated with fresh content and high-quality photos. A
                           well-optimized GMB listing can significantly improve
@@ -115,7 +116,7 @@ const Blog35 = () => {
                           platforms. Consistent and accurate citations play a
                           crucial role in local SEO, as they help search engines
                           validate and trust the information about your
-                          business. Infy360's{" "}
+                          business. Brandnest's{" "}
                           <a href="../">digital marketing agency in the USA</a>{" "}
                           has experts who meticulously build and manage your
                           local citations, ensuring that your NAP is consistent
@@ -135,7 +136,7 @@ const Blog35 = () => {
                         <p className="lead">
                           While a strong GMB listing and local citations are
                           essential, optimizing your website for local search is
-                          equally important. Infy360's team of SEO specialists
+                          equally important. Brandnest's team of SEO specialists
                           will conduct a comprehensive audit of your website,
                           identifying opportunities for improvement in areas
                           such as on-page optimization, local keyword
@@ -161,7 +162,7 @@ const Blog35 = () => {
                           decision-making. Positive reviews not only boost your
                           online reputation but also act as a powerful trust
                           signal for search engines, contributing to higher
-                          local search rankings. At Infy360, we implement
+                          local search rankings. At Brandnest, we implement
                           strategies to encourage satisfied customers to leave
                           reviews on platforms like Google, Facebook, and
                           industry-specific review sites. Additionally, we
@@ -183,12 +184,12 @@ const Blog35 = () => {
                           high-quality backlinks from relevant, locally-focused
                           websites. These links act as endorsements, signaling
                           to search engines that your business is authoritative
-                          and trustworthy within your local community. Infy360's
-                          team of link-building experts employs ethical,
-                          white-hat strategies to secure valuable local links
-                          from reputable sources, such as local directories,
-                          community websites, and industry-specific blogs,
-                          further boosting your local search visibility.
+                          and trustworthy within your local community.
+                          Brandnest's team of link-building experts employs
+                          ethical, white-hat strategies to secure valuable local
+                          links from reputable sources, such as local
+                          directories, community websites, and industry-specific
+                          blogs, further boosting your local search visibility.
                         </p>
                         <li className="mb-3" style={{ textAlign: "justify" }}>
                           <i className="flaticon-tick"></i>
@@ -201,8 +202,8 @@ const Blog35 = () => {
                         <p className="lead">
                           Location-based marketing is a powerful tool for
                           reaching customers in your immediate vicinity.
-                          Infy360's local SEO strategies encompass tactics like
-                          geofencing, which allows you to deliver targeted
+                          Brandnest's local SEO strategies encompass tactics
+                          like geofencing, which allows you to deliver targeted
                           advertisements and notifications to mobile users
                           within a defined geographic area. By leveraging
                           location-based marketing, you can capture the
@@ -219,16 +220,16 @@ const Blog35 = () => {
                           </span>{" "}
                         </li>
                         <p className="lead">
-                          At Infy360, we understand that local SEO is an ongoing
-                          process that requires continuous monitoring, analysis,
-                          and optimization. Our team provides detailed reporting
-                          and analytics, allowing you to track the performance
-                          of your local SEO efforts and measure key metrics such
-                          as local search visibility, website traffic, and
-                          conversions. Based on these insights, we continually
-                          refine and adjust our strategies, ensuring that your
-                          business remains competitive and visible in the
-                          ever-evolving local search landscape.
+                          At Brandnest, we understand that local SEO is an
+                          ongoing process that requires continuous monitoring,
+                          analysis, and optimization. Our team provides detailed
+                          reporting and analytics, allowing you to track the
+                          performance of your local SEO efforts and measure key
+                          metrics such as local search visibility, website
+                          traffic, and conversions. Based on these insights, we
+                          continually refine and adjust our strategies, ensuring
+                          that your business remains competitive and visible in
+                          the ever-evolving local search landscape.
                         </p>
                         <h5
                           style={{
@@ -237,14 +238,14 @@ const Blog35 = () => {
                             marginTop: "25px",
                           }}
                         >
-                          Partnering with Infy360 for Local SEO Success
+                          Partnering with Brandnest for Local SEO Success
                         </h5>
                         <p className="lead">
                           As a trusted{" "}
                           <a href="../">
                             local SEO company in the USA & Canada{" "}
                           </a>{" "}
-                          and a reputable digital marketing agency, Infy360
+                          and a reputable digital marketing agency, Brandnest
                           offers a comprehensive suite of local SEO services
                           tailored to the unique needs of your business. Our
                           team of experienced professionals combines in-depth
@@ -252,7 +253,7 @@ const Blog35 = () => {
                           data-driven strategies to deliver measurable results.
                         </p>
                         <p className="lead">
-                          By partnering with Infy360, you gain a competitive
+                          By partnering with Brandnest, you gain a competitive
                           edge in your local market, ensuring that your business
                           is prominently visible to potential customers
                           searching for products or services in your area.
@@ -264,7 +265,7 @@ const Blog35 = () => {
                         </p>
                         <p className="lead">
                           Unlock the full potential of local SEO and dominate
-                          your local market with Infy360. Contact us today to
+                          your local market with Brandnest. Contact us today to
                           schedule a consultation and let our experts craft a
                           customized local SEO strategy that positions your
                           business for success in the digital age.

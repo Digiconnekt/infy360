@@ -153,11 +153,11 @@ const App = () => {
           element={<Blog7 />}
         />
         <Route
-          path="/blogs/from-strategy-to-success:-how-infy360-transforms-your-digital-marketing-journey"
+          path="/blogs/from-strategy-to-success:-how-brandnest-transforms-your-digital-marketing-journey"
           element={<Blog8 />}
         />
         <Route
-          path="/blogs/revolutionizing-digital-marketing:-how-infy360-is-pioneering-the-future-of-customer-engagement"
+          path="/blogs/revolutionizing-digital-marketing:-how-brandnest-is-pioneering-the-future-of-customer-engagement"
           element={<Blog9 />}
         />
         <Route
@@ -169,19 +169,19 @@ const App = () => {
           element={<Blog11 />}
         />
         <Route
-          path="/blogs/infy360-best-seo-agency-in-india-what-makes-us-best"
+          path="/blogs/brandnest-best-seo-agency-in-india-what-makes-us-best"
           element={<Blog12 />}
         />
         <Route
-          path="/blogs/turn-likes-into-leads-infy360s-smo-tactics-for-conversion-success"
+          path="/blogs/turn-likes-into-leads-brandnests-smo-tactics-for-conversion-success"
           element={<Blog13 />}
         />
         <Route
-          path="/blogs/infy360-your-ultimate-content-marketing-agency-partner"
+          path="/blogs/brandnest-your-ultimate-content-marketing-agency-partner"
           element={<Blog14 />}
         />
         <Route
-          path="/blogs/ready-to-dominate-serps-unleash-the-power-of-infy360s-seo-service-for-your-business"
+          path="/blogs/ready-to-dominate-serps-unleash-the-power-of-brandnests-seo-service-for-your-business"
           element={<Blog15 />}
         />
         <Route
@@ -201,7 +201,7 @@ const App = () => {
           element={<Blog19 />}
         />
         <Route
-          path="/blogs/elevate-your-brand-dentity-with-infy360-branding-solutions"
+          path="/blogs/elevate-your-brand-dentity-with-brandnest-branding-solutions"
           element={<Blog20 />}
         />
         <Route

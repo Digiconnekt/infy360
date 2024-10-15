@@ -505,10 +505,10 @@ const Blog60 = () => {
                       </p>
 
                       <h4>
-                        Infy360: Your Partner for Small Business SEO Success
+                        Brandnest: Your Partner for Small Business SEO Success
                       </h4>
                       <p className="lead">
-                        At Infy360, we understand the unique challenges small
+                        At Brandnest, we understand the unique challenges small
                         businesses face when it comes to SEO. As a leading SEO
                         Agency in the UK, we specialize in providing tailored
                         SEO Services in the UK that help small businesses thrive
@@ -616,7 +616,7 @@ const Blog60 = () => {
                       </ul>
 
                       <p className="lead">
-                        By partnering with Infy360 for your SEO needs, you're
+                        By partnering with Brandnest for your SEO needs, you're
                         not just getting an SEO Service in the UK – you're
                         gaining a dedicated team of experts committed to your
                         small business's online success. Let us help you

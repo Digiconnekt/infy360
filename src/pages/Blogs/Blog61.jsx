@@ -248,19 +248,19 @@ const Blog61 = () => {
                       </p>
 
                       <h4>
-                        Infy360 - Your Partner in Instagram Marketing Success
+                        Brandnest - Your Partner in Instagram Marketing Success
                       </h4>
 
                       <p className="lead">
                         As we've explored these powerful Instagram marketing
                         strategies, it's clear that executing a successful
                         campaign requires expertise, time, and resources. This
-                        is where Infy360, a leading social media optimization
+                        is where Brandnest, a leading social media optimization
                         agency in the UK, comes into play.
                       </p>
 
                       <p className="lead">
-                        Infy360 offers comprehensive{" "}
+                        Brandnest offers comprehensive{" "}
                         <NavLink to="/services/social-media-optimization">
                           Instagram Marketing Services
                         </NavLink>{" "}
@@ -274,7 +274,7 @@ const Blog61 = () => {
 
                       <p className="lead">
                         From content creation and scheduling to influencer
-                        partnerships and performance analysis, Infy360 handles
+                        partnerships and performance analysis, Brandnest handles
                         every aspect of your Instagram marketing strategy. We
                         follow a structured process that includes discovery,
                         campaign building, ad creation, and proactive strategy
@@ -283,7 +283,7 @@ const Blog61 = () => {
                       </p>
 
                       <p className="lead">
-                        By partnering with Infy360, you're not just getting an
+                        By partnering with Brandnest, you're not just getting an
                         Instagram marketing service; you're gaining a dedicated
                         team committed to your brand's success on one of the
                         world's most powerful social media platforms. Let us

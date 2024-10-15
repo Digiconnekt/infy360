@@ -266,11 +266,11 @@ const Blog44 = () => {
                         </li>
                       </ul>
 
-                      <h4>Bringing It All Together: The Infy360 Advantage</h4>
+                      <h4>Bringing It All Together: The Brandnest Advantage</h4>
                       <p className="lead">
                         Understanding these KPIs for business is one thing;
                         leveraging them to skyrocket your digital marketing?
-                        That's where Infy360 comes in. As a leading digital
+                        That's where Brandnest comes in. As a leading digital
                         marketing agency, we don't just track these digital
                         marketing KPIs; we breathe life into them.
                       </p>
@@ -285,7 +285,7 @@ const Blog44 = () => {
                         campaigns in real-time for maximum impact.
                       </p>
                       <p className="lead">
-                        But Infy360's real magic? Integration. We understand
+                        But Brandnest's real magic? Integration. We understand
                         that these KPIs don't exist in silos. A drop in
                         conversion rate might signal a need for more engaging
                         content. A high CAC could mean it's time to leverage our
@@ -302,7 +302,7 @@ const Blog44 = () => {
                       </p>
 
                       <h4>
-                        Conclusion: From Metrics to Milestones with Infy360
+                        Conclusion: From Metrics to Milestones with Brandnest
                       </h4>
                       <p className="lead">
                         In the realm of digital marketing, flying blind is not
@@ -313,7 +313,7 @@ const Blog44 = () => {
                       </p>
                       <p className="lead">
                         But data without action is just numbers on a screen.
-                        That's where Infy360 shines. We're not just another
+                        That's where Brandnest shines. We're not just another
                         agency tracking KPIs for business; we're your strategic
                         partner in turning those metrics into milestones. With
                         our expertise, your conversion rates won't just improve;
@@ -324,9 +324,9 @@ const Blog44 = () => {
                       </p>
                       <p className="lead">
                         In a digital landscape that changes by the hour, staying
-                        ahead means staying informed. With Infy360 by your side,
-                        you're not just informed; you're empowered. Our mastery
-                        of{" "}
+                        ahead means staying informed. With Brandnest by your
+                        side, you're not just informed; you're empowered. Our
+                        mastery of{" "}
                         <NavLink to="/services/ppc">
                           digital marketing KPIs
                         </NavLink>{" "}
@@ -339,11 +339,11 @@ const Blog44 = () => {
                         from a guessing game to a growth engine? To turn data
                         points into decision points? To truly ace your business
                         marketing? The path is clear, the tools are in hand, and
-                        Infy360 is ready to guide you every step of the way.
+                        Brandnest is ready to guide you every step of the way.
                         Let's not just meet your KPIs; let's redefine what's
                         possible in your digital journey. The future of your
                         business marketing starts here, with data as your
-                        compass and Infy360 as your navigator. Onward to
+                        compass and Brandnest as your navigator. Onward to
                         unprecedented growth!
                       </p>
                     </div>

@@ -124,7 +124,7 @@ const Packages = () => {
     img: "../images/services/seo/whatIsSeo.png",
     title: "Search Engine Optimization",
     para: [
-      `is a crucial component of any online marketing strategy, and Infy360 recognizes the importance of having a comprehensive and effective SEO plan in place. As a leading digital marketing agency, we provide customized SEO packages tailored to the specific needs and goals of each client.`,
+      `is a crucial component of any online marketing strategy, and Brandnest recognizes the importance of having a comprehensive and effective SEO plan in place. As a leading digital marketing agency, we provide customized SEO packages tailored to the specific needs and goals of each client.`,
 
       `Our SEO package includes a range of services designed to boost a website's search engine rankings, increase website traffic, and improve overall online visibility. These services include:`,
     ],
@@ -135,12 +135,12 @@ const Packages = () => {
     <>
       <Helmet>
         {/* Title */}
-        <title>Infy360 SEO Package | Best SEO Company in India</title>
+        <title>Brandnest SEO Package | Best SEO Company in India</title>
 
         {/* Description */}
         <meta
           name="description"
-          content="Explore Infy360's comprehensive SEO package for unparalleled online visibility. We are the leading SEO company in India, offering a free SEO site audit. "
+          content="Explore Brandnest's comprehensive SEO package for unparalleled online visibility. We are the leading SEO company in India, offering a free SEO site audit. "
         />
       </Helmet>
 
@@ -192,7 +192,7 @@ const Packages = () => {
                   </div>
                   <div className="featured-desc">
                     <p style={{ textAlign: "justify" }}>
-                      Infy360's team of SEO experts optimize the website's
+                      Brandnest's team of SEO experts optimize the website's
                       content, metadata, and HTML tags to make it more search
                       engine-friendly.
                     </p>
@@ -234,7 +234,7 @@ const Packages = () => {
                   </div>
                   <div className="featured-desc">
                     <p style={{ textAlign: "justify" }}>
-                      Infy360's team of professional writers create
+                      Brandnest's team of professional writers create
                       high-quality, engaging, and SEO-friendly content that
                       helps to attract and retain website visitors.
                     </p>
@@ -276,7 +276,7 @@ const Packages = () => {
                   </div>
                   <div className="featured-desc">
                     <p style={{ textAlign: "justify" }}>
-                      Infy360 provides regular reports that track the progress
+                      Brandnest provides regular reports that track the progress
                       of the SEO campaign, including website traffic, keyword
                       rankings, and other metrics.
                     </p>
@@ -286,7 +286,7 @@ const Packages = () => {
 
               <p className="col-12 col-md-8 mx-auto mt-3 mb-0 text-black">
                 Whether the goal is to increase website traffic, generate more
-                leads, or improve online visibility, Infy360 has the expertise
+                leads, or improve online visibility, Brandnest has the expertise
                 and experience to deliver results.
               </p>
             </div>
@@ -1214,7 +1214,7 @@ const Packages = () => {
             <div className="row justify-content-center text-center mb-4">
               <div className="col-lg-8 col-md-12">
                 <div className="section-title mb-0">
-                  <h2 className="title">Benefits of Infy360's SEO Package</h2>
+                  <h2 className="title">Benefits of Brandnest's SEO Package</h2>
                 </div>
               </div>
             </div>
@@ -1233,9 +1233,9 @@ const Packages = () => {
                   </div>
                   <div className="featured-desc">
                     <p style={{ textAlign: "justify" }}>
-                      By improving a website's search engine rankings, Infy360's
-                      SEO package can help to drive more targeted traffic to a
-                      website.
+                      By improving a website's search engine rankings,
+                      Brandnest's SEO package can help to drive more targeted
+                      traffic to a website.
                     </p>
                   </div>
                 </div>
@@ -1254,10 +1254,10 @@ const Packages = () => {
                   </div>
                   <div className="featured-desc">
                     <p style={{ textAlign: "justify" }}>
-                      By optimizing a website's content and structure, Infy360's
-                      SEO package can help to improve a website's online
-                      visibility, making it easier for potential customers to
-                      find it online.
+                      By optimizing a website's content and structure,
+                      Brandnest's SEO package can help to improve a website's
+                      online visibility, making it easier for potential
+                      customers to find it online.
                     </p>
                   </div>
                 </div>
@@ -1276,7 +1276,7 @@ const Packages = () => {
                   </div>
                   <div className="featured-desc">
                     <p style={{ textAlign: "justify" }}>
-                      Infy360's SEO package is designed to improve a website's
+                      Brandnest's SEO package is designed to improve a website's
                       search engine rankings, which can lead to increased brand
                       awareness, credibility, and trust.
                     </p>
@@ -1298,7 +1298,7 @@ const Packages = () => {
                   <div className="featured-desc">
                     <p style={{ textAlign: "justify" }}>
                       By optimizing a website's structure, speed, and content,
-                      Infy360's SEO package can help to improve the user
+                      Brandnest's SEO package can help to improve the user
                       experience, making it easier for visitors to navigate and
                       find the information they need.
                     </p>
@@ -1307,11 +1307,11 @@ const Packages = () => {
               </div>
 
               <p className="col-12 col-md-10 mx-auto mt-3 mb-0 text-black">
-                In conclusion, Infy360's SEO package is a comprehensive and
+                In conclusion, Brandnest's SEO package is a comprehensive and
                 effective solution for businesses looking to improve their
                 online visibility, attract more targeted traffic, and increase
                 their search engine rankings. With a team of experienced SEO
-                experts and a range of customizable services, Infy360 is the
+                experts and a range of customizable services, Brandnest is the
                 ideal partner for businesses looking to succeed online.
               </p>
             </div>

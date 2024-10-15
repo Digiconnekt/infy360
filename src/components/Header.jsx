@@ -26,8 +26,8 @@ const Header = () => {
                     <img
                       id="logo-img"
                       className="img-fluid"
-                      src="../images/infy360-logo-dark.png"
-                      alt="Infy360"
+                      src="../images/brandnest-logo.png"
+                      alt="Brandnest"
                     />
                   </a>
                   {/* logo end */}

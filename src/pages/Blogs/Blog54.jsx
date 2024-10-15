@@ -266,9 +266,9 @@ const Blog54 = () => {
                         </li>
                       </ul>
 
-                      <h5>Infy360’s Lead Generation Success</h5>
+                      <h5>Brandnest’s Lead Generation Success</h5>
                       <p className="lead">
-                        At Infy360, we understand that lead generation is the
+                        At Brandnest, we understand that lead generation is the
                         crucial first step in bringing clients to your business.
                         As a premier
                         <NavLink to={"/services/lead-generation"}>
@@ -288,8 +288,8 @@ const Blog54 = () => {
                         business.
                       </p>
                       <p className="lead">
-                        Infy360 offers a range of services to maximize your lead
-                        generation efforts:
+                        Brandnest offers a range of services to maximize your
+                        lead generation efforts:
                       </p>
                       <ul className="list-unstyled list-icon">
                         <li className="mb-3" style={{ textAlign: "justify" }}>
@@ -367,7 +367,7 @@ const Blog54 = () => {
                         </li>
                       </ul>
                       <p className="lead">
-                        By partnering with Infy360, you're not just getting a
+                        By partnering with Brandnest, you're not just getting a
                         service provider; you're gaining a dedicated team
                         committed to your success in lead generation. Let us
                         help you reach your customers at the right place and at

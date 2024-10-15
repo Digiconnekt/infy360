@@ -18,7 +18,7 @@ const Blog42 = () => {
         {/* Description */}
         <meta
           name="description"
-          content="As an experienced SMO agency, Infy360 can design and implement a comprehensive social media optimization strategy"
+          content="As an experienced SMO agency, Brandnest can design and implement a comprehensive social media optimization strategy"
         />
 
         {/* Keywords */}
@@ -202,14 +202,14 @@ const Blog42 = () => {
                             If you're ready to tap into the immense lead
                             generation potential of social media optimization
                             but lack the internal resources and expertise,
-                            consider partnering with Infy360 - a premier SMO
+                            consider partnering with Brandnest - a premier SMO
                             agency.
                           </p>
                         </li>
                       </ul>
 
                       <p className="lead">
-                        At Infy360, our SMO strategy goes far beyond simply
+                        At Brandnest, our SMO strategy goes far beyond simply
                         creating profiles and posting content sporadically. We
                         take a comprehensive, data-driven approach to maximize
                         the traffic and lead generation impact:
@@ -280,7 +280,7 @@ const Blog42 = () => {
                         presence can be a lucrative source of targeted,
                         high-intent traffic that translates into tangible leads
                         and revenue for your business. Key advantages of
-                        Infy360's SMO service include:
+                        Brandnest's SMO service include:
                       </p>
                       <ul className="list-unstyled list-icon">
                         <li className="mb-3" style={{ textAlign: "justify" }}>
@@ -330,11 +330,11 @@ const Blog42 = () => {
                           SMO traffic lead generation
                         </NavLink>
                         opportunities slip through your fingers. As an
-                        experienced SMO agency, Infy360 can design and implement
-                        a comprehensive social media optimization strategy
-                        tailored to your brand's unique goals. Unlock the power
-                        of this channel and drive a steady stream of targeted
-                        visitors and leads.
+                        experienced SMO agency, Brandnest can design and
+                        implement a comprehensive social media optimization
+                        strategy tailored to your brand's unique goals. Unlock
+                        the power of this channel and drive a steady stream of
+                        targeted visitors and leads.
                       </p>
                     </div>
                   </div>

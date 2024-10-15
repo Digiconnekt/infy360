@@ -7,12 +7,12 @@ const About = () => {
     <>
       <Helmet>
         {/* Title */}
-        <title>Infy360: Leading Online Advertising Company USA</title>
+        <title>Brandnest: Leading Online Advertising Company USA</title>
 
         {/* Description */}
         <meta
           name="description"
-          content="Discover Infy360, a top-tier online advertising company in the USA offering unparalleled digital marketing services in India. Elevate your brand presence and drive success with our innovative solutions."
+          content="Discover Brandnest, a top-tier online advertising company in the USA offering unparalleled digital marketing services in India. Elevate your brand presence and drive success with our innovative solutions."
         />
 
         {/* Keywords */}
@@ -83,7 +83,7 @@ const About = () => {
                   <h6>About Us</h6>
                 </div>
                 <p className="text-black">
-                  Infy360 is an experienced digital marketing company with
+                  Brandnest is an experienced digital marketing company with
                   headquarters in India. Our primary focus is to provide highly
                   efficient designs and functional user interfaces, integrating
                   the latest technologies and frameworks to deliver innovation
@@ -188,9 +188,9 @@ const About = () => {
               <div className="section-title mb-0">
                 <h2 className="title oneLiner">
                   <span>Think </span>
-                  with Infy360 <br />
+                  with Brandnest <br />
                   <span>Grow </span>
-                  with Infy360
+                  with Brandnest
                 </h2>
               </div>
             </div>
@@ -229,7 +229,7 @@ const About = () => {
                     much more.
                   </p>
                   <p className="text-black" style={{ textAlign: "justify" }}>
-                    Infy360 comes as a potent for your digitalization, from
+                    Brandnest comes as a potent for your digitalization, from
                     transforming your visualization to real business innovation
                     and maximizing your ROI. We are ready to serve you with our
                     proficiency!
@@ -379,7 +379,7 @@ const About = () => {
                         style={{ textAlign: "justify" }}
                       >
                         A great tool for boosting your digital marketing
-                        initiatives at Infy360 is the bulk email service. By
+                        initiatives at Brandnest is the bulk email service. By
                         dividing your customers into distinct categories and
                         identifying their demands, we can manage your customers
                         more effectively and raise your conversion rates. By

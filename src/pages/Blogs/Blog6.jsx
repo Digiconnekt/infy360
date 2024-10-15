@@ -139,7 +139,7 @@ const Blog6 = () => {
                           Content Marketing involves several tactics, including
                           blog posts,{" "}
                           <a
-                            href="https://www.instagram.com/infy360/?igshid=YmMyMTA2M2Y%3D"
+                            href="https://www.instagram.com/brandnest/?igshid=YmMyMTA2M2Y%3D"
                             target="_blank"
                             rel="noreferrer"
                           >
@@ -207,7 +207,7 @@ const Blog6 = () => {
                           seamless experience for your audience. Optimizing your
                           content for search engines can help it get discovered,
                           while{" "}
-                          <a href="https://www.instagram.com/infy360/?igshid=YmMyMTA2M2Y%3D">
+                          <a href="https://www.instagram.com/brandnest/?igshid=YmMyMTA2M2Y%3D">
                             creating valuable content
                           </a>{" "}
                           can keep your audience engaged.

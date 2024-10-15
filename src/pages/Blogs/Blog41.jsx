@@ -193,7 +193,7 @@ const Blog41 = () => {
                         <NavLink to={"/services/lead-generation"}>
                           USA Performance Marketing Agencies
                         </NavLink>{" "}
-                        like Infy360 stand as beacons of expertise, guiding
+                        like Brandnest stand as beacons of expertise, guiding
                         businesses through the treacherous waters of lead
                         generation. With their arsenal of proven tactics, we
                         possess the power to transform your business into a
@@ -203,7 +203,7 @@ const Blog41 = () => {
                       </p>
 
                       <p className="lead">
-                        At Infy360, lead generation is priority number one.
+                        At Brandnest, lead generation is priority number one.
                         Their team plans campaigns from start to finish, using
                         research and strategy to deliver authenticated leads.
                         Their pricing is based on leads generated, targeting
@@ -211,7 +211,7 @@ const Blog41 = () => {
                       </p>
 
                       <h5 className="mb-3">
-                        How Infy360 Drives Lead Generation
+                        How Brandnest Drives Lead Generation
                       </h5>
                       <ul className="list-unstyled list-icon">
                         <li className="mb-3" style={{ textAlign: "justify" }}>
@@ -281,7 +281,7 @@ const Blog41 = () => {
                             Success Strategies:
                           </span>{" "}
                           <p className="lead">
-                            Collaboration on sales tactics, with Infy360 as an
+                            Collaboration on sales tactics, with Brandnest as an
                             extension of your team.
                           </p>
                         </li>
@@ -289,7 +289,7 @@ const Blog41 = () => {
 
                       <p className="lead">
                         If you want to dominate lead generation and experience
-                        explosive growth, partner with Infy360. Our expertise
+                        explosive growth, partner with Brandnest. Our expertise
                         will transform your business into an unstoppable
                         lead-generating machine, raining quality prospects and
                         revenue.

@@ -70,9 +70,9 @@ const Blog36 = () => {
                       <p className="lead">
                         As a leading{" "}
                         <a href="../">digital marketing agency in the USA</a>and
-                        a renowned internet marketing agency in the USA, Infy360
-                        recognizes the pivotal role that PR plays in achieving
-                        comprehensive marketing success.
+                        a renowned internet marketing agency in the USA,
+                        Brandnest recognizes the pivotal role that PR plays in
+                        achieving comprehensive marketing success.
                       </p>
                       <p className="lead">
                         In this blog, we'll highlight some of the top PR
@@ -222,7 +222,7 @@ const Blog36 = () => {
                           and cultural fit.
                         </p>
                         <p className="lead">
-                          At Infy360, we understand the value of strategic PR
+                          At Brandnest, we understand the value of strategic PR
                           and how it can complement and enhance our
                           comprehensive digital marketing and{" "}
                           <a href="../">internet marketing services.</a> We work
@@ -239,8 +239,8 @@ const Blog36 = () => {
                         </p>
                         <p className="lead">
                           If you're looking to take your brand to new heights in
-                          2024, don't hesitate to reach out to Infy360. Our team
-                          of experts will be happy to discuss your unique
+                          2024, don't hesitate to reach out to Brandnest. Our
+                          team of experts will be happy to discuss your unique
                           requirements and connect you with the right PR agency
                           to amplify your brand's voice and drive tangible
                           business results.

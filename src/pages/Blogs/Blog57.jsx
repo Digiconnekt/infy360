@@ -324,10 +324,10 @@ const Blog57 = () => {
                         <NavLink to={"/services/ppc"}>
                           Google Ads marketing agency
                         </NavLink>{" "}
-                        like Infy360 can make a real difference.
+                        like Brandnest can make a real difference.
                       </p>
                       <p className="lead">
-                        At Infy360, we specialize in creating and optimizing
+                        At Brandnest, we specialize in creating and optimizing
                         high-performance Google Ads campaigns. Our team of
                         certified experts stays up-to-date with the latest
                         trends and best practices in Google Ads optimization. We
@@ -408,8 +408,8 @@ const Blog57 = () => {
                       </p>
                       <p className="lead">
                         Don't let Google Ads optimization overwhelm you. Let
-                        Infy360 be your partner in navigating the complex world
-                        of paid search advertising. With our expertise and
+                        Brandnest be your partner in navigating the complex
+                        world of paid search advertising. With our expertise and
                         dedication, we'll help you create campaigns that not
                         only meet but exceed your marketing goals. Contact us
                         today to discover how we can transform your Google Ads

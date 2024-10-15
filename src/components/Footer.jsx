@@ -20,7 +20,7 @@ const Footer = () => {
   const payload = {
     email: formData.email,
 
-    organisation: "infy360",
+    organisation: "brandnest",
     messageFrom: window.location.href + ` - footer`,
   };
 
@@ -76,13 +76,13 @@ const Footer = () => {
                     <a href="/" style={{ display: "block", maxWidth: "180px" }}>
                       <img
                         className="img-fluid"
-                        src="../images/infy360-logo-light.png"
-                        alt="Infy360"
+                        src="../images/brandnest-logo-light.png"
+                        alt="Brandnest"
                       />
                     </a>
                   </div>
                   <p className="mb-3">
-                    Infy360 is an experienced digital marketing company with
+                    Brandnest is an experienced digital marketing company with
                     headquarters in India. Our primary focus is to provide
                     highly efficient designs and functional user interfaces,
                     integrating the latest technologies and frameworks to
@@ -98,7 +98,7 @@ const Footer = () => {
                     <ul className="list-inline">
                       <li className="social-facebook">
                         <a
-                          href="https://www.facebook.com/Infy360/"
+                          href="https://www.facebook.com/Brandnest/"
                           target="_blank"
                           rel="noreferrer"
                         >
@@ -107,7 +107,7 @@ const Footer = () => {
                       </li>
                       <li className="social-instagram">
                         <a
-                          href="https://www.instagram.com/infy360/"
+                          href="https://www.instagram.com/brandnest/"
                           target="_blank"
                           rel="noreferrer"
                         >
@@ -116,7 +116,7 @@ const Footer = () => {
                       </li>
                       <li className="social-linkedin">
                         <a
-                          href="https://www.linkedin.com/company/infy360/mycompany/"
+                          href="https://www.linkedin.com/company/brandnest/mycompany/"
                           target="_blank"
                           rel="noreferrer"
                         >
@@ -125,7 +125,7 @@ const Footer = () => {
                       </li>
                       <li className="social-twitter">
                         <a
-                          href="https://twitter.com/Infy360"
+                          href="https://twitter.com/Brandnest"
                           target="_blank"
                           rel="noreferrer"
                         >
@@ -212,7 +212,9 @@ const Footer = () => {
                         </p>
                       </li>
                       <li>
-                        <a href="mailto:info@infy360.com">info@infy360.com</a>
+                        <a href="mailto:info@brandnest.com">
+                          info@brandnest.com
+                        </a>
                       </li>
                       <li>
                         <a
@@ -276,7 +278,7 @@ const Footer = () => {
                 </div>
                 <div className="col-md-6 text-md-end sm-mt-2">
                   <span>
-                    <a href="/">Infy360</a>
+                    <a href="/">Brandnest</a>
                   </span>
                 </div>
               </div>

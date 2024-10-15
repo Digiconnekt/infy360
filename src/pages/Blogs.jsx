@@ -17,7 +17,7 @@ const Blogs = () => {
         {/* Description */}
         <meta
           name="description"
-          content="Explore innovative insights and strategies on Infy360's blogs, your go-to resource for online advertising excellence. Elevate your brand with the top internet marketing agency in USA and India."
+          content="Explore innovative insights and strategies on Brandnest's blogs, your go-to resource for online advertising excellence. Elevate your brand with the top internet marketing agency in USA and India."
         />
 
         {/* Keywords */}

@@ -1,4 +1,4 @@
-// blog9 === Revolutionizing Digital Marketing: How Infy360 is Pioneering the Future of Customer Engagement
+// blog9 === Revolutionizing Digital Marketing: How Brandnest is Pioneering the Future of Customer Engagement
 
 import React from "react";
 import { Helmet } from "react-helmet-async";
@@ -11,7 +11,7 @@ const Blog12 = () => {
     <>
       <Helmet>
         {/* Title */}
-        <title>Infy360 - Best SEO Agency in India. What Makes Us Best?</title>
+        <title>Brandnest - Best SEO Agency in India. What Makes Us Best?</title>
 
         {/* Description */}
         <meta
@@ -27,7 +27,7 @@ const Blog12 = () => {
       </Helmet>
 
       {/* title section start */}
-      <TitleSection title="Infy360 - Best SEO Agency in India. What Makes Us Best?" />
+      <TitleSection title="Brandnest - Best SEO Agency in India. What Makes Us Best?" />
       {/* title section end */}
 
       {/* page content start */}
@@ -53,7 +53,7 @@ const Blog12 = () => {
                       </div>
                       <div className="post-title">
                         <h2>
-                          Infy360 - Best SEO Agency in India. What Makes Us
+                          Brandnest - Best SEO Agency in India. What Makes Us
                           Best?
                         </h2>
                       </div>
@@ -64,33 +64,35 @@ const Blog12 = () => {
                         constantly changing trends and algorithms, availing
                         <b>Search Engine Optimization services</b> is more of a
                         necessity factor for the brand and business.
-                        Establishing a strong relationship with Infy360 assures
-                        good visibility and traffic to the webpage of your
-                        business. The Infy360 is the best{" "}
+                        Establishing a strong relationship with Brandnest
+                        assures good visibility and traffic to the webpage of
+                        your business. The Brandnest is the best{" "}
                         <a href="../services">SEO agency in India</a> to partner
                         up with for the{" "}
                         <b>Search Engine Optimisation Service</b>.
                       </p>
 
-                      <h5>What makes Infy360 the best SEO Agency in India?</h5>
+                      <h5>
+                        What makes Brandnest the best SEO Agency in India?
+                      </h5>
                       <p className="lead">
                         With years of experience and expertise in the field of
-                        digital marketing, Infy360 incorporates both efficient
+                        digital marketing, Brandnest incorporates both efficient
                         and innovative functions to guarantee a hundred per cent
                         user satisfaction.
                       </p>
                       <p className="lead">
-                        Infy360, the <b>SEO Agency in India</b> makes use of the
-                        latest technologies and tools to extensively study and
-                        analyze to bring your business to the forefront.
+                        Brandnest, the <b>SEO Agency in India</b> makes use of
+                        the latest technologies and tools to extensively study
+                        and analyze to bring your business to the forefront.
                       </p>
 
                       <h5>
-                        What does Infy360 have to offer in Search Engine
+                        What does Brandnest have to offer in Search Engine
                         Optimization services?
                       </h5>
                       <p className="lead">
-                        Infy360 provides a wide range of digital marketing
+                        Brandnest provides a wide range of digital marketing
                         services like Search Engine Optimization, Social Media
                         Optimization, Email marketing, Content marketing, etc.
                       </p>
@@ -106,7 +108,7 @@ const Blog12 = () => {
                         interact with your business.
                       </p>
                       <p className="lead">
-                        Infy360 is the best <b>SEO Agency in India</b> that
+                        Brandnest is the best <b>SEO Agency in India</b> that
                         employs top-notch SEO strategies for brands, to bring
                         the website to the top of the Google search, thereby
                         increasing user engagement.
@@ -124,7 +126,7 @@ const Blog12 = () => {
                           >
                             Data :
                           </span>{" "}
-                          Infy360 focuses on inviting the most organic traffic
+                          Brandnest focuses on inviting the most organic traffic
                           to your webpage. This will enhance the visibility and
                           increase the engagement.
                         </li>
@@ -135,20 +137,20 @@ const Blog12 = () => {
                           >
                             Results:
                           </span>{" "}
-                          Infy360 primarily aims to find popular, less
+                          Brandnest primarily aims to find popular, less
                           competitive keywords that are accessible to the users
                           easily. SEO experts at the best{" "}
                           <a href="../">SEO Agency in India</a> provide
                           backlinks to important websites to move them further
                           in the Google search results. The
-                          <b>Search Engine Optimization services</b> at Infy360
-                          also target location-specific users by providing local
-                          SEO services.
+                          <b>Search Engine Optimization services</b> at
+                          Brandnest also target location-specific users by
+                          providing local SEO services.
                           <br />
                         </li>
                       </ul>
                       <p className="lead">
-                        Infy360, the <b>SEO Agency in India</b> is the best in
+                        Brandnest, the <b>SEO Agency in India</b> is the best in
                         the field for the expert team and high-quality services
                         they offer. They study and analyse the views, bounce
                         rate, outbounds, backlinks and every key aspect related

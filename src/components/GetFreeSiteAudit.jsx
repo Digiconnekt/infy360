@@ -23,7 +23,7 @@ const GetFreeSiteAudit = () => {
     email: formData.email,
     websiteLink: formData.websiteLink,
 
-    organisation: "infy360",
+    organisation: "brandnest",
     messageFrom: window.location.href,
   };
 

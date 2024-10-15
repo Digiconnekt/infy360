@@ -285,27 +285,27 @@ const Blog51 = () => {
                         <NavLink to={"/services/social-media-optimization"}>
                           social media optimization agency in the UK
                         </NavLink>{" "}
-                        like Infy360 can be a game-changer. Infy360 offers
+                        like Brandnest can be a game-changer. Brandnest offers
                         comprehensive social media optimization services
                         tailored to the unique needs of small businesses in
                         2024's digital landscape.
                       </p>
 
                       <p className="lead">
-                        Infy360 understands that Social Media Optimization (SMO)
-                        is not just about technical aspects but encompasses a
-                        holistic approach to various marketing platforms. Our
-                        expertise spans major social networks, including
-                        Facebook, Instagram, LinkedIn, and YouTube, ensuring
-                        that your business leverages the full potential of each
-                        platform.
+                        Brandnest understands that Social Media Optimization
+                        (SMO) is not just about technical aspects but
+                        encompasses a holistic approach to various marketing
+                        platforms. Our expertise spans major social networks,
+                        including Facebook, Instagram, LinkedIn, and YouTube,
+                        ensuring that your business leverages the full potential
+                        of each platform.
                       </p>
 
                       <p className="lead">
-                        What sets Infy360 apart is their data-driven approach to
-                        SMO. Our focus on increasing brand visibility, driving
-                        traffic to your website through new channels, and
-                        creating engaging content that resonates with your
+                        What sets Brandnest apart is their data-driven approach
+                        to SMO. Our focus on increasing brand visibility,
+                        driving traffic to your website through new channels,
+                        and creating engaging content that resonates with your
                         target audience. Our team of experts can help you
                         optimize your social media profiles, create shareable
                         content, and implement strategies to encourage inbound
@@ -313,7 +313,7 @@ const Blog51 = () => {
                       </p>
 
                       <p className="lead">
-                        By choosing Infy360 as your social media optimization
+                        By choosing Brandnest as your social media optimization
                         partner, you're not just getting a service provider;
                         you're gaining a collaborator who understands the
                         nuances of social media marketing in 2024. Our

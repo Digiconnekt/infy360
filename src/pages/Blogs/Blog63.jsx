@@ -17,7 +17,7 @@ const Blog63 = () => {
         {/* Description */}
         <meta
           name="description"
-          content="In recent years, the digital landscape has undergone a significant transformation, with social media platforms increasingly becoming the go-to source for information, entertainment, and even product searches. This shift has profound implications for Search Engine Optimization (SEO) strategies, challenging businesses and marketers to adapt their approaches. As the best SEO agency in India, Infy360 recognizes the importance of evolving with these changes to provide expert SEO services that deliver results in this new paradigm."
+          content="In recent years, the digital landscape has undergone a significant transformation, with social media platforms increasingly becoming the go-to source for information, entertainment, and even product searches. This shift has profound implications for Search Engine Optimization (SEO) strategies, challenging businesses and marketers to adapt their approaches. As the best SEO agency in India, Brandnest recognizes the importance of evolving with these changes to provide expert SEO services that deliver results in this new paradigm."
         />
 
         {/* Keywords */}
@@ -69,7 +69,7 @@ const Blog63 = () => {
                         profound implications for Search Engine Optimization
                         (SEO) strategies, challenging businesses and marketers
                         to adapt their approaches. As the best SEO agency in
-                        India, Infy360 recognizes the importance of evolving
+                        India, Brandnest recognizes the importance of evolving
                         with these changes to provide{" "}
                         <NavLink to="/services/search-engine-optimization">
                           expert SEO services
@@ -198,7 +198,7 @@ const Blog63 = () => {
                         a significant change in how users discover and interact
                         with content online. For businesses looking to maintain
                         and improve their digital presence, partnering with an
-                        expert SEO service provider like Infy360 is more
+                        expert SEO service provider like Brandnest is more
                         important than ever. By embracing this new paradigm and
                         adopting a holistic approach to SEO that incorporates
                         both traditional and social strategies, businesses can
@@ -207,7 +207,7 @@ const Blog63 = () => {
                       </p>
 
                       <p className="lead">
-                        As the digital world evolves, Infy360 stands at the
+                        As the digital world evolves, Brandnest stands at the
                         forefront of SEO innovation, helping businesses navigate
                         the complex intersection of traditional search and
                         social media. As the{" "}
@@ -221,13 +221,13 @@ const Blog63 = () => {
                       <h4>Our Approach</h4>
 
                       <p className="lead">
-                        At Infy360, we understand that effective SEO in today's
-                        landscape requires a multifaceted approach. Our team of
-                        experts combines deep knowledge of traditional SEO
-                        techniques with cutting-edge strategies for social media
-                        optimization. We believe in a data-driven approach,
-                        constantly analyzing key metrics to refine and improve
-                        our strategies.
+                        At Brandnest, we understand that effective SEO in
+                        today's landscape requires a multifaceted approach. Our
+                        team of experts combines deep knowledge of traditional
+                        SEO techniques with cutting-edge strategies for social
+                        media optimization. We believe in a data-driven
+                        approach, constantly analyzing key metrics to refine and
+                        improve our strategies.
                       </p>
 
                       <h4>Comprehensive Services</h4>
@@ -287,7 +287,7 @@ const Blog63 = () => {
                         </li>
                       </ul>
 
-                      <h4>Why Choose Infy360?</h4>
+                      <h4>Why Choose Brandnest?</h4>
                       <ul className="list-unstyled list-icon">
                         <li className="mb-3" style={{ textAlign: "justify" }}>
                           <i className="flaticon-tick"></i>
@@ -357,7 +357,7 @@ const Blog63 = () => {
                       </ul>
 
                       <p className="lead">
-                        By choosing Infy360, you're partnering with a
+                        By choosing Brandnest, you're partnering with a
                         forward-thinking agency that understands the evolving
                         nature of SEO. We're committed to helping your business
                         thrive in this new digital landscape, leveraging both

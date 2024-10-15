@@ -254,38 +254,38 @@ const Blog49 = () => {
                       <p className="lead">
                         When it comes to implementing effective enterprise
                         marketing strategies, partnering with a specialized
-                        Enterprise Marketing Agency like Infy360 can make all
+                        Enterprise Marketing Agency like Brandnest can make all
                         the difference. As a leading provider{" "}
                         <NavLink to={"/about-us"}>
                           Enterprise Marketing Services
                         </NavLink>
-                        , Infy360 offers a comprehensive suite of solutions
+                        , Brandnest offers a comprehensive suite of solutions
                         tailored to the unique needs of large-scale
                         organizations.
                       </p>
 
                       <p className="lead">
-                        Infy360's team of industry experts brings a data-driven
-                        approach to enterprise marketing, leveraging advanced
-                        analytics and cutting-edge technologies to deliver
-                        measurable results. Our services encompass the full
-                        spectrum of enterprise marketing needs, from developing
-                        unified brand strategies to implementing omnichannel
-                        marketing campaigns and optimizing marketing technology
-                        stacks.
+                        Brandnest's team of industry experts brings a
+                        data-driven approach to enterprise marketing, leveraging
+                        advanced analytics and cutting-edge technologies to
+                        deliver measurable results. Our services encompass the
+                        full spectrum of enterprise marketing needs, from
+                        developing unified brand strategies to implementing
+                        omnichannel marketing campaigns and optimizing marketing
+                        technology stacks.
                       </p>
 
                       <p className="lead">
-                        What sets Infy360 apart is our commitment to staying
+                        What sets Brandnest apart is our commitment to staying
                         ahead of industry trends and the ability to adapt
                         strategies to the ever-changing digital landscape. By
-                        partnering with Infy360, enterprises can benefit from
+                        partnering with Brandnest, enterprises can benefit from
                         our deep expertise in areas such as content marketing at
                         scale, personalization, and agile marketing practices.
                       </p>
 
                       <p className="lead">
-                        Furthermore, Infy360's global perspective and local
+                        Furthermore, Brandnest's global perspective and local
                         market insights make them an ideal partner for
                         enterprises looking to balance global brand consistency
                         with local market relevance. Our result-oriented
@@ -298,7 +298,7 @@ const Blog49 = () => {
                       <p className="lead">
                         In conclusion, as enterprise marketing continues to
                         evolve, partnering with a specialized agency like
-                        Infy360 can provide the expertise, resources, and
+                        Brandnest can provide the expertise, resources, and
                         innovative solutions needed to stay competitive in
                         today's complex business environment.
                       </p>

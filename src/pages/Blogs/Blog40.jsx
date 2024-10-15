@@ -279,7 +279,7 @@ const Blog40 = () => {
                       </p>
 
                       <p className="lead">
-                        At Infy360, we understand the importance of staying
+                        At Brandnest, we understand the importance of staying
                         ahead in the ever-changing SEO landscape. That's why we
                         offer a complimentary website audit to help businesses
                         like yours identify potential weak points and

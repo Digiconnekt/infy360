@@ -72,8 +72,9 @@ const Blog28 = () => {
                         play, offering a powerful approach to building trust,
                         engaging audiences, and driving sales. As a leading{" "}
                         <a href="../">digital marketing agency in the USA</a>
-                        Infy360 understands the importance of utilizing digital
-                        PR to help businesses thrive in the digital realm.
+                        Brandnest understands the importance of utilizing
+                        digital PR to help businesses thrive in the digital
+                        realm.
                       </p>
 
                       <h5
@@ -164,7 +165,7 @@ const Blog28 = () => {
                         </li>
                         <p className="lead">
                           As one of the top lead generation companies in the
-                          USA, Infy360 understands the importance of
+                          USA, Brandnest understands the importance of
                           cost-effective strategies for driving quality leads.
                           Digital PR can be a powerful tool for lead generation,
                           as it creates opportunities for potential customers to
@@ -232,12 +233,12 @@ const Blog28 = () => {
                           marginTop: "25px",
                         }}
                       >
-                        Partnering with Infy360 for Effective Digital PR
+                        Partnering with Brandnest for Effective Digital PR
                       </h5>
                       <p className="lead">
                         As a trusted{" "}
                         <a href="../">digital marketing agency in the USA,</a>{" "}
-                        Infy360 understands the complexities of digital PR and
+                        Brandnest understands the complexities of digital PR and
                         tackles it with ease. Our team of experienced
                         professionals specializes in crafting comprehensive
                         digital PR strategies tailored to your unique business
@@ -250,7 +251,7 @@ const Blog28 = () => {
                           marginTop: "25px",
                         }}
                       >
-                        By partnering with Infy360, brands can benefit from;
+                        By partnering with Brandnest, brands can benefit from;
                       </h5>
                       <ul className="list-unstyled list-icon">
                         <li className="mb-3" style={{ textAlign: "justify" }}>
@@ -293,7 +294,7 @@ const Blog28 = () => {
                           </span>{" "}
                         </li>
                         <p className="lead">
-                          Infy360's extensive network of industry influencers
+                          Brandnest's extensive network of industry influencers
                           and online publications enables us to facilitate
                           valuable partnerships and collaborations that can
                           significantly boost your brand's credibility and
@@ -332,7 +333,7 @@ const Blog28 = () => {
                       </ul>
                       <p className="lead">
                         By leveraging the power of digital PR and{" "}
-                        <a href="../"> partnering with Infy360,</a> you can
+                        <a href="../"> partnering with Brandnest,</a> you can
                         build trust, engage with your target audience, and drive
                         sales in the digital landscape.
                       </p>

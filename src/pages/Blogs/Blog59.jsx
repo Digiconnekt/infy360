@@ -270,27 +270,27 @@ const Blog59 = () => {
                         marketing investments.
                       </p>
                       <p className="lead">
-                        As a leading programmatic ad agency in the USA, Infy360
-                        is dedicated to helping businesses maximize their ROI
-                        through cutting-edge programmatic advertising
+                        As a leading programmatic ad agency in the USA,
+                        Brandnest is dedicated to helping businesses maximize
+                        their ROI through cutting-edge programmatic advertising
                         strategies. Our team of experts combines unrivaled
                         services with the latest technologies to improve your
                         ROI, data analysis, campaign performance, and overall
                         marketing strategies.
                       </p>
                       <p className="lead">
-                        At Infy360, we understand that programmatic advertising
-                        can seem complex, with terms like RTB, DSP, and SSP
-                        often causing confusion. That's why we're committed to
-                        demystifying the process and showing you how
-                        programmatic ad tech can revolutionize your marketing
-                        efforts. Our approach focuses on using sophisticated
-                        algorithms to place your ads in front of the right
-                        audience at the right time, ensuring maximum impact and
-                        efficiency.
+                        At Brandnest, we understand that programmatic
+                        advertising can seem complex, with terms like RTB, DSP,
+                        and SSP often causing confusion. That's why we're
+                        committed to demystifying the process and showing you
+                        how programmatic ad tech can revolutionize your
+                        marketing efforts. Our approach focuses on using
+                        sophisticated algorithms to place your ads in front of
+                        the right audience at the right time, ensuring maximum
+                        impact and efficiency.
                       </p>
                       <p className="lead">
-                        Key Benefits of Partnering with Infy360:
+                        Key Benefits of Partnering with Brandnest:
                       </p>
                       <ul className="list-unstyled list-icon">
                         <li className="mb-3" style={{ textAlign: "justify" }}>
@@ -393,7 +393,7 @@ const Blog59 = () => {
                       </ul>
 
                       <p className="lead">
-                        By choosing Infy360 as your{" "}
+                        By choosing Brandnest as your{" "}
                         <NavLink to={"/services/programmatic-advertising"}>
                           programmatic ad agency in the USA
                         </NavLink>
@@ -406,7 +406,7 @@ const Blog59 = () => {
                         landscape.
                       </p>
                       <p className="lead">
-                        Let Infy360 be your guide in navigating the world of
+                        Let Brandnest be your guide in navigating the world of
                         programmatic advertising, and together, we'll unlock new
                         levels of marketing success and ROI for your business.
                       </p>

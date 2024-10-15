@@ -24,7 +24,7 @@ const ProgramLanding = () => {
     email: formData.email,
     mobile: formData.mobile,
 
-    organisation: "infy360",
+    organisation: "brandnest",
     messageFrom: window.location.href,
   };
 
@@ -71,7 +71,7 @@ const ProgramLanding = () => {
   return (
     <>
       {/* title section start */}
-      <TitleSection title="Welcome to Infy360's Student Ambassador Programme!" />
+      <TitleSection title="Welcome to Brandnest's Student Ambassador Programme!" />
       {/* title section end */}
 
       <section
@@ -248,7 +248,7 @@ const ProgramLanding = () => {
                   </div>
                   <p className="mb-0">
                     This programme offers a unique chance for the best performer
-                    to be Infy360’s Student Ambassador.
+                    to be Brandnest’s Student Ambassador.
                   </p>
                 </div>
               </div>
@@ -278,7 +278,7 @@ const ProgramLanding = () => {
           <div className="col-lg-12 col-md-12">
             <div className="section-title mb-0">
               <h2 className="title oneLiner">
-                Join the Infy360 <br />{" "}
+                Join the Brandnest <br />{" "}
                 <span>Student Ambassador Programme</span> <br /> today and
                 unlock a world of possibilities.
               </h2>

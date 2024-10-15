@@ -66,7 +66,7 @@ const Blog32 = () => {
                       <p>
                         As a growing{" "}
                         <a href="../">digital marketing agency in the USA, </a>
-                        Infy360 understands the critical role competitor
+                        Brandnest understands the critical role competitor
                         research plays in developing impactful marketing
                         strategies that resonate and deliver results.{" "}
                       </p>
@@ -265,7 +265,7 @@ const Blog32 = () => {
                           evaluations on an ongoing basis maintain a strong
                           strategic advantage over stagnant competitors. If you
                           Want to accelerate your competitive edge, connect with
-                          the research and marketing experts at Infy360’s{" "}
+                          the research and marketing experts at Brandnest’s{" "}
                           <a href="../">internet marketing agency in USA,</a>{" "}
                           today!
                         </p>

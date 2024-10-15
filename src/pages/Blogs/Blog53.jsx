@@ -279,24 +279,24 @@ const Blog53 = () => {
                         </li>
                       </ul>
 
-                      <h5>Partnering with Infy360 for PPC Success</h5>
+                      <h5>Partnering with Brandnest for PPC Success</h5>
 
                       <p className="lead">
                         While these solutions can significantly improve your ad
                         performance, implementing them effectively requires
                         expertise and continuous effort. This is where
                         partnering with a seasoned PPC Marketing Agency like
-                        Infy360 can make all the difference.
+                        Brandnest can make all the difference.
                       </p>
                       <p className="lead">
-                        Infy360 specializes in paid digital media optimization,
-                        offering comprehensive PPC services across multiple
-                        platforms. Our team of experts understands the nuances
-                        of PPC advertising and stays up-to-date with the latest
-                        trends and best practices.
+                        Brandnest specializes in paid digital media
+                        optimization, offering comprehensive PPC services across
+                        multiple platforms. Our team of experts understands the
+                        nuances of PPC advertising and stays up-to-date with the
+                        latest trends and best practices.
                       </p>
                       <p className="lead">
-                        By working with Infy360, you benefit from:
+                        By working with Brandnest, you benefit from:
                       </p>
                       <ul className="ps-5">
                         <li>Advanced audience targeting strategies</li>
@@ -312,7 +312,7 @@ const Blog53 = () => {
                       </ul>
 
                       <p className="lead">
-                        Infy360's approach goes beyond just running ads. We
+                        Brandnest's approach goes beyond just running ads. We
                         focus on creating cohesive strategies that align with
                         your business goals and target audience. Our commitment
                         to data-driven decision-making ensures that your PPC
@@ -321,7 +321,7 @@ const Blog53 = () => {
 
                       <p className="lead">
                         Don't let underperforming ads hold your business back.
-                        Partner with Infy360 to unlock the full potential of
+                        Partner with Brandnest to unlock the full potential of
                         your PPC campaigns and start seeing the conversions you
                         deserve. With our expertise, you can transform your
                         digital advertising from a source of frustration into a

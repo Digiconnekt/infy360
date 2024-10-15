@@ -8,7 +8,7 @@ export const blogsData = [
     },
     title: "How Combining SEO and CRO Can Supercharge Your Digital Strategy?",
     content:
-      "In the ever-evolving digital landscape, businesses are constantly seeking ways to enhance their online presence and drive conversions. Two powerful strategies that, when combined, can significantly boost your digital marketing efforts are Search Engine Optimization (SEO) and Conversion Rate Optimization (CRO). As a leading provider of Search Engine Optimization Services, Infy360 understands the synergy between these two approaches and how they can supercharge your digital strategy......",
+      "In the ever-evolving digital landscape, businesses are constantly seeking ways to enhance their online presence and drive conversions. Two powerful strategies that, when combined, can significantly boost your digital marketing efforts are Search Engine Optimization (SEO) and Conversion Rate Optimization (CRO). As a leading provider of Search Engine Optimization Services, Brandnest understands the synergy between these two approaches and how they can supercharge your digital strategy......",
     img: "../images/blog/blog64.jpeg",
   },
   {
@@ -21,7 +21,7 @@ export const blogsData = [
     title:
       "The Shift from Search Engines to Social Media: A New Paradigm for SEO",
     content:
-      "In recent years, the digital landscape has undergone a significant transformation, with social media platforms increasingly becoming the go-to source for information, entertainment, and even product searches. This shift has profound implications for Search Engine Optimization (SEO) strategies, challenging businesses and marketers to adapt their approaches. As the best SEO agency in India, Infy360 recognizes the importance of evolving with these changes to provide expert SEO services that deliver results in this new paradigm......",
+      "In recent years, the digital landscape has undergone a significant transformation, with social media platforms increasingly becoming the go-to source for information, entertainment, and even product searches. This shift has profound implications for Search Engine Optimization (SEO) strategies, challenging businesses and marketers to adapt their approaches. As the best SEO agency in India, Brandnest recognizes the importance of evolving with these changes to provide expert SEO services that deliver results in this new paradigm......",
     img: "../images/blog/blog63.jpeg",
   },
   {
@@ -320,7 +320,7 @@ export const blogsData = [
     title:
       "Decoding Technical SEO: Insider Tips from the Best Agency in the UK",
     content:
-      "Greetings, SEO enthusiasts and digital marketing aficionados! This is Infy360, the best SEO Agency in the UK, coming at you with an insider's guide to the mystical realm of technical SEO...",
+      "Greetings, SEO enthusiasts and digital marketing aficionados! This is Brandnest, the best SEO Agency in the UK, coming at you with an insider's guide to the mystical realm of technical SEO...",
     img: "../images/blog/blog39.png",
   },
   {
@@ -442,7 +442,7 @@ export const blogsData = [
     title:
       "10 Proven Techniques to Encourage Customers to Write Positive Reviews",
     content:
-      "As a leading Local SEO Company in the USA & Canada, Infy360 understands the invaluable impact that positive customer reviews can have on a business's online reputation and .........",
+      "As a leading Local SEO Company in the USA & Canada, Brandnest understands the invaluable impact that positive customer reviews can have on a business's online reputation and .........",
     img: "../images/blog/blog29.jpg",
   },
   {
@@ -545,12 +545,12 @@ export const blogsData = [
   },
   {
     id: 20,
-    path: "elevate-your-brand-dentity-with-infy360-branding-solutions",
+    path: "elevate-your-brand-dentity-with-brandnest-branding-solutions",
     fullDate: {
       date: "15",
       monthYr: "Mar 2024",
     },
-    title: "Elevate Your Brand Identity with Infy360 Branding Solutions",
+    title: "Elevate Your Brand Identity with Brandnest Branding Solutions",
     content:
       "Building a solid brand identity is essential for success in the cutthroat corporate world of today. A strong brand identity not only helps you stand out from the competition but also connects with your target market, building loyalty and trust. .........",
     img: "../images/blog/blog20.jpg",
@@ -608,50 +608,50 @@ export const blogsData = [
   },
   {
     id: 15,
-    path: "ready-to-dominate-serps-unleash-the-power-of-infy360s-seo-service-for-your-business",
+    path: "ready-to-dominate-serps-unleash-the-power-of-brandnests-seo-service-for-your-business",
     fullDate: {
       date: "29",
       monthYr: "Feb 2024",
     },
     title:
-      "Ready to Dominate SERPs? Unleash the Power of Infy360's SEO Service For Your Business",
+      "Ready to Dominate SERPs? Unleash the Power of Brandnest's SEO Service For Your Business",
     content:
       "Welcome to the world of Search Engine Optimization Service, where your company can achieve limitless success through careful selection of keywords. The rules of the game have changed in this era of digital domination...",
     img: "../images/blog/blog15.jpg",
   },
   {
     id: 14,
-    path: "infy360-your-ultimate-content-marketing-agency-partner",
+    path: "brandnest-your-ultimate-content-marketing-agency-partner",
     fullDate: {
       date: "28",
       monthYr: "Feb 2024",
     },
-    title: "Infy360: Your Ultimate Content Marketing Agency Partner",
+    title: "Brandnest: Your Ultimate Content Marketing Agency Partner",
     content:
       "Content marketing is an advertising strategy that involves producing and disseminating pieces of content, including emails, videos, social media postings, and articles, to build audiences, create authority, raise brand awareness...",
     img: "../images/blog/blog14.jpg",
   },
   {
     id: 13,
-    path: "turn-likes-into-leads-infy360s-smo-tactics-for-conversion-success",
+    path: "turn-likes-into-leads-brandnests-smo-tactics-for-conversion-success",
     fullDate: {
       date: "26",
       monthYr: "Feb 2024",
     },
     title:
-      "Turn Likes into Leads: Infy360's SMO Tactics for Conversion Success",
+      "Turn Likes into Leads: Brandnest's SMO Tactics for Conversion Success",
     content:
       "SMO involves altering your material to fit the features and preferences of the users of each social media platform. Social Media Optimization Service in UK is similar to tailoring your product to the interests and tastes of the customers at...",
     img: "../images/blog/blog13.jpg",
   },
   {
     id: 12,
-    path: "infy360-best-seo-agency-in-india-what-makes-us-best",
+    path: "brandnest-best-seo-agency-in-india-what-makes-us-best",
     fullDate: {
       date: "22",
       monthYr: "Feb 2024",
     },
-    title: "Infy360 - Best SEO Agency in India. What Makes Us Best?",
+    title: "Brandnest - Best SEO Agency in India. What Makes Us Best?",
     content:
       "Search Engine Optimization is integral to building a business because it enhances visibility and drives organic traffic to the website. In this era of constantly changing trends and algorithms, availing Search Engine Optimization services...",
     img: "../images/blog/blog12.jpg",
@@ -676,33 +676,33 @@ export const blogsData = [
       date: "01",
       monthYr: "Feb 2024",
     },
-    title: "Infy360: A Game-Changer in Email Marketing Service",
+    title: "Brandnest: A Game-Changer in Email Marketing Service",
     content:
       "For companies looking to establish and sustain a strong online presence, staying ahead of the curve in the ever evolving digital marketing is essential. Email marketing is an essential component of this, an effective tool that has developed over time...",
     img: "../images/blog/blog10.jpeg",
   },
   {
     id: 9,
-    path: "revolutionizing-digital-marketing:-how-infy360-is-pioneering-the-future-of-customer-engagement",
+    path: "revolutionizing-digital-marketing:-how-brandnest-is-pioneering-the-future-of-customer-engagement",
     fullDate: {
       date: "28",
       monthYr: "July 2023",
     },
     title:
-      "Revolutionizing Digital Marketing: How Infy360 is Pioneering the Future of Customer Engagement",
+      "Revolutionizing Digital Marketing: How Brandnest is Pioneering the Future of Customer Engagement",
     content:
       "In today's rapidly evolving digital landscape, traditional marketing approaches are no longer sufficient to engage and captivate customers. Digital marketing has become the new frontier, and businesses are constantly seeking innovative ways to connect with their target audience. In this...",
     img: "../images/blog/blog9.png",
   },
   {
     id: 8,
-    path: "from-strategy-to-success:-how-infy360-transforms-your-digital-marketing-journey",
+    path: "from-strategy-to-success:-how-brandnest-transforms-your-digital-marketing-journey",
     fullDate: {
       date: "24",
       monthYr: "July 2023",
     },
     title:
-      "From Strategy to Success: How Infy360 Transforms Your Digital Marketing Journey",
+      "From Strategy to Success: How Brandnest Transforms Your Digital Marketing Journey",
     content:
       "In today's fast-paced digital landscape, effective marketing strategies are crucial for businesses to thrive and succeed. With the ever-evolving technological advancements, finding the right tools and platforms to navigate the digital realm can be a daunting task. However...",
     img: "../images/blog/blog8.png",

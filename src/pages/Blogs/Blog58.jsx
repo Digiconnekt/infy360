@@ -396,21 +396,21 @@ const Blog58 = () => {
                         the digital age.
                       </p>
 
-                      <h4>Infy360’s YouTube Marketing Success</h4>
+                      <h4>Brandnest’s YouTube Marketing Success</h4>
 
                       <p className="lead">
                         As a leading provider of YouTube marketing services and
-                        YouTube SEO services in the UK, Infy360 offers
+                        YouTube SEO services in the UK, Brandnest offers
                         comprehensive solutions to help businesses dominate
                         their niche on the world's largest video platform. With
                         a team of experienced professionals and a data-driven
-                        approach, Infy360 empowers brands to create compelling
+                        approach, Brandnest empowers brands to create compelling
                         video content, optimise for discoverability, and engage
                         audiences effectively.
                       </p>
 
                       <p className="lead">
-                        By partnering with Infy360, businesses can leverage
+                        By partnering with Brandnest, businesses can leverage
                         expert knowledge and proven strategies to elevate their
                         YouTube presence, drive meaningful engagement, and
                         achieve sustainable growth in the competitive digital

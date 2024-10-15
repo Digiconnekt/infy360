@@ -17,5 +17,5 @@ Disallow:
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://infy360.com/sitemap.xml
+Sitemap: https://brandnest.com/sitemap.xml
 

@@ -51,7 +51,7 @@ const Contact = () => {
     requireAssistanceWith: formData.requireAssistanceWith,
     findOutAboutUs: formData.findOutAboutUs,
 
-    organisation: "infy360",
+    organisation: "brandnest",
     messageFrom: window.location.href,
   };
 
@@ -139,7 +139,7 @@ const Contact = () => {
         {/* Description */}
         <meta
           name="description"
-          content="Reach out to Infy360, a leading digital marketing agency in India. Contact us for a free SEO site audit and discover our expertise in effective lead generation strategies."
+          content="Reach out to Brandnest, a leading digital marketing agency in India. Contact us for a free SEO site audit and discover our expertise in effective lead generation strategies."
         />
 
         {/* Keywords */}

@@ -73,8 +73,9 @@ const Blog30 = () => {
                         <a href="../">
                           social media optimization agency in USA,{" "}
                         </a>
-                        Infy360 understands the nuances of effective SMO and how
-                        to harness its power to fuel sustainable traffic growth.
+                        Brandnest understands the nuances of effective SMO and
+                        how to harness its power to fuel sustainable traffic
+                        growth.
                       </p>
                       <p className="lead">
                         In this article, we'll explore proven tactics that can
@@ -196,7 +197,7 @@ const Blog30 = () => {
                           website traffic that translates into business growth.
                         </p>
                         <p className="lead">
-                          At Infy360, our team of social media optimization
+                          At Brandnest, our team of social media optimization
                           experts in the USA creates customized SMO strategies
                           to amplify your online presence, cultivate brand
                           affinity, and fuel high-quality website traffic.
@@ -206,7 +207,7 @@ const Blog30 = () => {
                           <a href="../">
                             best social media optimization agency,
                           </a>{" "}
-                          Infy360 cover channel setups, profile/content
+                          Brandnest cover channel setups, profile/content
                           optimization, social advertising management, community
                           engagement, influencer collaborations, campaign
                           analytics, and more.
@@ -218,7 +219,7 @@ const Blog30 = () => {
                           deliver measurable results.
                         </p>
                         <p className="lead">
-                          Connect with Infy360 today to learn how our SMO
+                          Connect with Brandnest today to learn how our SMO
                           services can help your business cut through the social
                           noise and captivate your target audiences.
                         </p>

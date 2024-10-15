@@ -11,7 +11,7 @@ const HeroSection = () => {
         }}
       >
         <div className="insideText" style={{ top: "241px" }}>
-          Infy360
+          Brandnest
         </div>
         <div
           className="owl-carousel no-pb owl-loaded owl-drag"

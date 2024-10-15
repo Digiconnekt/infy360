@@ -18,7 +18,7 @@ const Blog29 = () => {
         {/* Description */}
         <meta
           name="description"
-          content="As a leading Local SEO Company in the USA & Canada, Infy360 understands the invaluable impact that positive customer reviews can have on a business's online reputation and search engine rankings."
+          content="As a leading Local SEO Company in the USA & Canada, Brandnest understands the invaluable impact that positive customer reviews can have on a business's online reputation and search engine rankings."
         />
 
         {/* Keywords */}
@@ -64,9 +64,9 @@ const Blog29 = () => {
                       </div>
                       <p className="lead">
                         As a leading Local SEO Company in the USA & Canada,
-                        Infy360 understands the invaluable impact that positive
-                        customer reviews can have on a business's online
-                        reputation and search engine rankings. In today's
+                        Brandnest understands the invaluable impact that
+                        positive customer reviews can have on a business's
+                        online reputation and search engine rankings. In today's
                         digital age, potential customers heavily rely on reviews
                         to make informed purchasing decisions. Positive reviews
                         not only build trust and credibility but also contribute
@@ -74,8 +74,8 @@ const Blog29 = () => {
                         lead-generation opportunities.
                       </p>
                       <p>
-                        Recognizing the significance of reviews, we at Infy360,
-                        a top{" "}
+                        Recognizing the significance of reviews, we at
+                        Brandnest, a top{" "}
                         <a href="../">Lead Generation Company in the USA,</a>
                         have compiled 10 proven techniques to encourage your
                         satisfied customers to share their positive experiences
@@ -249,7 +249,7 @@ const Blog29 = () => {
                         and lead generation efforts.
                       </p>
                       <p className="lead">
-                        At <a href="../">Infy360,</a>we understand the
+                        At <a href="../">Brandnest,</a>we understand the
                         complexity of managing online reviews and their impact
                         on local SEO and lead generation. As a reputable{" "}
                         <a href="../">Local SEO Company in the USA & Canada </a>
@@ -259,10 +259,10 @@ const Blog29 = () => {
                       </p>
 
                       <p className="lead">
-                        By partnering with Infy360, brands can benefit from the
-                        expertise in leveraging the power of positive reviews to
-                        drive local SEO success, lead generation, and overall
-                        business growth.
+                        By partnering with Brandnest, brands can benefit from
+                        the expertise in leveraging the power of positive
+                        reviews to drive local SEO success, lead generation, and
+                        overall business growth.
                       </p>
                     </div>
                   </div>

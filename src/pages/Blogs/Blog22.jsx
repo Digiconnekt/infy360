@@ -87,14 +87,14 @@ const Blog22 = () => {
                           marginTop: "25px",
                         }}
                       >
-                        Infy360; the Best SEO Agency in the USA
+                        Brandnest; the Best SEO Agency in the USA
                       </h5>
                       <p className="lead">
                         It can be difficult to navigate the complexities of
                         keyword research and optimization, particularly for
                         those who are unfamiliar with SEO. Here's where working
                         with the <a href="../">best SEO agency in the USA</a>,
-                        Infy360 can be very beneficial. These firms employ
+                        Brandnest can be very beneficial. These firms employ
                         groups of seasoned experts who are knowledgeable about
                         the subtleties of keyword optimization and{" "}
                         <b>search Engine Optimization services</b> and are

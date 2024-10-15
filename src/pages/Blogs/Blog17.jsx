@@ -1,4 +1,4 @@
-// blog9 === Revolutionizing Digital Marketing: How Infy360 is Pioneering the Future of Customer Engagement
+// blog9 === Revolutionizing Digital Marketing: How Brandnest is Pioneering the Future of Customer Engagement
 
 import React from "react";
 import { Helmet } from "react-helmet-async";
@@ -88,7 +88,7 @@ const Blog17 = () => {
                         advertiser is the aim of digital paid media.
                       </p>
                       <p className="lead">
-                        <a href="../">Infy360 targets </a>particular
+                        <a href="../">Brandnest targets </a>particular
                         demographics, hobbies, and behaviors while executing a
                         digital paid advertising campaign to make sure the
                         proper people see their advertisements.
@@ -148,7 +148,7 @@ const Blog17 = () => {
                           You may produce highly tailored advertisements that
                           are more likely to connect with potential customers by
                           understanding the demographics, interests, and
-                          behaviors of your target audience. Infy360 utilise
+                          behaviors of your target audience. Brandnest utilise
                           analytics and audience insights technologies to
                           collect audience data and apply this information.
                         </li>
@@ -177,7 +177,7 @@ const Blog17 = () => {
                           </span>{" "}
                           Conversion tracking must be put into place to evaluate
                           the performance of a digital paid marketing campaign.
-                          Infy360 may gain more insight into which keywords,
+                          Brandnest may gain more insight into which keywords,
                           targeting options, and advertisements are generating
                           the most important actions—like sign-ups or purchases
                           by monitoring conversions. Once the campaign is

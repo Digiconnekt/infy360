@@ -11,7 +11,7 @@ const Blog5 = () => {
     <>
       <Helmet>
         {/* Title */}
-        <title>Blogs - Infy360</title>
+        <title>Blogs - Brandnest</title>
 
         {/* Description */}
         <meta

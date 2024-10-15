@@ -149,14 +149,14 @@ const Blog46 = () => {
                         As businesses across industries increasingly recognize
                         the power of paid digital media optimization, the demand
                         for skilled SMM Service providers in the UK has
-                        skyrocketed. Enter Infy360, a premier agency that
+                        skyrocketed. Enter Brandnest, a premier agency that
                         specializes in delivering cutting-edge paid digital
                         media optimization solutions tailored to the unique
                         needs of businesses in the UK market.
                       </p>
                       <p className="lead">
                         With a team of seasoned digital marketing experts and a
-                        deep understanding of the local landscape, Infy360 is
+                        deep understanding of the local landscape, Brandnest is
                         poised to elevate your SMM service to new heights. Our
                         data-driven approach starts with a comprehensive audit
                         of your current social media presence, audience
@@ -165,7 +165,7 @@ const Blog46 = () => {
                         business objectives.
                       </p>
                       <p className="lead">
-                        Infy360's{" "}
+                        Brandnest's{" "}
                         <NavLink to={"/services/ppc"}>
                           paid digital media optimization services
                         </NavLink>
@@ -179,14 +179,14 @@ const Blog46 = () => {
                       </p>
                       <p className="lead">
                         Transparency and open communication are at the core of
-                        Infy360's approach. We provide regular performance
+                        Brandnest's approach. We provide regular performance
                         reports and insights, empowering you to make informed
                         decisions and continuously refine your strategies for
                         sustained success.
                       </p>
                       <p className="lead">
                         In today's crowded digital landscape, being average is
-                        no longer an option. By partnering with Infy360 and
+                        no longer an option. By partnering with Brandnest and
                         embracing paid digital media optimization, you can
                         unlock the true potential of your SMM service, reaching
                         your target audience with precision, maximizing your
@@ -195,7 +195,7 @@ const Blog46 = () => {
                       </p>
                       <p className="lead">
                         Don't settle for mediocre results – take your SMM
-                        service to the next level with Infy360's cutting-edge
+                        service to the next level with Brandnest's cutting-edge
                         paid digital media optimization solutions. Contact us
                         today to schedule a consultation and start your journey
                         towards unparalleled digital marketing success.

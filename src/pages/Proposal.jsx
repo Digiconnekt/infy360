@@ -69,7 +69,7 @@ const Proposal = () => {
     company: formData.company,
     dateTime: formData.dateTime,
 
-    organisation: "infy360",
+    organisation: "brandnest",
     messageFrom: window.location.href,
   };
 
@@ -170,13 +170,13 @@ const Proposal = () => {
       <Helmet>
         {/* Title */}
         <title>
-          Boost Your Business with Top Digital Marketing Services | Infy360
+          Boost Your Business with Top Digital Marketing Services | Brandnest
         </title>
 
         {/* Description */}
         <meta
           name="description"
-          content="Explore expert digital advertising services and SEO solutions tailored for success from Infy360, a leading digital marketing agency in the USA and India. Get a customized proposal today!"
+          content="Explore expert digital advertising services and SEO solutions tailored for success from Brandnest, a leading digital marketing agency in the USA and India. Get a customized proposal today!"
         />
 
         {/* Keywords */}

@@ -19,7 +19,7 @@ const ContactBtnBanner = ({ fromSection }) => {
   const payload = {
     email: formData.email,
 
-    organisation: "infy360",
+    organisation: "brandnest",
     messageFrom: window.location.href + ` - ${fromSection}`,
   };
 

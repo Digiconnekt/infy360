@@ -62,7 +62,7 @@ const Blog37 = () => {
                       <p className="lead">
                         As a growing{" "}
                         <a href="../">email marketing agency in the USA,</a>
-                        Infy360 understands the importance of leveraging
+                        Brandnest understands the importance of leveraging
                         powerful, feature-rich email marketing tools to deliver
                         exceptional results for our clients.
                       </p>
@@ -168,7 +168,7 @@ const Blog37 = () => {
                           While these Mailchimp alternatives offer robust
                           features and capabilities, maximizing their potential
                           requires strategic planning, execution, and ongoing
-                          optimization. That's where Infy360's{" "}
+                          optimization. That's where Brandnest's{" "}
                           <b>email marketing services</b> come into play.
                         </p>
                         <p className="lead">
@@ -189,9 +189,9 @@ const Blog37 = () => {
                         </p>
 
                         <p className="lead">
-                          At Infy360, we pride ourselves on staying ahead of the
-                          curve when it comes to email marketing technology and
-                          best practices. Our team continuously explores and
+                          At Brandnest, we pride ourselves on staying ahead of
+                          the curve when it comes to email marketing technology
+                          and best practices. Our team continuously explores and
                           evaluates new platforms, tools, and strategies to
                           ensure our clients benefit from the latest
                           advancements in the industry.
@@ -199,7 +199,7 @@ const Blog37 = () => {
                         <p className="lead">
                           Don't let an outdated or limited email marketing
                           platform hold your business back in 2024. Partner with
-                          Infy360 and unlock the full potential of these
+                          Brandnest and unlock the full potential of these
                           powerful Mailchimp alternatives to drive engagement,
                           nurture leads, and boost conversions like never
                           before.

@@ -19,7 +19,7 @@ const EmailMarketing = () => {
 
       `Bulk email service as the name suggests is an email campaign capable of sending emails to a group of customers at once. These services are generally used for digital marketing campaigns to send out updates to the curated lists at once. The type of content here incorporates newsletters, notifications, the latest offers, reports, and much more.`,
 
-      `When done in the right way, it boosts your loyal customer number and increases the graph of ROI. At Infy360, the Bulk email service is one of the most powerful mediums to increase your digital marketing campaigns. We manage your clients effectively by segmenting them into groups, specifying their needs, and thus improving your conversion rates. Our AI-powered systems boost your graph of engagement by sending emails at the perfect time.`,
+      `When done in the right way, it boosts your loyal customer number and increases the graph of ROI. At Brandnest, the Bulk email service is one of the most powerful mediums to increase your digital marketing campaigns. We manage your clients effectively by segmenting them into groups, specifying their needs, and thus improving your conversion rates. Our AI-powered systems boost your graph of engagement by sending emails at the perfect time.`,
     ],
   };
   // Bulk email marketing end
@@ -31,7 +31,7 @@ const EmailMarketing = () => {
     para: [
       `Data analytics is becoming a basic necessity in every field. It helps big firms to small corporations to deal with huge figures, segment them out, understand the different categories of potential customers, analyze their needs, and better strategize their marketing fundamentals. Here data mining comes into play to portray the big picture in small pieces. Such email intelligence helps you improve sales and increase your customer interaction.`,
 
-      `We provide a team of specialists who figure out large numbers of feeds, enrich the data, clean the data set, and provide analyzed reports targeting many groups. Besides, working with Infy360 promise you a highly experienced and cost-effective team who has great accuracy working with the latest technology and is determined to reduce your workload thereby increasing the profit.`,
+      `We provide a team of specialists who figure out large numbers of feeds, enrich the data, clean the data set, and provide analyzed reports targeting many groups. Besides, working with Brandnest promise you a highly experienced and cost-effective team who has great accuracy working with the latest technology and is determined to reduce your workload thereby increasing the profit.`,
     ],
   };
   // Email validation or Data Mining end
@@ -68,12 +68,14 @@ const EmailMarketing = () => {
     <>
       <Helmet>
         {/* Title */}
-        <title>Premier Email Marketing Agency in USA & Canada | Infy360</title>
+        <title>
+          Premier Email Marketing Agency in USA & Canada | Brandnest
+        </title>
 
         {/* Description */}
         <meta
           name="description"
-          content="Upscale your brand with Infy360's top-notch Email Marketing Services in the USA and India. Expert Email Campaign Management for unparalleled success."
+          content="Upscale your brand with Brandnest's top-notch Email Marketing Services in the USA and India. Expert Email Campaign Management for unparalleled success."
         />
 
         {/* Keywords */}

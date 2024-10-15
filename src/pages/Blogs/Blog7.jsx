@@ -123,7 +123,7 @@ const Blog7 = () => {
                           resonates with your target audience, you can increase
                           website traffic,{" "}
                           <a
-                            href="https://www.linkedin.com/company/infy360/?originalSubdomain=sg"
+                            href="https://www.linkedin.com/company/brandnest/?originalSubdomain=sg"
                             target="_blank"
                             rel="noreferrer"
                           >

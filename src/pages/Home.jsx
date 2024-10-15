@@ -8,12 +8,14 @@ const Home = () => {
     <>
       <Helmet>
         {/* Title */}
-        <title>Infy360: Leading Digital Marketing Agency in USA & India</title>
+        <title>
+          Brandnest: Leading Digital Marketing Agency in USA & India
+        </title>
 
         {/* Description */}
         <meta
           name="description"
-          content="Infy360 is a top-rated digital marketing agency providing internet marketing services in India and the USA. Contact us for effective digital solutions."
+          content="Brandnest is a top-rated digital marketing agency providing internet marketing services in India and the USA. Contact us for effective digital solutions."
         />
 
         {/* Keywords */}
@@ -51,7 +53,7 @@ const Home = () => {
                   <h6>About Us</h6>
                 </div>
                 <p className="text-black">
-                  Infy360 is an experienced digital marketing company with
+                  Brandnest is an experienced digital marketing company with
                   headquarters in India. Our primary focus is to provide highly
                   efficient designs and functional user interfaces, integrating
                   the latest technologies and frameworks to deliver innovation
@@ -83,7 +85,7 @@ const Home = () => {
             <div className="col-lg-12 col-md-12">
               <div className="section-title mb-0">
                 <h2 className="title oneLiner">
-                  <span>Infy360, </span>a string of
+                  <span>Brandnest, </span>a string of
                   <span> Solutions </span>
                 </h2>
               </div>
@@ -233,7 +235,7 @@ const Home = () => {
                   much more.
                 </p>
                 <p className="text-black">
-                  Infy360 comes as a potent for your digitalization, from
+                  Brandnest comes as a potent for your digitalization, from
                   transforming your visualization to real business innovation
                   and maximizing your ROI. We are ready to serve you with our
                   proficiency!
@@ -414,7 +416,7 @@ const Home = () => {
                         style={{ textAlign: "justify" }}
                       >
                         A great tool for boosting your digital marketing
-                        initiatives at Infy360 is the bulk email service. By
+                        initiatives at Brandnest is the bulk email service. By
                         dividing your customers into distinct categories and
                         identifying their demands, we can manage your customers
                         more effectively and raise your conversion rates. By
@@ -551,14 +553,14 @@ const Home = () => {
                                     <i className="flaticon-quotation"></i>
                                   </div>
                                   <p>
-                                    Infy360's digital marketing services have
+                                    Brandnest's digital marketing services have
                                     helped take our online presence to new
                                     heights. Their team is highly skilled and
                                     dedicated, constantly striving to improve
                                     our ROI and drive more sales.
                                   </p>
                                   <p>
-                                    I highly recommend Infy360 to any business
+                                    I highly recommend Brandnest to any business
                                     looking for top-notch digital marketing
                                     services.
                                   </p>
@@ -596,7 +598,7 @@ const Home = () => {
                                   <p>
                                     I have been extremely impressed with the
                                     digital marketing services provided by
-                                    Infy360. Their team of experts helped to
+                                    Brandnest. Their team of experts helped to
                                     increase our online presence and drive more
                                     traffic to our website. Their strategies for
                                     SEO, PPC, and social media marketing were
@@ -608,7 +610,7 @@ const Home = () => {
                                     The team was also great at communicating
                                     with us and keeping us informed about the
                                     progress of our campaigns. I highly
-                                    recommend Infy360 to anyone looking to
+                                    recommend Brandnest to anyone looking to
                                     improve their digital marketing efforts.
                                   </p>
                                   <div className="testimonial-caption">
@@ -643,7 +645,7 @@ const Home = () => {
                                     <i className="flaticon-quotation"></i>
                                   </div>
                                   <p>
-                                    Infy360's digital marketing services have
+                                    Brandnest's digital marketing services have
                                     been a game-changer for my business. Their
                                     team is extremely knowledgeable and helped
                                     me to increase my online visibility and

@@ -1,4 +1,4 @@
-// blog9 === Revolutionizing Digital Marketing: How Infy360 is Pioneering the Future of Customer Engagement
+// blog9 === Revolutionizing Digital Marketing: How Brandnest is Pioneering the Future of Customer Engagement
 
 import React from "react";
 import { Helmet } from "react-helmet-async";
@@ -11,7 +11,7 @@ const Blog14 = () => {
     <>
       <Helmet>
         {/* Title */}
-        <title>Infy360: Your Ultimate Content Marketing Agency Partner</title>
+        <title>Brandnest: Your Ultimate Content Marketing Agency Partner</title>
 
         {/* Description */}
         <meta
@@ -27,7 +27,7 @@ const Blog14 = () => {
       </Helmet>
 
       {/* title section start */}
-      <TitleSection title="Infy360: Your Ultimate Content Marketing Agency Partner" />
+      <TitleSection title="Brandnest: Your Ultimate Content Marketing Agency Partner" />
       {/* title section end */}
 
       {/* page content start */}
@@ -53,7 +53,7 @@ const Blog14 = () => {
                       </div>
                       <div className="post-title">
                         <h2>
-                          Infy360: Your Ultimate Content Marketing Agency
+                          Brandnest: Your Ultimate Content Marketing Agency
                           Partner
                         </h2>
                       </div>
@@ -65,7 +65,7 @@ const Blog14 = () => {
                         brand awareness, and increase sales.
                       </p>
                       <p className="lead">
-                        With its headquarters in India, Infy360,{" "}
+                        With its headquarters in India, Brandnest,{" "}
                         <a href="../services/content-marketing">
                           Content Marketing Agency
                         </a>
@@ -77,11 +77,11 @@ const Blog14 = () => {
                       </p>
 
                       <h5>
-                        How does Infy360 Content Marketing help in achieving
+                        How does Brandnest Content Marketing help in achieving
                         objectives?
                       </h5>
                       <p className="lead">
-                        <a href="../">Infy360</a> optimised content that
+                        <a href="../">Brandnest</a> optimised content that
                         increases sales by focusing on probable clients.{" "}
                         <b>Content Marketing Agency</b>
                         provides insightful, worthwhile, and audience-relevant
@@ -273,8 +273,8 @@ const Blog14 = () => {
                         Conclusion
                       </h5>
                       <p className="mb-0">
-                        Infy360, <b>Content Marketing Agency</b> assists you in
-                        expressing the unique voice of your company. By
+                        Brandnest, <b>Content Marketing Agency</b> assists you
+                        in expressing the unique voice of your company. By
                         encouraging visitors to click on the links, stay on the
                         page, learn more about you, and recruit more potential
                         customers, well-written content can increase return on
@@ -284,7 +284,7 @@ const Blog14 = () => {
                         clients.
                       </p>
                       <p className="lead">
-                        According to Infy360 content marketing is about more
+                        According to Brandnest content marketing is about more
                         than just selling your product. It's all about
                         establishing connections with your clients in many
                         contexts. One of the best{" "}

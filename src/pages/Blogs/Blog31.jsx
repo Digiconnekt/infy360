@@ -68,7 +68,7 @@ const Blog31 = () => {
                       <p>
                         As a leading{" "}
                         <a href="../">local SEO company in the USA & Canada,</a>
-                        Infy360 understands the importance of visibility in
+                        Brandnest understands the importance of visibility in
                         local search results and has helped numerous businesses
                         rank higher on Google Maps and organic local listings.
                       </p>
@@ -230,7 +230,7 @@ const Blog31 = () => {
                           <a href="../">
                             b2b lead generation agency in the USA,
                           </a>{" "}
-                          Infy360 can craft a customized local SEO program
+                          Brandnest can craft a customized local SEO program
                           tailored to the unique needs of your organization and
                           geographic markets.
                         </p>

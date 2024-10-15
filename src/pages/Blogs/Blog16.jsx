@@ -1,4 +1,4 @@
-// blog9 === Revolutionizing Digital Marketing: How Infy360 is Pioneering the Future of Customer Engagement
+// blog9 === Revolutionizing Digital Marketing: How Brandnest is Pioneering the Future of Customer Engagement
 
 import React from "react";
 import { Helmet } from "react-helmet-async";
@@ -123,7 +123,7 @@ const Blog16 = () => {
                           Service, many business owners are unsure about where
                           to concentrate their efforts to get the most returns.
                           As a result, they experiment with various{" "}
-                          <a href="../">Infy360, seo services usa</a> and
+                          <a href="../">Brandnest, seo services usa</a> and
                           strategies often overdoing it. It's not necessary to
                           audit your website five or six times a year and obsess
                           over fine-tuning every last aspect. On the largest
@@ -148,11 +148,11 @@ const Blog16 = () => {
                           well. <br />
                           Make sure your website has the information to support
                           your keywords by mapping them to relevant pages. Take
-                          care not to fit too many maps onto one page. Infy360,
-                          seo services usa advice against attempting to optimize
-                          more than two synonymous keywords on a single page as
-                          this will probably result in too much material being
-                          used.
+                          care not to fit too many maps onto one page.
+                          Brandnest, seo services usa advice against attempting
+                          to optimize more than two synonymous keywords on a
+                          single page as this will probably result in too much
+                          material being used.
                           <br />
                           Businesses can raise their website's search engine
                           ranking and match user search intent by optimising its

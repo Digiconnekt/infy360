@@ -262,10 +262,10 @@ const Blog62 = () => {
                         sustainable organic traffic growth.
                       </p>
 
-                      <h4>Infy360; SEO Success Guranteed!</h4>
+                      <h4>Brandnest; SEO Success Guranteed!</h4>
 
                       <p className="lead">
-                        At Infy360, we understand that SEO is more than just a
+                        At Brandnest, we understand that SEO is more than just a
                         set of techniques – it's a customized long-term strategy
                         aimed at giving your business an edge over the
                         competition. As a leading{" "}
@@ -288,11 +288,11 @@ const Blog62 = () => {
                       </p>
 
                       <p className="lead">
-                        What sets Infy360 apart is our result-oriented approach.
-                        We create backlinks to valuable websites to improve link
-                        authority and diversity, which in turn increases your
-                        ranking in Google search results. We go the extra mile
-                        by providing{" "}
+                        What sets Brandnest apart is our result-oriented
+                        approach. We create backlinks to valuable websites to
+                        improve link authority and diversity, which in turn
+                        increases your ranking in Google search results. We go
+                        the extra mile by providing{" "}
                         <NavLink to="/services/search-engine-optimization">
                           local SEO services
                         </NavLink>{" "}
@@ -310,8 +310,8 @@ const Blog62 = () => {
                       </p>
 
                       <p className="lead">
-                        By choosing Infy360 as your SEO partner, you're not just
-                        getting a service – you're gaining a team of
+                        By choosing Brandnest as your SEO partner, you're not
+                        just getting a service – you're gaining a team of
                         professionals dedicated to improving your visibility and
                         engagement online. Let us help you harness the power of
                         SEO to drive your business growth in the digital

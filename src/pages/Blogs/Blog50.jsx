@@ -362,9 +362,9 @@ const Blog50 = () => {
                         </li>
                       </ul>
 
-                      <h4>Infy360's Approach to Original Content and SEO</h4>
+                      <h4>Brandnest's Approach to Original Content and SEO</h4>
                       <p className="lead">
-                        At Infy360, we understand the critical role that
+                        At Brandnest, we understand the critical role that
                         original content plays in effective Search Engine
                         Optimization. As a leading Content Marketing Agency, we
                         prioritize creating unique, valuable content that not
@@ -380,7 +380,7 @@ const Blog50 = () => {
                         your brand as a thought leader in your industry.
                       </p>
                       <p className="lead">
-                        Infy360's SEO specialists are trained to develop
+                        Brandnest's SEO specialists are trained to develop
                         customized strategies that improve your visibility and
                         engagement online. We analyze key metrics such as bounce
                         rate, page views, and backlinks to create a roadmap for
@@ -389,7 +389,7 @@ const Blog50 = () => {
                         to the top of search results.
                       </p>
                       <p className="lead">
-                        By choosing Infy360, you're not just getting a
+                        By choosing Brandnest, you're not just getting a
                         <NavLink to={"/services/search-engine-optimization"}>
                           Search Engine Optimization Service
                         </NavLink>

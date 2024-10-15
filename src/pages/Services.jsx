@@ -8,13 +8,13 @@ const Services = () => {
       <Helmet>
         {/* Title */}
         <title>
-          Infy360: Top Marketing Agency in USA & Digital Marketing in India
+          Brandnest: Top Marketing Agency in USA & Digital Marketing in India
         </title>
 
         {/* Description */}
         <meta
           name="description"
-          content="Elevate your brand with Infy360, a leading marketing agency in the USA. Transform your digital presence with our expert digital marketing services in India. Drive success with strategic solutions tailored to your business goals."
+          content="Elevate your brand with Brandnest, a leading marketing agency in the USA. Transform your digital presence with our expert digital marketing services in India. Drive success with strategic solutions tailored to your business goals."
         />
 
         {/* Keywords */}
@@ -133,7 +133,7 @@ const Services = () => {
                     style={{ textAlign: "justify" }}
                   >
                     A great tool for boosting your digital marketing initiatives
-                    at Infy360 is the bulk email service. By dividing your
+                    at Brandnest is the bulk email service. By dividing your
                     customers into distinct categories and identifying their
                     demands, we can manage your customers more effectively and
                     raise your conversion rates. By sending emails at the ideal

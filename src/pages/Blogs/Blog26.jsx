@@ -72,7 +72,7 @@ const Blog26 = () => {
                       <p className="lead">
                         {" "}
                         <a href="../">Social Media Optimization companies</a>
-                        like Infy360 also state that video is one of the most
+                        like Brandnest also state that video is one of the most
                         engaging and easy-to-consume content. Brands use video
                         to connect with their audience in various creative
                         methods from small clips on social media to longer
@@ -149,7 +149,7 @@ const Blog26 = () => {
                         taking up the marketing space. Many brands now
                         understand this change in behavior towards video
                         consumption and are investing heavily in producing
-                        visually stimulating content. Infy360’s{" "}
+                        visually stimulating content. Brandnest’s{" "}
                         <b>Social Media Optimization USA</b> also navigates
                         brands through video marketing to invite organic
                         traffic.
@@ -392,13 +392,14 @@ const Blog26 = () => {
                         strategy needs substantial resources, abilities and
                         professional knowledge. Make your chances for success in
                         video marketing higher by joining with confirmed{" "}
-                        <b>social media optimization companies</b> like Infy360.
+                        <b>social media optimization companies</b> like
+                        Brandnest.
                       </p>
 
                       <p className="lead">
-                        Infy360’s <b>Social Media Optimization USA </b>has skill
-                        goup of experts who can drive in organic trafic through
-                        strategic and tailor-made plans.
+                        Brandnest’s <b>Social Media Optimization USA </b>has
+                        skill goup of experts who can drive in organic trafic
+                        through strategic and tailor-made plans.
                       </p>
 
                       <p className="lead">

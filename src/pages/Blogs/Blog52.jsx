@@ -180,14 +180,14 @@ const Blog52 = () => {
                         increasingly competitive, partnering with a skilled{" "}
                         <NavLink to={"/services/ppc"}>PPC Ad Agency</NavLink>{" "}
                         can be a game-changer in mastering ROAS and achieving
-                        advertising success. This is where Infy360 steps in as a
-                        valuable partner for businesses looking to optimize
+                        advertising success. This is where Brandnest steps in as
+                        a valuable partner for businesses looking to optimize
                         their PPC strategies and maximize their return on ad
                         spend.
                       </p>
 
                       <p className="lead">
-                        Infy360 understands the importance of PPC in driving
+                        Brandnest understands the importance of PPC in driving
                         online business growth. As a leading PPC ad agency, we
                         recognize that pay-per-click advertising is one of the
                         most effective forms of web advertising, offering quick
@@ -198,24 +198,24 @@ const Blog52 = () => {
                       </p>
 
                       <p className="lead">
-                        What sets Infy360 apart is our comprehensive approach to
-                        PPC campaigns. Our process includes thorough discovery
-                        to understand business goals, meticulous keyword
-                        research, strategic campaign building, creative ad
-                        creation, precise tracking implementation, and proactive
-                        strategy development. This holistic approach ensures
-                        that every aspect of a PPC campaign is optimized for
-                        maximum ROAS.
+                        What sets Brandnest apart is our comprehensive approach
+                        to PPC campaigns. Our process includes thorough
+                        discovery to understand business goals, meticulous
+                        keyword research, strategic campaign building, creative
+                        ad creation, precise tracking implementation, and
+                        proactive strategy development. This holistic approach
+                        ensures that every aspect of a PPC campaign is optimized
+                        for maximum ROAS.
                       </p>
 
                       <p className="lead">
-                        By partnering with Infy360, businesses can leverage the
-                        expertise to not only improve ROAS but also to gain
+                        By partnering with Brandnest, businesses can leverage
+                        the expertise to not only improve ROAS but also to gain
                         valuable insights into their target audience, refine
                         their messaging, and ultimately drive more conversions.
                         With an immediate email response system and commitment
-                        to continuous improvement, Infy360 positions itself as a
-                        reliable partner in navigating the complex world of
+                        to continuous improvement, Brandnest positions itself as
+                        a reliable partner in navigating the complex world of
                         digital advertising and achieving measurable, profitable
                         results.
                       </p>

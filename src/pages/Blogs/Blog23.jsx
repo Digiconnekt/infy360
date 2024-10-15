@@ -70,7 +70,7 @@ const Blog23 = () => {
                         <a href="../">
                           best internet marketing agency in the USA
                         </a>
-                        Infy360 and techniques to help you improve website
+                        Brandnest and techniques to help you improve website
                         retention and overcome bounce rate issues using their{" "}
                         <b>SEO services USA</b>.
                       </p>
@@ -88,7 +88,7 @@ const Blog23 = () => {
                         website in a way that can retain the users.
                       </p>
                       <h5>
-                        Infy360’s Smart Strategeise to Optimize the Website
+                        Brandnest’s Smart Strategeise to Optimize the Website
                         Bounce Rate
                       </h5>
                       <p className="lead">
@@ -114,7 +114,7 @@ const Blog23 = () => {
                       </p>
                       <h5>Acquire Lower Bounce Rate; Strategise and Excel</h5>
                       <p className="lead">
-                        While seeking the help of Infy360, the{" "}
+                        While seeking the help of Brandnest, the{" "}
                         <b>best internet marketing agency in the USA </b>can be
                         very advantageous, it's also critical to comprehend the
                         most important tactics and industry best practices for
@@ -261,7 +261,7 @@ const Blog23 = () => {
                             bounce rate. You can establish an engaging online
                             presence that appeals to your target audience by
                             putting professional strategies into practice,
-                            working with Infy360, the best internet marketing
+                            working with Brandnest, the best internet marketing
                             agency in the USA and constantly assessing and
                             improving your strategy.{" "}
                           </p>

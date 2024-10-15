@@ -34,7 +34,7 @@ const PPC = () => {
         {/* Description */}
         <meta
           name="description"
-          content="We are the top PPC agency in USA, Canada, and India. Our expert team specializes in Pay Per Click (PPC) advertising, ensuring strategic and impactful Paid Ads Campaign management. Drive targeted traffic and maximize ROI with our tailored solutions. Partner with Infy360 for unrivaled PPC expertise and results-driven digital marketing services."
+          content="We are the top PPC agency in USA, Canada, and India. Our expert team specializes in Pay Per Click (PPC) advertising, ensuring strategic and impactful Paid Ads Campaign management. Drive targeted traffic and maximize ROI with our tailored solutions. Partner with Brandnest for unrivaled PPC expertise and results-driven digital marketing services."
         />
 
         {/* Keywords */}

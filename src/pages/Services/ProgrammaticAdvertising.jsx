@@ -14,7 +14,7 @@ const ProgrammaticAdvertising = () => {
     img: "../images/services/programmatic-advertising/programmatic-advertising.png",
     title: "Programmatic Advertising accelerates your marketing",
     para: [
-      `All big terms - RTB, DSP, SSP all clustered in one phrase. Is it difficult to understand? Or is it hectic to include their advantages in your marketing strategy? No worries, the team at Infy360 is always at your rescue.`,
+      `All big terms - RTB, DSP, SSP all clustered in one phrase. Is it difficult to understand? Or is it hectic to include their advantages in your marketing strategy? No worries, the team at Brandnest is always at your rescue.`,
 
       `Keeping it away from the formal definition, programmatic ad tech uses an algorithm to help you keep your ads in front of the right audience at the right time. Similarly, martech keeps you above the rat race in strategizing your campaigns.`,
     ],
@@ -43,13 +43,13 @@ const ProgrammaticAdvertising = () => {
       <Helmet>
         {/* Title */}
         <title>
-          Top Programmatic Advertising Agency in USA & Canada | Infy360
+          Top Programmatic Advertising Agency in USA & Canada | Brandnest
         </title>
 
         {/* Description */}
         <meta
           name="description"
-          content="Infy360, a leading programmatic advertising service provider. Unlock targeted campaigns in the USA, Canada, and India. Optimize your reach with our expert programmatic solutions today."
+          content="Brandnest, a leading programmatic advertising service provider. Unlock targeted campaigns in the USA, Canada, and India. Optimize your reach with our expert programmatic solutions today."
         />
 
         {/* Keywords */}

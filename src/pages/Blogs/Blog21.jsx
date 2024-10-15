@@ -1,4 +1,4 @@
-// blog9 === Revolutionizing Digital Marketing: How Infy360 is Pioneering the Future of Customer Engagement
+// blog9 === Revolutionizing Digital Marketing: How Brandnest is Pioneering the Future of Customer Engagement
 
 import React from "react";
 import { Helmet } from "react-helmet-async";
@@ -61,7 +61,7 @@ const Blog21 = () => {
                         level. While there are{" "}
                         <b>lead generation agencies in Canada </b>available to
                         offer local SEO solutions or services, getting started
-                        on your own is simpler than you might imagine. Infy360
+                        on your own is simpler than you might imagine. Brandnest
                         unveils 10{" "}
                         <a href="../">
                           Local SEO Companies in the USA & Canada

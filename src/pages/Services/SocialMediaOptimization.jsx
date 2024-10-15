@@ -46,7 +46,9 @@ const SocialMediaOptimization = () => {
     <>
       <Helmet>
         {/* Title */}
-        <title>Social Media Optimization Agency in USA & India | Infy360</title>
+        <title>
+          Social Media Optimization Agency in USA & India | Brandnest
+        </title>
 
         {/* Description */}
         <meta

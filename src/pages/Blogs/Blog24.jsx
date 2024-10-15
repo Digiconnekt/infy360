@@ -69,7 +69,7 @@ const Blog24 = () => {
                       <p className="lead">
                         Search Engine Optimization Services offers to help
                         businesses rank in SERPs and thereby help them attain
-                        good traffic. Infy360 is the{" "}
+                        good traffic. Brandnest is the{" "}
                         <a href="../">best SEO Agency in the USA</a>
                         which helps brand create their own space on the digital
                         landscape.{" "}
@@ -270,14 +270,15 @@ const Blog24 = () => {
                           marginTop: "25px",
                         }}
                       >
-                        Partner Up With the Best SEO Agency in the USA; Infy360
+                        Partner Up With the Best SEO Agency in the USA;
+                        Brandnest
                       </h5>
                       <p className="lead">
                         Even though putting into practice SEO slug work might
                         seem simple, it's important to understand that slug
                         optimization is only one part of a comprehensive SEO
                         strategy. To optimize your website and attain top search
-                        engine rankings, working with Infy360 which offers{" "}
+                        engine rankings, working with Brandnest which offers{" "}
                         <b>Search Engine Optimization Services </b>is
                         recommended.
                       </p>
@@ -293,7 +294,7 @@ const Blog24 = () => {
                         and ranking factors.
                       </p>
                       <p className="lead">
-                        A trustworthy SEO company like Infy360 can offer
+                        A trustworthy SEO company like Brandnest can offer
                         insightful analysis and recommendations that are
                         particular to your sector and target market, assisting
                         you in developing a customized SEO strategy that appeals
@@ -309,7 +310,7 @@ const Blog24 = () => {
                         improve user experience. Businesses can gain a strong
                         online presence and optimize their online visibility by
                         collaborating with the <b>best SEO agency in the USA</b>
-                        , Infy360 offering top-notch{" "}
+                        , Brandnest offering top-notch{" "}
                         <b>Search Engine Optimization Services</b> and adhering
                         to best practices for crafting effective slugs.
                       </p>

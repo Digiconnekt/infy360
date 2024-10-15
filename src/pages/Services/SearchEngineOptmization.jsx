@@ -47,13 +47,13 @@ const SearchEngineOptmization = () => {
       <Helmet>
         {/* Title */}
         <title>
-          Infy360: Leading SEO Agency in USA | Free SEO Audit in India
+          Brandnest: Leading SEO Agency in USA | Free SEO Audit in India
         </title>
 
         {/* Description */}
         <meta
           name="description"
-          content="Elevate your online presence with Infy360, the top SEO agency in the USA. Get a free SEO site audit in India. Expert on-page and technical SEO services in India for optimal search engine performance."
+          content="Elevate your online presence with Brandnest, the top SEO agency in the USA. Get a free SEO site audit in India. Expert on-page and technical SEO services in India for optimal search engine performance."
         />
 
         {/* Keywords */}
@@ -184,9 +184,9 @@ const SearchEngineOptmization = () => {
                   <div className="featured-desc">
                     <p style={{ textAlign: "justify" }}>
                       We are a team of professionals aimed at improving your
-                      visibility and engagement online. The Infy360 experts are
-                      trained to save your time and help you compete with large
-                      and more established corporations. They plan the
+                      visibility and engagement online. The Brandnest experts
+                      are trained to save your time and help you compete with
+                      large and more established corporations. They plan the
                       customized roadmap after analyzing key metrics such as
                       bounce rate, page views, outbound, backlinks, and much
                       more. Whether it’s an on-page SEO or off-page support our

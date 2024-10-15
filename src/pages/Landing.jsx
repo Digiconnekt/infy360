@@ -45,7 +45,7 @@ const Landing = () => {
     message: formData.message,
     requireAssistanceWith: formData.requireAssistanceWith,
 
-    organisation: "infy360",
+    organisation: "brandnest",
     messageFrom: window.location.href,
   };
 
@@ -125,7 +125,7 @@ const Landing = () => {
         data-bg-img="images/pattern/01.png"
         style={{ minHeight: "700px" }}
       >
-        <div className="insideText">Infy360</div>
+        <div className="insideText">Brandnest</div>
         <div className="align-center">
           <div className="container">
             <div className="row align-items-center">
@@ -626,7 +626,7 @@ const Landing = () => {
                           style={{ textAlign: "justify" }}
                         >
                           A great tool for boosting your digital marketing
-                          initiatives at Infy360 is the bulk email service. By
+                          initiatives at Brandnest is the bulk email service. By
                           dividing your customers into distinct categories and
                           identifying their demands, we can manage your
                           customers more effectively and raise your conversion
@@ -958,13 +958,13 @@ const Landing = () => {
                     </div>
                     <div className="testimonial-content">
                       <p>
-                        Infy360's digital marketing services have helped take
+                        Brandnest's digital marketing services have helped take
                         our online presence to new heights. Their team is highly
                         skilled and dedicated, constantly striving to improve
                         our ROI and drive more sales.
                       </p>
                       <p>
-                        I highly recommend Infy360 to any business looking for
+                        I highly recommend Brandnest to any business looking for
                         top-notch digital marketing services.
                       </p>
                       <div className="testimonial-caption">
@@ -989,7 +989,7 @@ const Landing = () => {
                     <div className="testimonial-content">
                       <p>
                         I have been extremely impressed with the digital
-                        marketing services provided by Infy360. Their team of
+                        marketing services provided by Brandnest. Their team of
                         experts helped to increase our online presence and drive
                         more traffic to our website. Their strategies for SEO,
                         PPC, and social media marketing were highly effective
@@ -999,8 +999,8 @@ const Landing = () => {
                       <p>
                         The team was also great at communicating with us and
                         keeping us informed about the progress of our campaigns.
-                        I highly recommend Infy360 to anyone looking to improve
-                        their digital marketing efforts.
+                        I highly recommend Brandnest to anyone looking to
+                        improve their digital marketing efforts.
                       </p>
                       <div className="testimonial-caption">
                         <h5>Sunny Nandwani</h5>
@@ -1023,7 +1023,7 @@ const Landing = () => {
                     </div>
                     <div className="testimonial-content">
                       <p>
-                        Infy360's digital marketing services have been a
+                        Brandnest's digital marketing services have been a
                         game-changer for my business. Their team is extremely
                         knowledgeable and helped me to increase my online
                         visibility and customer engagement. I highly recommend

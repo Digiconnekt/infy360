@@ -233,10 +233,12 @@ const Blog56 = () => {
                         agency can make a substantial difference.
                       </p>
 
-                      <h5>Infy360: Your Partner in Lead Generation Success</h5>
+                      <h5>
+                        Brandnest: Your Partner in Lead Generation Success
+                      </h5>
 
                       <p className="lead">
-                        At Infy360, we understand that lead generation is the
+                        At Brandnest, we understand that lead generation is the
                         crucial first step in bringing clients to your business.
                         Our team of experts is dedicated to planning and
                         executing lead generation campaigns from initialization
@@ -338,12 +340,12 @@ const Blog56 = () => {
                       </p>
 
                       <p className="lead">
-                        By partnering with Infy360, you're not just implementing
-                        lead generation strategies – you're leveraging a team of
-                        experts committed to your success. We help you reach
-                        your customers at the right place and at the right time,
-                        transforming your lead-generation efforts into a
-                        powerful engine for business growth.
+                        By partnering with Brandnest, you're not just
+                        implementing lead generation strategies – you're
+                        leveraging a team of experts committed to your success.
+                        We help you reach your customers at the right place and
+                        at the right time, transforming your lead-generation
+                        efforts into a powerful engine for business growth.
                       </p>
                     </div>
                   </div>

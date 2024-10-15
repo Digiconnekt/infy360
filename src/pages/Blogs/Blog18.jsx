@@ -1,4 +1,4 @@
-// blog9 === Revolutionizing Digital Marketing: How Infy360 is Pioneering the Future of Customer Engagement
+// blog9 === Revolutionizing Digital Marketing: How Brandnest is Pioneering the Future of Customer Engagement
 
 import React from "react";
 import { Helmet } from "react-helmet-async";
@@ -71,7 +71,7 @@ const Blog18 = () => {
 
                       <h5>What is Social Media Marketing?</h5>
                       <p className="lead">
-                        <b>Infy360 social media marketing</b> strategies that
+                        <b>Brandnest social media marketing</b> strategies that
                         use social media platforms to market your brand and
                         products to potential clients are known as social media
                         marketing strategies. Despite what many people think, it
@@ -91,7 +91,7 @@ const Blog18 = () => {
                         in addition to publishing original, frequent content.
                         Paid social ads, which put your business in front of the
                         appropriate people at the right moments through{" "}
-                        <b>infy360 social media marketing</b>. It is also an
+                        <b>brandnest social media marketing</b>. It is also an
                         important component of your strategy, depending on your
                         budget and specific objectives.{" "}
                       </p>
@@ -156,10 +156,10 @@ const Blog18 = () => {
                           >
                             Boost Brand Awareness:
                           </span>{" "}
-                          <b>Infy360 social media marketing </b>offers small and
-                          startup businesses the opportunity to showcase their
-                          brands. It can help you clarify how you differ from
-                          (and hopefully outperform) your rivals.
+                          <b>Brandnest social media marketing </b>offers small
+                          and startup businesses the opportunity to showcase
+                          their brands. It can help you clarify how you differ
+                          from (and hopefully outperform) your rivals.
                         </li>
                         <li className="mb-3" style={{ textAlign: "justify" }}>
                           <i className="flaticon-tick"></i>
@@ -282,7 +282,7 @@ const Blog18 = () => {
                         Social media marketing, or SMM, is essential for brands
                         looking to create clever marketing campaigns. Businesses
                         and brands must use{" "}
-                        <a href="../">infy360 social media marketing </a>
+                        <a href="../">brandnest social media marketing </a>
                         effectively since consumers nowadays are more informed
                         and have higher expectations. This entails staying
                         current with developments, understanding client

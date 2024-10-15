@@ -11,7 +11,7 @@ const Blog4 = () => {
     <>
       <Helmet>
         {/* Title */}
-        <title>Blogs - Infy360</title>
+        <title>Blogs - Brandnest</title>
 
         {/* Description */}
         <meta
@@ -90,7 +90,7 @@ social media agency,digital marketing services usa"
                           they? What are their interests, preferences, and
                           behaviours? What{" "}
                           <a
-                            href="https://www.instagram.com/infy360/?igshid=YmMyMTA2M2Y%3D"
+                            href="https://www.instagram.com/brandnest/?igshid=YmMyMTA2M2Y%3D"
                             target="_blank"
                             rel="noreferrer"
                           >

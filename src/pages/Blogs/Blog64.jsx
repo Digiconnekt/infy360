@@ -17,7 +17,7 @@ const Blog64 = () => {
         {/* Description */}
         <meta
           name="description"
-          content="In the ever-evolving digital landscape, businesses are constantly seeking ways to enhance their online presence and drive conversions. Two powerful strategies that, when combined, can significantly boost your digital marketing efforts are Search Engine Optimization (SEO) and Conversion Rate Optimization (CRO). As a leading provider of Search Engine Optimization Services, Infy360 understands the synergy between these two approaches and how they can supercharge your digital strategy."
+          content="In the ever-evolving digital landscape, businesses are constantly seeking ways to enhance their online presence and drive conversions. Two powerful strategies that, when combined, can significantly boost your digital marketing efforts are Search Engine Optimization (SEO) and Conversion Rate Optimization (CRO). As a leading provider of Search Engine Optimization Services, Brandnest understands the synergy between these two approaches and how they can supercharge your digital strategy."
         />
 
         {/* Keywords */}
@@ -68,9 +68,10 @@ const Blog64 = () => {
                         when combined, can significantly boost your digital
                         marketing efforts are Search Engine Optimization (SEO)
                         and Conversion Rate Optimization (CRO). As a leading
-                        provider of Search Engine Optimization Services, Infy360
-                        understands the synergy between these two approaches and
-                        how they can supercharge your digital strategy.
+                        provider of Search Engine Optimization Services,
+                        Brandnest understands the synergy between these two
+                        approaches and how they can supercharge your digital
+                        strategy.
                       </p>
 
                       <h4>Understanding SEO and CRO</h4>
@@ -261,7 +262,7 @@ const Blog64 = () => {
                         By combining SEO and CRO, you create a holistic digital
                         strategy that not only attracts more visitors but also
                         maximizes the value of that traffic. As a Top SEO
-                        Service provider, Infy360 can help you implement this
+                        Service provider, Brandnest can help you implement this
                         powerful combination, driving sustainable growth for
                         your business in the digital realm.
                       </p>
@@ -276,14 +277,14 @@ const Blog64 = () => {
                       </p>
 
                       <h4>
-                        Infy360: Your Partner in Integrated SEO and CRO
+                        Brandnest: Your Partner in Integrated SEO and CRO
                         Strategies
                       </h4>
 
                       <p className="lead">
-                        At Infy360, we pride ourselves on being more than just a
-                        Search Engine Optimization Service provider. We are your
-                        strategic partner in navigating the complex digital
+                        At Brandnest, we pride ourselves on being more than just
+                        a Search Engine Optimization Service provider. We are
+                        your strategic partner in navigating the complex digital
                         landscape, offering comprehensive solutions that combine
                         the power of SEO and CRO to drive tangible business
                         results.
@@ -369,7 +370,7 @@ const Blog64 = () => {
                       </ul>
 
                       <p className="lead">
-                        At Infy360, we're committed to helping your business
+                        At Brandnest, we're committed to helping your business
                         thrive in the digital world. Our integrated approach to
                         SEO and CRO can supercharge your digital strategy,
                         driving more qualified traffic to your site and turning

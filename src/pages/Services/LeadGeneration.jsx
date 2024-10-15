@@ -28,13 +28,13 @@ const LeadGeneration = () => {
       <Helmet>
         {/* Title */}
         <title>
-          Top B2B & B2C Lead Generation Agency in USA, Canada, India | Infy360
+          Top B2B & B2C Lead Generation Agency in USA, Canada, India | Brandnest
         </title>
 
         {/* Description */}
         <meta
           name="description"
-          content="Infy360, a top-tier B2B & B2C lead generation agency serving USA, Canada, and India. Unlock growth opportunities with our expert B2B lead generation services in Canada and targeted B2C lead generation solutions in India. Trust Infy360 to optimize your sales funnel and drive unparalleled success in the North American and Asian markets."
+          content="Brandnest, a top-tier B2B & B2C lead generation agency serving USA, Canada, and India. Unlock growth opportunities with our expert B2B lead generation services in Canada and targeted B2C lead generation solutions in India. Trust Brandnest to optimize your sales funnel and drive unparalleled success in the North American and Asian markets."
         />
 
         {/* Keywords */}
@@ -120,8 +120,9 @@ const LeadGeneration = () => {
                     className="mb-0 text-black"
                     style={{ textAlign: "justify" }}
                   >
-                    We will present the ideal customer to your company. Infy360
-                    is a team of highly experienced and creative people.
+                    We will present the ideal customer to your company.
+                    Brandnest is a team of highly experienced and creative
+                    people.
                   </p>
                 </div>
               </div>

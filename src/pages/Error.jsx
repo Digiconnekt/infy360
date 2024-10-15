@@ -6,7 +6,7 @@ const Error = () => {
     <>
       <Helmet>
         {/* Title */}
-        <title>404 Error - Infy360</title>
+        <title>404 Error - Brandnest</title>
 
         {/* Description */}
         <meta name="description" content="" />

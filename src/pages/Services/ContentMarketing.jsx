@@ -32,7 +32,7 @@ const ContentMarketing = () => {
         {/* Description */}
         <meta
           name="description"
-          content="Elevate your brand with Infy360, a premier content marketing agency in USA and Canada. Unlock SEO content writing excellence in India. Optimize your content for success with our expert content optimization service in Canada."
+          content="Elevate your brand with Brandnest, a premier content marketing agency in USA and Canada. Unlock SEO content writing excellence in India. Optimize your content for success with our expert content optimization service in Canada."
         />
 
         {/* Keywords */}

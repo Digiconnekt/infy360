@@ -1,4 +1,4 @@
-// blog9 === Revolutionizing Digital Marketing: How Infy360 is Pioneering the Future of Customer Engagement
+// blog9 === Revolutionizing Digital Marketing: How Brandnest is Pioneering the Future of Customer Engagement
 
 import React from "react";
 import { Helmet } from "react-helmet-async";
@@ -72,7 +72,7 @@ const Blog11 = () => {
                         digital marketer based on your goals.
                       </p>
                       <p className="lead">
-                        With its headquarters located in India, Infy360 is a
+                        With its headquarters located in India, Brandnest is a
                         professional digital marketing company which provides{" "}
                         <a href="/">
                           Online Marketing Service across the world
@@ -83,7 +83,7 @@ const Blog11 = () => {
                         to produce innovative work and satisfy end users.
                         Additionally, the business recognises the value of
                         accurate advertising. To get the desired results, a team
-                        of professionals at Infy360 works constantly on
+                        of professionals at Brandnest works constantly on
                         advertising forums.
                       </p>
 
@@ -107,13 +107,14 @@ const Blog11 = () => {
                       </p>
 
                       <h5>
-                        What is the Online Marketing Service offered by Infy360?
+                        What is the Online Marketing Service offered by
+                        Brandnest?
                       </h5>
                       <p className="lead">
-                        Infy360 serves as your company's growth engine. The top
-                        priority of the company is your growth. The goal of all
-                        of our services is to achieve desired outcomes through
-                        precise targeting. All of the material and
+                        Brandnest serves as your company's growth engine. The
+                        top priority of the company is your growth. The goal of
+                        all of our services is to achieve desired outcomes
+                        through precise targeting. All of the material and
                         advertisements are made with your company's image in
                         mind. The majority of the services by the{" "}
                         <a href="/services">Internet marketing agency in USA</a>{" "}
@@ -178,7 +179,7 @@ const Blog11 = () => {
                         </li>
                       </ul>
                       <p className="lead">
-                        Infy360, one of the best Internet marketing agency in
+                        Brandnest, one of the best Internet marketing agency in
                         USA optimize according to your needs. From SEO to
                         content optimization. The company structures every
                         sphere that suits your needs.
@@ -221,7 +222,7 @@ const Blog11 = () => {
                         have greater standards for the companies they interact
                         with and the various channels video, email, search
                         engines, and{" "}
-                        <a href="https://www.instagram.com/infy360/">
+                        <a href="https://www.instagram.com/brandnest/">
                           social media
                         </a>{" "}
                         through which they can be contacted.
@@ -269,11 +270,11 @@ const Blog11 = () => {
                         more swiftly and efficiently and to establish both
                         immediate and long-term relationships. It also enables
                         you to customise the message and distribution channel.
-                        Infy360, Internet marketing agency in USA is a powerful
-                        tool for digital transformation. It can optimise your
-                        return on investment and change your visualisation into
-                        true business innovation. The company is prepared to use
-                        our expertise to assist you!
+                        Brandnest, Internet marketing agency in USA is a
+                        powerful tool for digital transformation. It can
+                        optimise your return on investment and change your
+                        visualisation into true business innovation. The company
+                        is prepared to use our expertise to assist you!
                       </p>
                     </div>
                   </div>

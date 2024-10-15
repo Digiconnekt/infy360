@@ -1,4 +1,4 @@
-// blog9 === Revolutionizing Digital Marketing: How Infy360 is Pioneering the Future of Customer Engagement
+// blog9 === Revolutionizing Digital Marketing: How Brandnest is Pioneering the Future of Customer Engagement
 
 import React from "react";
 import { Helmet } from "react-helmet-async";
@@ -12,7 +12,7 @@ const Blog13 = () => {
       <Helmet>
         {/* Title */}
         <title>
-          Turn Likes into Leads: Infy360's SMO Tactics for Conversion Success
+          Turn Likes into Leads: Brandnest's SMO Tactics for Conversion Success
         </title>
 
         {/* Description */}
@@ -29,7 +29,7 @@ const Blog13 = () => {
       </Helmet>
 
       {/* title section start */}
-      <TitleSection title="Turn Likes into Leads: Infy360's SMO Tactics for Conversion Success" />
+      <TitleSection title="Turn Likes into Leads: Brandnest's SMO Tactics for Conversion Success" />
       {/* title section end */}
 
       {/* page content start */}
@@ -55,7 +55,7 @@ const Blog13 = () => {
                       </div>
                       <div className="post-title">
                         <h2>
-                          Turn Likes into Leads: Infy360's SMO Tactics for
+                          Turn Likes into Leads: Brandnest's SMO Tactics for
                           Conversion Success
                         </h2>
                       </div>
@@ -75,7 +75,7 @@ const Blog13 = () => {
                       <p className="lead">
                         The first step in attracting customers to{" "}
                         <a href="../services/lead-generation">
-                          Infy360 is lead generation
+                          Brandnest is lead generation
                         </a>{" "}
                         , which is why it receives a lot of attention. In order
                         to help the business draw in more customers, the SMO
@@ -83,7 +83,7 @@ const Blog13 = () => {
                         then converts into clients.
                       </p>
                       <p className="lead">
-                        The staff at Infy360 organises the campaigns from the
+                        The staff at Brandnest organises the campaigns from the
                         beginning to the end, starting with lead generation.
                         They apply their methods and research to get you
                         verified leads.
@@ -146,7 +146,7 @@ const Blog13 = () => {
                             Cost-Effective Marketing Strategy
                           </span>{" "}
                           By utilising free or inexpensive features on social
-                          media platforms, Infy360s provides a cost-effective
+                          media platforms, Brandnests provides a cost-effective
                           substitute for traditional marketing.
                         </li>
                         <li className="mb-3" style={{ textAlign: "justify" }}>
@@ -157,9 +157,9 @@ const Blog13 = () => {
                             Word-of-mouth advertising and the potential for
                             virality
                           </span>{" "}
-                          Infy360 facilitates word-of-mouth advertising by means
-                          of social media sharing and user-generated content,
-                          thereby expanding the audience organically.
+                          Brandnest facilitates word-of-mouth advertising by
+                          means of social media sharing and user-generated
+                          content, thereby expanding the audience organically.
                         </li>
                         <li className="mb-3" style={{ textAlign: "justify" }}>
                           <i className="flaticon-tick"></i>
@@ -176,7 +176,7 @@ const Blog13 = () => {
                       </ul>
 
                       <h5 className="mt-5 mb-3">
-                        Infy360's SMO Strategies for Successful Conversions
+                        Brandnest's SMO Strategies for Successful Conversions
                       </h5>
                       <p className="lead">
                         The application of successful methods is essential for

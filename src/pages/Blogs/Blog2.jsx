@@ -11,7 +11,7 @@ const Blog2 = () => {
     <>
       <Helmet>
         {/* Title */}
-        <title>Blogs - Infy360</title>
+        <title>Blogs - Brandnest</title>
 
         {/* Description */}
         <meta name="description" content="" />
@@ -213,8 +213,8 @@ const Blog2 = () => {
                         improving website content, and much more.
                       </p>
                       <p className="mb-0">
-                        Infy360 comes as a potent for your digitalization, from
-                        transforming your visualization to real business
+                        Brandnest comes as a potent for your digitalization,
+                        from transforming your visualization to real business
                         innovation and maximizing your ROI. We are ready to
                         serve you with our proficiency!
                       </p>

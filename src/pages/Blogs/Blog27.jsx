@@ -72,7 +72,7 @@ const Blog27 = () => {
                         results from email marketing efforts.
                       </p>
                       <p className="lead">
-                        Infy360’s{" "}
+                        Brandnest’s{" "}
                         <a href="../">Email marketing agency in the USA</a>
                         facilitates tailored marketing campaigns via email
                         through their innovative strategies.{" "}
@@ -87,7 +87,7 @@ const Blog27 = () => {
                         opening emails, and clicking on links inside them.
                       </p>
                       <p className="lead">
-                        Infy360 is the{" "}
+                        Brandnest is the{" "}
                         <b>best Email company in the USA and Canada</b> which
                         offers services like List Management, Subscription
                         Management, Message Scheduling, Campaign Tracking, Open
@@ -96,7 +96,7 @@ const Blog27 = () => {
 
                       <p className="lead">
                         Now let us have a look at how this{" "}
-                        <b>Email marketing agency </b>in the USA, Infy360 can
+                        <b>Email marketing agency </b>in the USA, Brandnest can
                         transform your business through customized and
                         innovative marketing through emails.{" "}
                       </p>
@@ -308,16 +308,16 @@ const Blog27 = () => {
                         personalization.{" "}
                       </p>
                       <p className="lead">
-                        Infy360 carefully employs these tactics to keep up with
-                        the competition in the digital space. This{" "}
+                        Brandnest carefully employs these tactics to keep up
+                        with the competition in the digital space. This{" "}
                         <b>Email marketing agency in the USA</b> can be a smart
                         decision for companies who wish to enhance their
                         personalization attempts.{" "}
                       </p>
 
                       <p className="lead">
-                        Agencies such as <a href="../">Infy360</a>, known as one
-                        of the{" "}
+                        Agencies such as <a href="../">Brandnest</a>, known as
+                        one of the{" "}
                         <b>Best Email Marketing Companies USA & Canada</b>,
                         possess the skills and strategies required for
                         constructing and launching customized email paths which
@@ -325,7 +325,7 @@ const Blog27 = () => {
                       </p>
 
                       <p className="lead">
-                        The tailor-made and innovative advice Infy360’s{" "}
+                        The tailor-made and innovative advice Brandnest’s{" "}
                         <b>Email marketing agency in the USA </b> offers, their
                         technical knowledge and skill in personalization will
                         assist you in moving beyond normal batch emails into

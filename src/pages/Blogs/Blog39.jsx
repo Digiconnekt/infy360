@@ -17,7 +17,7 @@ const Blog39 = () => {
         {/* Description */}
         <meta
           name="description"
-          content="Greetings, SEO enthusiasts and digital marketing aficionados! This is Infy360, the best SEO Agency in the UK, coming at you with an insider's guide to the mystical realm of technical SEO. Brace yourselves, for we're about to pull back the curtain and unveil the secrets that have propelled us to the summit of search engine optimization mastery."
+          content="Greetings, SEO enthusiasts and digital marketing aficionados! This is Brandnest, the best SEO Agency in the UK, coming at you with an insider's guide to the mystical realm of technical SEO. Brace yourselves, for we're about to pull back the curtain and unveil the secrets that have propelled us to the summit of search engine optimization mastery."
         />
 
         {/* Keywords */}
@@ -66,7 +66,7 @@ const Blog39 = () => {
                         aficionados!
                       </p>
                       <p className="lead">
-                        This is Infy360, the best SEO Agency in the UK, coming
+                        This is Brandnest, the best SEO Agency in the UK, coming
                         at you with an insider's guide to the mystical realm of
                         technical SEO. Brace yourselves, for we're about to pull
                         back the curtain and unveil the secrets that have
@@ -227,7 +227,7 @@ const Blog39 = () => {
                       <p className="lead">
                         So, if you're ready to unlock the full potential of your
                         website and dominate the search engine rankings, look no
-                        further than Infy360.
+                        further than Brandnest.
                       </p>
 
                       <p className="lead">
