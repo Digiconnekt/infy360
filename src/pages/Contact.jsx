@@ -182,7 +182,7 @@ const Contact = () => {
                         India
                       </span>
                       <br />
-                      <a href="tel:+918595334605">+91 85953 34605</a>
+                      <a href="tel:+919953306911">+91 99533 06911</a>
                     </li>
                   </ul>
                 </div>
@@ -477,6 +477,23 @@ const Contact = () => {
                             style={{ fontSize: "15px" }}
                           >
                             Pay Per Click
+                          </label>
+                        </div>
+                        <div className="form-check mb-2">
+                          <input
+                            className="form-check-input checkbox-color"
+                            type="checkbox"
+                            value="Branding"
+                            id="branding"
+                            name="requireAssistanceWith"
+                            onChange={onChangeHandler}
+                          />
+                          <label
+                            className="form-check-label"
+                            htmlFor="branding"
+                            style={{ fontSize: "15px" }}
+                          >
+                            Branding
                           </label>
                         </div>
                       </div>

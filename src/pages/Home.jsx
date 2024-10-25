@@ -891,15 +891,16 @@ const Home = () => {
                   <div className="clients-logo">
                     <img
                       className="img-fluid"
-                      src="images/home/clients/m-and-s.png"
-                      alt="M and S"
+                      src="images/home/clients/paytm.jpg"
+                      alt="paytm"
+                      style={{ maxWidth: "200px", height: "72px" }}
                     />
                   </div>
                   <div className="clients-logo">
                     <img
                       className="img-fluid"
-                      src="images/home/clients/oneretailworld.png"
-                      alt="One Retail World"
+                      src="images/home/clients/ford.png"
+                      alt="ford"
                       style={{ maxWidth: "200px", height: "72px" }}
                     />
                   </div>
@@ -939,30 +940,16 @@ const Home = () => {
                   <div className="clients-logo">
                     <img
                       className="img-fluid"
-                      src="images/home/clients/epam.png"
-                      alt="Epam"
-                    />
-                  </div>
-                  <div className="clients-logo">
-                    <img
-                      className="img-fluid"
-                      src="images/home/clients/haleon.png"
-                      alt="haleon"
+                      src="images/home/clients/haier.png"
+                      alt="haier"
                       style={{ maxWidth: "200px", height: "72px" }}
                     />
                   </div>
                   <div className="clients-logo">
                     <img
                       className="img-fluid"
-                      src="images/home/clients/listed.png"
-                      alt="Listed"
-                    />
-                  </div>
-                  <div className="clients-logo">
-                    <img
-                      className="img-fluid"
-                      src="images/home/clients/healbox.png"
-                      alt="Healbox"
+                      src="images/home/clients/astro-push.webp"
+                      alt="astro-push"
                       style={{ maxWidth: "200px", height: "72px" }}
                     />
                   </div>
@@ -976,15 +963,9 @@ const Home = () => {
                   <div className="clients-logo">
                     <img
                       className="img-fluid"
-                      src="images/home/clients/metamore.png"
-                      alt="Metamore"
-                    />
-                  </div>
-                  <div className="clients-logo">
-                    <img
-                      className="img-fluid"
-                      src="images/home/clients/startup-buddy.png"
-                      alt="Startup Buddy"
+                      src="images/home/clients/interglobe.png"
+                      alt="interglobe"
+                      style={{ maxWidth: "200px", height: "72px" }}
                     />
                   </div>
                   <div className="clients-logo">

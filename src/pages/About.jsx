@@ -83,16 +83,16 @@ const About = () => {
                   <h6>About Us</h6>
                 </div>
                 <p className="text-black">
-                  Brandnest is an experienced digital marketing company with
-                  headquarters in India. Our primary focus is to provide highly
-                  efficient designs and functional user interfaces, integrating
-                  the latest technologies and frameworks to deliver innovation
-                  and end-user delight.
+                  Brandnest is an experienced digital marketing company
+                  headquartered in India. We focus on providing highly efficient
+                  designs and functional user interfaces, integrating the latest
+                  technologies and frameworks to deliver innovation and delight
+                  to end users.
                 </p>
                 <p className="text-black">
                   We boost your digital space with the latest technology by
-                  deeply analyzing the latest tool and technology, the demand of
-                  the market, and generating results accordingly.
+                  deeply analyzing the latest tools and technologies, the
+                  demands of the market, and generating results accordingly.
                 </p>
               </div>
             </div>
@@ -106,7 +106,7 @@ const About = () => {
             <div className="row justify-content-center text-center">
               <div className="col-lg-6 col-md-10">
                 <div className="section-title">
-                  <h2 className="title">How It Work</h2>
+                  <h2 className="title">How It Works</h2>
                 </div>
               </div>
             </div>
@@ -124,8 +124,8 @@ const About = () => {
                     </div>
                     <h4>Analyze</h4>
                     <p className="mb-0">
-                      Doing good R&D on market trends, and customers' needs and
-                      finding solutions to increase the ROI.
+                      Doing in-depth research on market trends, and customer
+                      needs and find solutions to address the underlying issues.
                     </p>
                   </div>
                 </div>
@@ -143,9 +143,9 @@ const About = () => {
                     </div>
                     <h4>Advertise</h4>
                     <p className="mb-0">
-                      We understand the importance of correct advertising. Our
-                      team of professionals works intensely on advertising
-                      forums to drive the desired results.
+                      We understand the importance of advertising. Our team of
+                      professionals will guide you with the best plan of
+                      execution to drive the desired results.
                     </p>
                   </div>
                 </div>
@@ -216,23 +216,23 @@ const About = () => {
                   <h2 className="title">What we do</h2>
                   <p className="text-black" style={{ textAlign: "justify" }}>
                     We leverage secure & scalable solutions with the integration
-                    of technologies to develop solutions to translate your
+                    of technologies to develop solutions that translate your
                     visionary ideas into reality. This approach is used across
-                    all the digital marketing spheres from Search Engine
-                    Optimization to Search Engine Marketing.
+                    all the digital marketing from Search Engine Optimization to
+                    Search Engine Marketing.
                   </p>
                   <p className="text-black" style={{ textAlign: "justify" }}>
-                    Some of our highlighted methodologies for personalized
-                    marketing include Google Analytics for analyzing growth and
-                    engagement, marketing automation inculcating Smart Bidding,
-                    improving CRM, AI tools for improving website content, and
-                    much more.
+                    We use a variety of methodologies to provide personalized
+                    marketing. Some of our highlighted methodologies include
+                    Google Analytics for analyzing growth and engagement,
+                    marketing automation inculcating Smart Bidding, improving
+                    CRM, AI tools for improving website content, and much more.
                   </p>
                   <p className="text-black" style={{ textAlign: "justify" }}>
-                    Brandnest comes as a potent for your digitalization, from
-                    transforming your visualization to real business innovation
-                    and maximizing your ROI. We are ready to serve you with our
-                    proficiency!
+                    Brandnest is a powerful tool for your digitalization. We can
+                    help you transform your visualizations into real business
+                    innovations that maximize your ROI. We are ready to serve
+                    you with our proficiency!
                   </p>
                 </div>
               </div>
@@ -258,18 +258,17 @@ const About = () => {
                 <div className="section-title mb-4">
                   <h2 className="title">Why Choose Us </h2>
                   <p className="text-black" style={{ textAlign: "justify" }}>
-                    Our proficiency brings in brand development, analytics, and
-                    consulting experience that enables you to understand client
-                    needs and design robust systems, and user-friendly solutions
-                    in an efficient way. We align to be a part of your journey
-                    to translate your visionary ideas into user-centric
-                    solutions.
+                    We align to be a part of your journey to translate your
+                    visionary ideas into user-centric solutions. Our proficiency
+                    in brand development, analytics, and consulting enables us
+                    to understand client needs and design robust systems and
+                    user-friendly solutions in an efficient way.
                   </p>
                   <p className="text-black" style={{ textAlign: "justify" }}>
                     We aim to expand your brand name across dimensions, increase
                     client engagement, and maximize ROI by leveraging existing
                     approaches and integrating new technologies to drive digital
-                    excellence
+                    excellence.
                   </p>
                 </div>
               </div>
@@ -291,11 +290,11 @@ const About = () => {
                   <h6>Services</h6>
                   <h2 className="title">Services we provide</h2>
                   <p className="mb-0">
-                    Our services act as the fuel for the growth of your
-                    business. Your growth is our primary priority. All our
-                    services are focused on precision targeting for desired
-                    results. All our ads and content are tailored for your
-                    business to set a great impression of your brand.
+                    Our services are designed to fuel the growth of your
+                    business. Your growth is our primary priority. All of our
+                    services are focused on precision targeting to achieve the
+                    desired results for your business. Our ads and content are
+                    tailored to create a great impression of your brand.
                   </p>
                 </div>
               </div>
@@ -317,12 +316,12 @@ const About = () => {
                         className="text-black"
                         style={{ textAlign: "justify" }}
                       >
-                        We trust statistics! We are committed to boosting your
-                        organic search leads by a noticeable amount, positioning
-                        your company in the digital age, influencing consumer
-                        behavior, promoting autonomous purchasing, and boosting
-                        local traffic, all of which will improve the graph of
-                        your visibility and engagement.
+                        We rely on Statistics! Our goal is to significantly
+                        increase your organic search leads, position your
+                        company for success in the digital era, shape consumer
+                        behaviour, encourage independent purchasing, and drive
+                        more local traffic—all of which will enhance your
+                        visibility and engagement.
                       </p>
                     </div>
                   </div>
@@ -346,15 +345,13 @@ const About = () => {
                         className="text-black"
                         style={{ textAlign: "justify" }}
                       >
-                        After research doing a search audit is a must as it
-                        filters the flaws in your content. Once your content is
-                        ready set up your social media pages, find inspiration,
-                        and improve your profile. Bingo, get started, create
-                        content, be consistent and see your engagement rate
-                        increase!
-                        <span style={{ opacity: "0" }}>
-                          Lorem ipsum dolor sit amet. Lorem ipsum dolor sit
-                        </span>
+                        Conducting a search audit is essential after thorough
+                        research, as it helps identify flaws in your content.
+                        Once your content is optimized, we will set up your
+                        social media pages, gather inspiration, and enhance your
+                        profiles. Once that is in place, you start creating
+                        content, maintain consistency, and watch your engagement
+                        rate rise.
                       </p>
                     </div>
                   </div>
@@ -378,13 +375,13 @@ const About = () => {
                         className="text-black"
                         style={{ textAlign: "justify" }}
                       >
-                        A great tool for boosting your digital marketing
-                        initiatives at Brandnest is the bulk email service. By
-                        dividing your customers into distinct categories and
-                        identifying their demands, we can manage your customers
-                        more effectively and raise your conversion rates. By
-                        sending emails at the ideal time, our AI-powered
-                        technologies improve your engagement graph.
+                        The bulk email service at Brandnest is a great tool for
+                        boosting your digital marketing initiatives. We help you
+                        manage your customers more effectively and increase your
+                        conversion rates by segmenting your customers into
+                        distinct categories and identifying their needs. Our
+                        AI-powered technologies optimize your engagement graph
+                        by sending emails at the optimal time.
                       </p>
                     </div>
                   </div>
@@ -408,16 +405,14 @@ const About = () => {
                         className="text-black"
                         style={{ textAlign: "justify" }}
                       >
-                        We look into the interests and demands of our target
-                        audiences worldwide. The needs of your users are the
-                        main priority for our content. Your website will
-                        continue to rank highly in Google search results thanks
-                        to our expertly crafted content that is SEO-aligned and
-                        drives organic traffic.
-                        <span style={{ opacity: "0" }}>
-                          Lorem ipsum dolor sit amet. Lorem ipsum dolor sit
-                          Lorem ipsum dolor sit amet.
-                        </span>
+                        We're always looking for ways to improve our content to
+                        better serve our users. Our goal is to create content
+                        that is relevant and interesting to our target audience.
+                        We believe that creating content that is aligned with
+                        search engine optimization (SEO) best practices is
+                        essential to driving organic traffic to your website. We
+                        will continue to focus on creating high-quality content
+                        that is both relevant and engaging to our users.
                       </p>
                     </div>
                   </div>
@@ -442,15 +437,11 @@ const About = () => {
                         style={{ textAlign: "justify" }}
                       >
                         We review data three times per week and feed the results
-                        back to our internal campaigns to revise our plans in
-                        order to optimise for highly profitable and high
-                        set-rate campaigns. We track and enhance the success of
-                        your marketing initiatives using solid statistics. We
-                        are aware of your most profitable Zips, counties, and
-                        cities before you are.
-                        <span style={{ opacity: "0" }}>
-                          Lorem ipsum dolor sit amet. Lorem ipsum dolor sit
-                        </span>
+                        back to our campaigns to revise our plans in order to
+                        optimize for highly profitable campaigns. We track and
+                        enhance the success of your marketing initiatives using
+                        solid statistics. We are aware of your most profitable
+                        Zips, counties, and cities before you are.
                       </p>
                     </div>
                   </div>
@@ -478,15 +469,43 @@ const About = () => {
                   <div className="clients-logo">
                     <img
                       className="img-fluid"
-                      src="images/home/clients/m-and-s.png"
-                      alt="M and S"
+                      src="images/home/clients/nostra.svg"
+                      alt="Nostra"
                     />
                   </div>
                   <div className="clients-logo">
                     <img
                       className="img-fluid"
-                      src="images/home/clients/acuver.png"
-                      alt="Acuver"
+                      src="images/home/clients/ek-katha.svg"
+                      alt="Ek Katha"
+                      style={{ maxWidth: "200px", height: "72px" }}
+                    />
+                  </div>
+                  <div className="clients-logo">
+                    <img
+                      className="img-fluid"
+                      src="images/home/clients/paytm.jpg"
+                      alt="paytm"
+                      style={{ maxWidth: "200px", height: "72px" }}
+                    />
+                  </div>
+                  <div className="clients-logo">
+                    <img
+                      className="img-fluid"
+                      src="images/home/clients/ford.png"
+                      alt="ford"
+                      style={{ maxWidth: "200px", height: "72px" }}
+                    />
+                  </div>
+                  <div className="clients-logo">
+                    <img
+                      className="img-fluid"
+                      src="images/home/clients/affinity.png"
+                      alt="affinity"
+                      style={{
+                        maxWidth: "200px",
+                        height: "72px",
+                      }}
                     />
                   </div>
                   <div className="clients-logo">
@@ -506,36 +525,25 @@ const About = () => {
                   <div className="clients-logo">
                     <img
                       className="img-fluid"
-                      src="images/home/clients/dream-webies.png"
-                      alt="Dream Webies"
+                      src="images/home/clients/glance.png"
+                      alt="glance"
+                      style={{ maxWidth: "200px", height: "72px" }}
                     />
                   </div>
                   <div className="clients-logo">
                     <img
                       className="img-fluid"
-                      src="images/home/clients/epam.png"
-                      alt="Epam"
+                      src="images/home/clients/haier.png"
+                      alt="haier"
+                      style={{ maxWidth: "200px", height: "72px" }}
                     />
                   </div>
                   <div className="clients-logo">
                     <img
                       className="img-fluid"
-                      src="images/home/clients/life-trail.png"
-                      alt="Life Trail"
-                    />
-                  </div>
-                  <div className="clients-logo">
-                    <img
-                      className="img-fluid"
-                      src="images/home/clients/listed.png"
-                      alt="Listed"
-                    />
-                  </div>
-                  <div className="clients-logo">
-                    <img
-                      className="img-fluid"
-                      src="images/home/clients/m-and-s.png"
-                      alt="M And S"
+                      src="images/home/clients/astro-push.webp"
+                      alt="astro-push"
+                      style={{ maxWidth: "200px", height: "72px" }}
                     />
                   </div>
                   <div className="clients-logo">
@@ -548,22 +556,17 @@ const About = () => {
                   <div className="clients-logo">
                     <img
                       className="img-fluid"
-                      src="images/home/clients/metamore.png"
-                      alt="Metamore"
+                      src="images/home/clients/interglobe.png"
+                      alt="interglobe"
+                      style={{ maxWidth: "200px", height: "72px" }}
                     />
                   </div>
                   <div className="clients-logo">
                     <img
                       className="img-fluid"
-                      src="images/home/clients/startup-buddy.png"
-                      alt="Startup Buddy"
-                    />
-                  </div>
-                  <div className="clients-logo">
-                    <img
-                      className="img-fluid"
-                      src="images/home/clients/buildnetic.png"
-                      alt="Buildnetic"
+                      src="images/home/clients/himalaya-wellness.png"
+                      alt="himalaya-wellness"
+                      style={{ maxWidth: "200px", height: "72px" }}
                     />
                   </div>
                   <div className="clients-logo">
@@ -576,8 +579,33 @@ const About = () => {
                   <div className="clients-logo">
                     <img
                       className="img-fluid"
-                      src="images/home/clients/the-coding-trail.png"
-                      alt="The Coding Trail"
+                      src="images/home/clients/newgen.png"
+                      alt="newgen"
+                      style={{ maxWidth: "200px", height: "72px" }}
+                    />
+                  </div>
+                  <div className="clients-logo">
+                    <img
+                      className="img-fluid"
+                      src="images/home/clients/ooddles.png"
+                      alt="ooddles"
+                      style={{ maxWidth: "200px", height: "72px" }}
+                    />
+                  </div>
+                  <div className="clients-logo">
+                    <img
+                      className="img-fluid"
+                      src="images/home/clients/sleepwell.png"
+                      alt="sleepwell"
+                      style={{ maxWidth: "200px", height: "72px" }}
+                    />
+                  </div>
+                  <div className="clients-logo">
+                    <img
+                      className="img-fluid"
+                      src="images/home/clients/umar-ujala.png"
+                      alt="umar-ujala"
+                      style={{ maxWidth: "200px", height: "72px" }}
                     />
                   </div>
                 </div>
@@ -587,40 +615,176 @@ const About = () => {
         </section>
         {/* clients end */}
 
-        {/* contact btn start */}
-        {/* <section
-          className="overflow-hidden dark-bg animatedBackground mb-10 mt-5"
-          data-bg-img="../images/pattern/06.png"
-          style={{
-            backgroundImage: 'url("../images/pattern/06.png")',
-          }}
+        {/* Team start */}
+        <section
+          className="bg-contain"
+          data-bg-img="images/pattern/02.png"
+          style={{ backgroundImage: "url(../images/pattern/02.png)" }}
         >
           <div className="container">
             <div className="row justify-content-center text-center">
               <div className="col-lg-8 col-md-12">
-                <div className="section-title mb-0">
-                  <div className="row">
-                    <div className="col-lg-11 col-md-12 me-auto">
-                      <div className="align-items-center white-bg box-shadow px-3 py-3 radius d-md-flex justify-content-between">
-                        <h4 className="mb-0">Let's Discuss</h4>
-                        <div className="subscribe-form sm-mt-2">
-                          <form id="mc-form" className="group">
-                            <input
-                              type="email"
-                              name="EMAIL"
-                              className="email"
-                              id="mc-email"
-                              placeholder="Email Address"
-                              required
-                            />
-                            <input
-                              className="btn btn-theme"
-                              type="submit"
-                              name="subscribe"
-                              value="Subscribe"
-                            />
-                          </form>
-                        </div>
+                <div className="section-title">
+                  <h6>Leadership Team</h6>
+                  <h2 className="title">Meet The Leadership Team</h2>
+                </div>
+              </div>
+            </div>
+
+            <div className="row">
+              <div className="col-md-12">
+                <div className="row align-items-center">
+                  <div className="col-lg-5 col-md-12">
+                    <div className="team-single">
+                      <div className="team-images">
+                        <img
+                          className="img-fluid w-100"
+                          src="images/team/01.jpg"
+                          alt=""
+                        />
+                      </div>
+                    </div>
+                  </div>
+                  <div className="col-lg-6 me-auto col-md-12">
+                    <div className="team-description md-px-3 md-py-3">
+                      <h6 className="text-theme">CEO and Founder</h6>
+                      <h2 className="title z-index-1 mb-2">Aparna</h2>
+                      <p className="lead mb-3">
+                        Aparna is a hands-on leader and digital expert who
+                        provides specific tactics and strategies to grow brands
+                        online. She has worked with numerous brands, from
+                        Fortune 500 companies to reputable startups including
+                        Google, PayTM, Haier, Interglobe, Sleepwell, Ford, and
+                        NewGen. Aparna sets the stage for a proactive work
+                        culture and personally reviews every project to ensure
+                        BrandNest generates results. She has two golden rules
+                        for the team: 1. Do outstanding work, not just good
+                        work, and 2. Don’t drag on tasks.
+                      </p>
+                      <p className="lead mb-3">
+                        Aparna in her experience has worked with Media giants
+                        like Dainik Bhaskar and Dainik Jagran, thus expanding
+                        her knowledge and experience in both Digital and Print
+                        media. She has helped many companies in their IPO
+                        launches with her branding strategies both in digital
+                        and print media.
+                      </p>
+                      <p className="lead mb-3">
+                        Aparns’s prowess in both traditional and digital
+                        marketing sets her apart in elevating brands to new
+                        heights.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="col-md-12 mt-10">
+                <div className="row align-items-center">
+                  <div className="col-lg-6 me-auto col-md-12">
+                    <div className="team-description md-px-3 md-py-3">
+                      <h6 className="text-theme">Business Head</h6>
+                      <h2 className="title z-index-1 mb-2">Jay</h2>
+                      <p className="lead mb-3">
+                        Jay bring’s over 16 years of tech and digital industry
+                        leadership experience to the table, with expertise in
+                        business development, sales, and key account management.
+                        He has a proven track record of setting strategic goals,
+                        collaborating with senior teams to define and execute
+                        business and marketing plans, and driving domestic and
+                        international business growth.
+                      </p>
+                      <p className="lead mb-3">
+                        An Alumni of IIM Calcutta, Jay’s strategic vision has
+                        enabled him to forge meaningful connections with
+                        audiences and drive exceptional sales results through
+                        digital strategy.
+                      </p>
+                    </div>
+                  </div>
+                  <div className="col-lg-5 col-md-12">
+                    <div className="team-single">
+                      <div className="team-images">
+                        <img
+                          className="img-fluid w-100"
+                          src="images/team/01.jpg"
+                          alt=""
+                        />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="col-md-12 mt-10">
+                <div className="row align-items-center">
+                  <div className="col-lg-5 col-md-12">
+                    <div className="team-single">
+                      <div className="team-images">
+                        <img
+                          className="img-fluid w-100"
+                          src="images/team/01.jpg"
+                          alt=""
+                        />
+                      </div>
+                    </div>
+                  </div>
+                  <div className="col-lg-6 me-auto col-md-12">
+                    <div className="team-description md-px-3 md-py-3">
+                      <h6 className="text-theme">Digital Strategist</h6>
+                      <h2 className="title z-index-1 mb-2">Priyanka</h2>
+                      <p className="lead mb-3">
+                        Behind every brand is a business, as an agency, Priyanka
+                        believes that it’s our job to grow both. With over a
+                        decade of agency and client-side experience, Priyanka
+                        has been an integral part of all aspects of agency
+                        functions including project management, sales, account
+                        services, SEO, PPC, Social Media.
+                      </p>
+                      <p className="lead mb-3">
+                        Priyanka thrives in digital strategy and is a client
+                        champion, going above and beyond to exceed her client’s
+                        goals through hard-hitting strategies and determination.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="col-md-12 mt-10">
+                <div className="row align-items-center">
+                  <div className="col-lg-6 me-auto col-md-12">
+                    <div className="team-description md-px-3 md-py-3">
+                      <h6 className="text-theme">
+                        Performance Marketing Strategist
+                      </h6>
+                      <h2 className="title z-index-1 mb-2">Kushal</h2>
+                      <p className="lead mb-3">
+                        With over 12 years of experience, Kushal is a seasoned
+                        Performance Marketer who specializes in paid media and
+                        growth marketing. He has a proven track record of
+                        leading high-profile commercial expansion and
+                        performance improvement initiatives across a mix of SME
+                        and Enterprise organisations.
+                      </p>
+                      <p className="lead mb-3">
+                        At BrandNest, Kushal and her team leverage data and
+                        insights to design and implement effective marketing and
+                        growth strategies that increase market share,
+                        engagement, and profitability.
+                      </p>
+                      <p className="lead mb-3">
+                        Kushal is passionate about helping businesses to grow
+                        and thrive by delivering innovative and impactful
+                        solutions that meet their needs and goals.
+                      </p>
+                    </div>
+                  </div>
+                  <div className="col-lg-5 col-md-12">
+                    <div className="team-single">
+                      <div className="team-images">
+                        <img
+                          className="img-fluid w-100"
+                          src="images/team/01.jpg"
+                          alt=""
+                        />
                       </div>
                     </div>
                   </div>
@@ -628,112 +792,8 @@ const About = () => {
               </div>
             </div>
           </div>
-        </section> */}
-        {/* contact btn end */}
-
-        {/* blog start */}
-        {/* <section>
-          <div className="container">
-            <div className="row justify-content-center text-center">
-              <div className="col-lg-8 col-md-12">
-                <div className="section-title">
-                  <h6>Blog's</h6>
-                  <h2 className="title">Read our latest news</h2>
-                </div>
-              </div>
-            </div>
-            <div className="row">
-              <div className="col-lg-4 col-md-12">
-                <div className="post style-2">
-                  <div className="post-image">
-                    <img
-                      className="img-fluid h-100 w-100"
-                      src="images/blog/blog1.png"
-                      alt="Blog 1"
-                    />
-                  </div>
-                  <div className="post-desc">
-                    <div className="post-date">
-                      02 <span>January 2023</span>
-                    </div>
-                    <div className="post-title">
-                      <h5>
-                        <a href="/blogs/blog1">
-                          The role of SEO in modern digital marketing strategies
-                        </a>
-                      </h5>
-                    </div>
-                    <p>
-                      In today's digital landscape, search engine optimization
-                      (SEO) is more important than ever for businesses looking
-                      to reach their target audience...{" "}
-                      <a href="/blogs/blog1">read more</a>
-                    </p>
-                  </div>
-                </div>
-              </div>
-              <div className="col-lg-4 col-md-12 mt-5 mt-lg-0">
-                <div className="post style-2">
-                  <div className="post-image">
-                    <img
-                      className="img-fluid h-100 w-100"
-                      src="images/blog/blog2.png"
-                      alt="Blog 2"
-                    />
-                  </div>
-                  <div className="post-desc">
-                    <div className="post-date">
-                      09 <span>January 2023</span>
-                    </div>
-                    <div className="post-title">
-                      <h5>
-                        <a href="/blogs/blog2">
-                          10 Tips for Optimizing Your Social Media Presence
-                        </a>
-                      </h5>
-                    </div>
-                    <p>
-                      Social media is an essential part of any modern marketing
-                      strategy, but with so many platforms to choose from and an
-                      ever-evolving set of best practices...{" "}
-                      <a href="/blogs/blog2">read more</a>
-                    </p>
-                  </div>
-                </div>
-              </div>
-              <div className="col-lg-4 col-md-12 mt-5 mt-lg-0">
-                <div className="post style-2">
-                  <div className="post-image">
-                    <img
-                      className="img-fluid h-100 w-100"
-                      src="images/blog/blog3.png"
-                      alt="Blog 3"
-                    />
-                  </div>
-                  <div className="post-desc">
-                    <div className="post-date">
-                      11 <span>January 2023</span>
-                    </div>
-                    <div className="post-title">
-                      <h5>
-                        <a href="/blogs/blog3">
-                          Advanced PPC Techniques: Taking Your Campaigns to the
-                          Next Level
-                        </a>
-                      </h5>
-                    </div>
-                    <p>
-                      Pay-per-click (PPC) advertising is an effective way for
-                      businesses of all sizes to reach their target audience
-                      and... <a href="/blogs/blog3">read more</a>
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section> */}
-        {/* blog end */}
+        </section>
+        {/* Team end */}
       </div>
       {/* page content end */}
     </>

@@ -412,7 +412,7 @@ const SearchEngineOptmization = () => {
         {/* Our Standard SEO Process end */}
 
         {/* checkout SEO packages start */}
-        <section
+        {/* <section
           className="overflow-hidden dark-bg animatedBackground py-3"
           data-bg-img="../images/pattern/06.png"
           style={{
@@ -445,7 +445,7 @@ const SearchEngineOptmization = () => {
               </div>
             </div>
           </div>
-        </section>
+        </section> */}
         {/* checkout SEO packages end */}
 
         {/* 3 block start */}
@@ -803,7 +803,7 @@ const SearchEngineOptmization = () => {
       </div>
       {/* page content end */}
 
-      <StickyViewSeoPackageBtn />
+      {/* <StickyViewSeoPackageBtn /> */}
     </>
   );
 };

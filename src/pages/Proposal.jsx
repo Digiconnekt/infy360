@@ -61,7 +61,7 @@ const Proposal = () => {
     mainObjective: formData.mainObjective,
     concern: formData.concern,
     everCollaborated: formData.everCollaborated,
-    experience: formData.experience,
+    // experience: formData.experience,
     lookingFor: formData.lookingFor,
     moneyBring: formData.moneyBring,
     phone: formData.phone,
@@ -116,9 +116,9 @@ const Proposal = () => {
       errors.everCollaborated = "This Field is required";
     }
 
-    if (!values.experience) {
-      errors.experience = "This Field is required";
-    }
+    // if (!values.experience) {
+    //   errors.experience = "This Field is required";
+    // }
 
     if (values.lookingFor < 1) {
       errors.lookingFor = "Please select atleast one";
@@ -190,7 +190,7 @@ const Proposal = () => {
       </Helmet>
 
       {/* title section start */}
-      <TitleSection title="Get A Proposal" />
+      <TitleSection title="Get A Quote" />
       {/* title section end */}
 
       <div className="page-content">
@@ -203,8 +203,8 @@ const Proposal = () => {
             <div className="row align-items-center justify-content-center">
               <div className="col-lg-8 col-md-7">
                 <div className="section-title mb-2">
-                  <h6>Proposal</h6>
-                  <h2 className="title">Get A Proposal</h2>
+                  <h6>Quote</h6>
+                  <h2 className="title">Get A Quote</h2>
                 </div>
                 <div className="contact-main">
                   <form
@@ -221,14 +221,14 @@ const Proposal = () => {
                         className="mb-2"
                         style={{ fontSize: "18px", fontWeight: "500" }}
                       >
-                        Let's start by asking you for your Fullname.
+                        Let's start by asking you for your Full Name.
                       </label>
                       <input
                         id="form_name"
                         type="text"
                         name="name"
                         className="form-control"
-                        placeholder="Enter Your Fullname here..."
+                        placeholder="Enter Your Full Name here..."
                         required
                         onChange={onChangeHandler}
                       />
@@ -247,7 +247,7 @@ const Proposal = () => {
                         className="mb-2"
                         style={{ fontSize: "18px", fontWeight: "500" }}
                       >
-                        What is your website, then?
+                        Name of your Website?
                       </label>
                       <input
                         id="form_name"
@@ -273,7 +273,7 @@ const Proposal = () => {
                         className="mb-2"
                         style={{ fontSize: "18px", fontWeight: "500" }}
                       >
-                        And what is your main objective?
+                        What is your main objective?
                       </label>
                       <div className="" style={{ ...style, ...bgStyle }}>
                         <div className="form-check mt-2 mb-2">
@@ -314,7 +314,7 @@ const Proposal = () => {
                           <input
                             className="form-check-input checkbox-color"
                             type="checkbox"
-                            value="Grow brand awareness"
+                            value="Increase brand awareness"
                             id="growBrandAwareness"
                             onChange={onChangeHandler}
                             name="mainObjective"
@@ -324,7 +324,7 @@ const Proposal = () => {
                             htmlFor="growBrandAwareness"
                             style={{ fontSize: "15px" }}
                           >
-                            Grow brand awareness
+                            Increase brand awareness
                           </label>
                         </div>
                         <div className="form-check mt-2 mb-2">
@@ -389,8 +389,7 @@ const Proposal = () => {
                         className="mb-2"
                         style={{ fontSize: "18px", fontWeight: "500" }}
                       >
-                        Which concern do you have the most at the moment? How
-                        come?
+                        Which concern do you have the most at the moment?
                       </label>
                       <input
                         id="form_name"
@@ -416,7 +415,9 @@ const Proposal = () => {
                         className="mb-2"
                         style={{ fontSize: "18px", fontWeight: "500" }}
                       >
-                        Have you ever collaborated with an organisation?
+                        Have you in the past worked with a partner to address
+                        the above concerns ever collaborated with an
+                        organisation?
                       </label>
                       <div className="" style={{ ...style, ...bgStyle }}>
                         <div className="form-check mt-2 mb-2">
@@ -464,7 +465,7 @@ const Proposal = () => {
                     {/* have you ever collab end */}
 
                     {/* what prior experience start */}
-                    <div className="col-md-12 mb-3">
+                    {/* <div className="col-md-12 mb-3">
                       <label
                         className="mb-2"
                         style={{ fontSize: "18px", fontWeight: "500" }}
@@ -658,7 +659,7 @@ const Proposal = () => {
                       >
                         {formErrors.experience}
                       </div>
-                    </div>
+                    </div> */}
                     {/* what prior experience end */}
 
                     {/* what service looking start */}
@@ -667,7 +668,7 @@ const Proposal = () => {
                         className="mb-2"
                         style={{ fontSize: "18px", fontWeight: "500" }}
                       >
-                        All right! Now, in what services are you looking?
+                        All right! Now, which services are you interested?
                       </label>
                       <div className="" style={{ ...style, ...bgStyle }}>
                         <div className="form-check mt-2 mb-2">
@@ -789,6 +790,23 @@ const Proposal = () => {
                             Pay Per Click
                           </label>
                         </div>
+                        <div className="form-check mt-2 mb-2">
+                          <input
+                            className="form-check-input checkbox-color"
+                            type="checkbox"
+                            value="Branding"
+                            id="branding"
+                            onChange={onChangeHandler}
+                            name="lookingFor"
+                          />
+                          <label
+                            className="form-check-label"
+                            htmlFor="branding"
+                            style={{ fontSize: "15px" }}
+                          >
+                            Branding
+                          </label>
+                        </div>
                       </div>
                       <div
                         className="invalid-feedback"
@@ -805,8 +823,7 @@ const Proposal = () => {
                         className="mb-2"
                         style={{ fontSize: "18px", fontWeight: "500" }}
                       >
-                        How much money does your company now bring in each month
-                        on average?
+                        Monthly turnover of your company?
                       </label>
                       <div className="" style={{ ...style, ...bgStyle }}>
                         <div className="form-check mt-2 mb-2">
@@ -962,7 +979,8 @@ const Proposal = () => {
                         style={{ fontSize: "18px", fontWeight: "500" }}
                       >
                         Please provide your contact information so that we may
-                        contact you with your quote.
+                        contact you with quote or reach out should there be a
+                        need for clarification.
                       </label>
                       <div className="row">
                         <div className="col-md-6 mt-2 mb-2">

@@ -153,7 +153,7 @@ const Footer = () => {
                             <a href="/blogs">Blogs</a>
                           </li> */}
                           <li>
-                            <a href="/proposal">Get A Proposal</a>
+                            <a href="/quote">Get A Quote</a>
                           </li>
                           <li>
                             <a href="/contact">Contact</a>
@@ -198,6 +198,9 @@ const Footer = () => {
                           <li>
                             <a href="/services/ppc">Pay Per Click</a>
                           </li>
+                          <li>
+                            <a href="/services/branding">Branding</a>
+                          </li>
                         </ul>
                       </div>
                     </div>
@@ -218,11 +221,11 @@ const Footer = () => {
                       </li>
                       <li>
                         <a
-                          href="tel:+918595334605"
+                          href="tel:+919953306911"
                           target="_blank"
                           rel="noreferrer"
                         >
-                          +91 85953 34605
+                          +91 99533 06911
                         </a>
                       </li>
                     </ul>

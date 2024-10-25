@@ -198,42 +198,34 @@ const Header = () => {
                                 Pay Per Click
                               </a>
                             </li>
+                            <li>
+                              <a
+                                href="/services/branding"
+                                style={
+                                  location === "/services/branding"
+                                    ? subMenuActive
+                                    : {}
+                                }
+                              >
+                                Branding
+                              </a>
+                            </li>
                           </ul>
                         </div>
                       </li>
                       {/* services link end */}
 
-                      {/* blog link start */}
-                      {/* {location !== "/digital-marketing-proposal" && (
-                        <li className="nav-item dropdown">
-                          <a
-                            href="/blogs"
-                            className={`${
-                              location === "/blogs" ||
-                              location === "/blogs/blog1" ||
-                              location === "/blogs/blog2" ||
-                              location === "/blogs/blog3"
-                                ? "nav-link active"
-                                : "nav-link"
-                            }`}
-                          >
-                            Blogs
-                          </a>
-                        </li>
-                      )} */}
-                      {/* blog link end */}
-
                       {/* proposal link start */}
                       <li className="nav-item dropdown">
                         <a
-                          href="/proposal"
+                          href="/quote"
                           className={`${
-                            location === "/proposal"
+                            location === "/quote"
                               ? "nav-link active"
                               : "nav-link"
                           }`}
                         >
-                          Get A Proposal
+                          Get A Quote
                         </a>
                       </li>
                       {/* proposal link end */}
