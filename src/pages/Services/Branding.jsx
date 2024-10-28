@@ -1,7 +1,5 @@
 import React from "react";
-import ContentImg from "../../components/ContentImg";
 import ImgContent from "../../components/ImgContent";
-import OneLiner from "../../components/OneLiner";
 import TitleSection from "../../components/Title";
 import ServicesLinkCarousel from "../../components/ServicesLinkCarousel";
 import "./scrollBar.css";
@@ -11,7 +9,7 @@ import { Helmet } from "react-helmet-async";
 const Branding = () => {
   // What is branding? start
   const bulkEmailMarketing = {
-    img: "../images/services/email-marketing/bulkEmailMarketing.png",
+    img: "../images/services/branding/branding-1.jpeg",
     title: `What is branding?`,
     para: [
       `Branding is psychology & science bought together.`,
@@ -97,7 +95,7 @@ const Branding = () => {
                 <div class="info-img position-relative">
                   <img
                     class="img-fluid topBottom"
-                    src="../images/services/email-marketing/bulkEmailMarketing.png"
+                    src="../images/services/branding/branding-2.jpeg"
                     alt=""
                   />
                 </div>

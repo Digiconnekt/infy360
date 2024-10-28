@@ -639,8 +639,13 @@ const About = () => {
                       <div className="team-images">
                         <img
                           className="img-fluid w-100"
-                          src="images/team/01.jpg"
-                          alt=""
+                          src="../images/about/team/aparna.jpeg"
+                          alt="aparna"
+                          style={{
+                            width: "100%",
+                            height: "600px",
+                            objectFit: "cover",
+                          }}
                         />
                       </div>
                     </div>
@@ -706,8 +711,13 @@ const About = () => {
                       <div className="team-images">
                         <img
                           className="img-fluid w-100"
-                          src="images/team/01.jpg"
-                          alt=""
+                          src="../images/about/team/jay.jpeg"
+                          alt="jay"
+                          style={{
+                            width: "100%",
+                            height: "600px",
+                            objectFit: "cover",
+                          }}
                         />
                       </div>
                     </div>
@@ -721,8 +731,8 @@ const About = () => {
                       <div className="team-images">
                         <img
                           className="img-fluid w-100"
-                          src="images/team/01.jpg"
-                          alt=""
+                          src="../images/about/team/priyanka.jpeg"
+                          alt="priyanka"
                         />
                       </div>
                     </div>
@@ -782,10 +792,57 @@ const About = () => {
                       <div className="team-images">
                         <img
                           className="img-fluid w-100"
-                          src="images/team/01.jpg"
-                          alt=""
+                          src="../images/about/team/kushal.jpeg"
+                          alt="kushal"
+                          style={{
+                            width: "100%",
+                            height: "600px",
+                            objectFit: "cover",
+                          }}
                         />
                       </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="col-md-12 mt-10">
+                <div className="row align-items-center">
+                  <div className="col-lg-5 col-md-12">
+                    <div className="team-single">
+                      <div className="team-images">
+                        <img
+                          className="img-fluid w-100"
+                          src="../images/about/team/madan.jpeg"
+                          alt="madan"
+                          style={{
+                            width: "100%",
+                            height: "600px",
+                            objectFit: "cover",
+                          }}
+                        />
+                      </div>
+                    </div>
+                  </div>
+                  <div className="col-lg-6 me-auto col-md-12">
+                    <div className="team-description md-px-3 md-py-3">
+                      <h6 className="text-theme">Digital Strategist</h6>
+                      <h2 className="title z-index-1 mb-2">Madan</h2>
+                      <p className="lead mb-3">
+                        Madan's approach to agency work is rooted in the
+                        understanding that a brand's success is tied to its
+                        underlying business. His experience spans various agency
+                        roles, and he is dedicated to helping clients achieve
+                        their goals through effective digital strategies. At
+                        BrandNest, Madan and his team use data and insights to
+                        craft and implement powerful marketing and growth
+                        strategies, boosting market share, engagement, and
+                        profitability.
+                      </p>
+                      <p className="lead mb-3">
+                        Passionate about helping businesses thrive, Madan
+                        delivers innovative and impactful solutions tailored to
+                        meet their needs and goals.
+                      </p>
                     </div>
                   </div>
                 </div>
