@@ -1,10 +1,12 @@
 import React, { useEffect, useState } from "react";
 import AxiosPost from "../API";
 import StickyWhatsapp from "./StickyWhatsapp";
+import useMail from "../utils/sendMail";
 
 const Footer = () => {
   const [formErrors, setFormErrors] = useState({});
   const [isSubmit, setIsSubmit] = useState(false);
+  const { isLoading, data: mailData, sendMailReq } = useMail();
 
   const [formData, setFormData] = useState({
     email: "",
@@ -17,29 +19,30 @@ const Footer = () => {
     setFormData(() => ({ ...formData, [handlerName]: handlerValue }));
   };
 
-  const payload = {
-    email: formData.email,
+  useEffect(() => {
+    if (Object.keys(formErrors).length === 0 && isSubmit) {
+      const templateData = {
+        subject: "Newsletter",
+        email: formData.email,
+      };
 
-    organisation: "brandnest",
-    messageFrom: window.location.href + ` - footer`,
-  };
-
-  useEffect(
-    (e) => {
-      // console.log(formErrors);
-      if (Object.keys(formErrors).length === 0 && isSubmit) {
-        AxiosPost(payload);
-        // console.log(formData);
-      }
-    },
-    [formErrors]
-  );
+      sendMailReq(templateData, "template_ysxo2bq");
+    }
+  }, [formErrors]);
 
   const submitFormData = (e) => {
     e.preventDefault();
     setFormErrors(validate(formData));
     setIsSubmit(true);
   };
+
+  useEffect(() => {
+    if (mailData?.status === 200 && mailData?.text === "OK") {
+      setFormData({
+        email: "",
+      });
+    }
+  }, [mailData]);
 
   // validation start
   const validate = (values) => {
@@ -249,13 +252,15 @@ const Footer = () => {
                             id="mc-email"
                             placeholder="Email Address"
                             required
+                            value={formData.email}
                             onChange={onChangeHandler}
                           />
                           <input
                             className="btn btn-theme mt-1 mb-1"
                             type="submit"
                             name="subscribe"
-                            value="Subscribe"
+                            value={isLoading ? "Loading..." : "Subscribe"}
+                            disabled={isLoading}
                           />
                         </form>
                         <div

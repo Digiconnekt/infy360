@@ -1,9 +1,11 @@
 import React, { useEffect, useState } from "react";
 import AxiosPost from "../API";
+import useMail from "../utils/sendMail";
 
 const ContactBtnBanner = ({ fromSection }) => {
   const [formErrors, setFormErrors] = useState({});
   const [isSubmit, setIsSubmit] = useState(false);
+  const { isLoading, data: mailData, sendMailReq } = useMail();
 
   const [formData, setFormData] = useState({
     email: "",
@@ -16,29 +18,30 @@ const ContactBtnBanner = ({ fromSection }) => {
     setFormData(() => ({ ...formData, [handlerName]: handlerValue }));
   };
 
-  const payload = {
-    email: formData.email,
+  useEffect(() => {
+    if (Object.keys(formErrors).length === 0 && isSubmit) {
+      const templateData = {
+        subject: "Newsletter",
+        email: formData.email,
+      };
 
-    organisation: "brandnest",
-    messageFrom: window.location.href + ` - ${fromSection}`,
-  };
-
-  useEffect(
-    (e) => {
-      // console.log(formErrors);
-      if (Object.keys(formErrors).length === 0 && isSubmit) {
-        AxiosPost(payload);
-        // console.log(formData);
-      }
-    },
-    [formErrors]
-  );
+      sendMailReq(templateData, "template_ysxo2bq");
+    }
+  }, [formErrors]);
 
   const submitFormData = (e) => {
     e.preventDefault();
     setFormErrors(validate(formData));
     setIsSubmit(true);
   };
+
+  useEffect(() => {
+    if (mailData?.status === 200 && mailData?.text === "OK") {
+      setFormData({
+        email: "",
+      });
+    }
+  }, [mailData]);
 
   // validation start
   const validate = (values) => {
@@ -85,6 +88,7 @@ const ContactBtnBanner = ({ fromSection }) => {
                             type="email"
                             name="email"
                             className="email"
+                            value={formData.email}
                             id="mc-email"
                             placeholder="Email Address"
                             required
@@ -94,7 +98,8 @@ const ContactBtnBanner = ({ fromSection }) => {
                             className="btn btn-theme mt-3 mt-sm-0"
                             type="submit"
                             name="subscribe"
-                            value="Let's Discuss"
+                            value={isLoading ? "Loading..." : "Let's Discuss"}
+                            disabled={isLoading}
                           />
                         </form>
                         <div

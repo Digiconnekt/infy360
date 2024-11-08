@@ -1,9 +1,11 @@
 import React, { useEffect, useState } from "react";
 import AxiosPost from "../API";
+import useMail from "../utils/sendMail";
 
 const GetFreeSiteAudit = () => {
   const [formErrors, setFormErrors] = useState({});
   const [isSubmit, setIsSubmit] = useState(false);
+  const { isLoading, data: mailData, sendMailReq } = useMail();
 
   const [formData, setFormData] = useState({
     name: "",
@@ -18,31 +20,34 @@ const GetFreeSiteAudit = () => {
     setFormData(() => ({ ...formData, [handlerName]: handlerValue }));
   };
 
-  const payload = {
-    name: formData.name,
-    email: formData.email,
-    websiteLink: formData.websiteLink,
+  useEffect(() => {
+    if (Object.keys(formErrors).length === 0 && isSubmit) {
+      const templateData = {
+        subject: "Free Site Audit",
+        fullName: formData.name,
+        email: formData.email,
+        websiteLink: formData.websiteLink,
+      };
 
-    organisation: "brandnest",
-    messageFrom: window.location.href,
-  };
-
-  useEffect(
-    (e) => {
-      // console.log(formErrors);
-      if (Object.keys(formErrors).length === 0 && isSubmit) {
-        AxiosPost(payload);
-        // console.log(formData);
-      }
-    },
-    [formErrors]
-  );
+      sendMailReq(templateData, "template_ysxo2bq");
+    }
+  }, [formErrors]);
 
   const submitFormData = (e) => {
     e.preventDefault();
     setFormErrors(validate(formData));
     setIsSubmit(true);
   };
+
+  useEffect(() => {
+    if (mailData?.status === 200 && mailData?.text === "OK") {
+      setFormData({
+        name: "",
+        email: "",
+        websiteLink: "",
+      });
+    }
+  }, [mailData]);
 
   // validation start
   const validate = (values) => {
@@ -95,6 +100,7 @@ const GetFreeSiteAudit = () => {
                       name="name"
                       className="form-control"
                       placeholder="Name"
+                      value={formData.name}
                       required
                       onChange={onChangeHandler}
                       style={{ background: "none", borderColor: "#ff7810" }}
@@ -112,6 +118,7 @@ const GetFreeSiteAudit = () => {
                       name="email"
                       className="form-control"
                       placeholder="Email"
+                      value={formData.email}
                       required
                       onChange={onChangeHandler}
                       style={{ background: "none", borderColor: "#ff7810" }}
@@ -129,6 +136,7 @@ const GetFreeSiteAudit = () => {
                       name="websiteLink"
                       className="form-control"
                       placeholder="Website Link"
+                      value={formData.websiteLink}
                       required
                       onChange={onChangeHandler}
                       style={{ background: "none", borderColor: "#ff7810" }}
@@ -144,8 +152,9 @@ const GetFreeSiteAudit = () => {
                     <button
                       className="btn btn-theme btn-radius"
                       style={{ width: "100%" }}
+                      disabled={isLoading}
                     >
-                      <span>Get Audit</span>
+                      <span>{isLoading ? "Loading..." : "Get Audit"}</span>
                     </button>
                   </div>
 

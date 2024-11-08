@@ -5,10 +5,12 @@ import AxiosPost from "../API";
 import TitleSection from "../components/Title";
 import ReCAPTCHA from "react-google-recaptcha";
 import { Helmet } from "react-helmet-async";
+import useMail from "../utils/sendMail";
 
 const Contact = () => {
   const [formErrors, setFormErrors] = useState({});
   const [isSubmit, setIsSubmit] = useState(false);
+  const { isLoading, data: mailData, sendMailReq } = useMail();
 
   const [formData, setFormData] = useState({
     name: "",
@@ -42,35 +44,42 @@ const Contact = () => {
     }
   };
 
-  const payload = {
-    fullName: formData.name,
-    email: formData.email,
-    phone: formData.phone,
-    message: formData.message,
-    joinWithUs: formData.joinWithUs,
-    requireAssistanceWith: formData.requireAssistanceWith,
-    findOutAboutUs: formData.findOutAboutUs,
+  useEffect(() => {
+    if (Object.keys(formErrors).length === 0 && isSubmit) {
+      const templateData = {
+        subject: "Contact Us",
+        fullName: formData.name,
+        email: formData.email,
+        phone: formData.phone,
+        message: formData.message,
+        joinWithUs: formData.joinWithUs,
+        requireAssistanceWith: formData.requireAssistanceWith,
+        findOutAboutUs: formData.findOutAboutUs,
+      };
 
-    organisation: "brandnest",
-    messageFrom: window.location.href,
-  };
-
-  useEffect(
-    (e) => {
-      // console.log(formErrors);
-      if (Object.keys(formErrors).length === 0 && isSubmit) {
-        AxiosPost(payload);
-        // console.log(formData);
-      }
-    },
-    [formErrors]
-  );
+      sendMailReq(templateData, "template_ysxo2bq");
+    }
+  }, [formErrors]);
 
   const submitFormData = (e) => {
     e.preventDefault();
     setFormErrors(validate(formData));
     setIsSubmit(true);
   };
+
+  useEffect(() => {
+    if (mailData?.status === 200 && mailData?.text === "OK") {
+      setFormData({
+        name: "",
+        email: "",
+        phone: "",
+        message: "",
+        joinWithUs: "Of Course!",
+        requireAssistanceWith: [],
+        findOutAboutUs: "",
+      });
+    }
+  }, [mailData]);
 
   // validation start
   const validate = (values) => {
@@ -636,8 +645,11 @@ const Contact = () => {
 
                     {/* send button start */}
                     <div className="col-md-12">
-                      <button className="btn btn-theme btn-radius">
-                        <span>Send Message</span>
+                      <button
+                        className="btn btn-theme btn-radius"
+                        disabled={isLoading}
+                      >
+                        <span>{isLoading ? "Sending..." : "Send Message"}</span>
                       </button>
                     </div>
                     {/* send button end */}

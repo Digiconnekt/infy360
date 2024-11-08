@@ -3,10 +3,12 @@ import TitleSection from "../components/Title";
 import "../App.css";
 import AxiosPost from "../API";
 import { Helmet } from "react-helmet-async";
+import useMail from "../utils/sendMail";
 
 const Proposal = () => {
   const [formErrors, setFormErrors] = useState({});
   const [isSubmit, setIsSubmit] = useState(false);
+  const { isLoading, data: mailData, sendMailReq } = useMail();
 
   const [formData, setFormData] = useState({
     name: "",
@@ -55,34 +57,25 @@ const Proposal = () => {
     }
   };
 
-  const payload = {
-    fullName: formData.name,
-    website: formData.website,
-    mainObjective: formData.mainObjective,
-    concern: formData.concern,
-    everCollaborated: formData.everCollaborated,
-    // experience: formData.experience,
-    lookingFor: formData.lookingFor,
-    moneyBring: formData.moneyBring,
-    phone: formData.phone,
-    email: formData.email,
-    company: formData.company,
-    dateTime: formData.dateTime,
+  useEffect(() => {
+    if (Object.keys(formErrors).length === 0 && isSubmit) {
+      const templateData = {
+        fullName: formData.name,
+        website: formData.website,
+        mainObjective: formData.mainObjective,
+        concern: formData.concern,
+        everCollaborated: formData.everCollaborated,
+        lookingFor: formData.lookingFor,
+        moneyBring: formData.moneyBring,
+        phone: formData.phone,
+        email: formData.email,
+        company: formData.company,
+        meetDateTime: formData.dateTime,
+      };
 
-    organisation: "brandnest",
-    messageFrom: window.location.href,
-  };
-
-  useEffect(
-    (e) => {
-      // console.log(formErrors);
-      if (Object.keys(formErrors).length === 0 && isSubmit) {
-        AxiosPost(payload);
-        // console.log(formData);
-      }
-    },
-    [formErrors]
-  );
+      sendMailReq(templateData, "template_liug2zd");
+    }
+  }, [formErrors]);
 
   const submitFormData = (e) => {
     e.preventDefault();
@@ -1064,8 +1057,11 @@ const Proposal = () => {
 
                     {/* send button start */}
                     <div className="col-md-12">
-                      <button className="btn btn-theme btn-radius">
-                        <span>Send Message</span>
+                      <button
+                        className="btn btn-theme btn-radius"
+                        disabled={isLoading}
+                      >
+                        <span>{isLoading ? "Sending..." : "Send Message"}</span>
                       </button>
                     </div>
                     {/* send button end */}
