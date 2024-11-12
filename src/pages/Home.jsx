@@ -538,16 +538,7 @@ const Home = () => {
                         <div className="item">
                           <div className="testimonial style-2">
                             <div className="row align-items-center">
-                              <div className="col-lg-6 col-md-12">
-                                <div className="testimonial-img info-img round-animation">
-                                  <img
-                                    className="img-fluid leftRight"
-                                    src="images/home/testimonial/milind.png"
-                                    alt="Milind Srivastava"
-                                  />
-                                </div>
-                              </div>
-                              <div className="col-lg-5 col-md-12 ms-auto mt-5 mt-lg-0">
+                              <div className="col-12">
                                 <div className="testimonial-content">
                                   <div className="testimonial-quote">
                                     <i className="flaticon-quotation"></i>
@@ -565,8 +556,8 @@ const Home = () => {
                                     services.
                                   </p>
                                   <div className="testimonial-caption">
-                                    <h5>Milind Srivastava</h5>
-                                    <label>Senior Manager, Wise</label>
+                                    <h5>Ajay Pandey</h5>
+                                    <label>V P Marketing, Sleepwell</label>
                                   </div>
                                 </div>
                               </div>
@@ -581,16 +572,7 @@ const Home = () => {
                         <div className="item">
                           <div className="testimonial style-2">
                             <div className="row align-items-center">
-                              <div className="col-lg-6 col-md-12">
-                                <div className="testimonial-img info-img round-animation">
-                                  <img
-                                    className="img-fluid leftRight"
-                                    src="images/home/testimonial/sunny.png"
-                                    alt="Sunny Nandwani"
-                                  />
-                                </div>
-                              </div>
-                              <div className="col-lg-5 col-md-12 ms-auto mt-5 mt-lg-0">
+                              <div className="col-12">
                                 <div className="testimonial-content">
                                   <div className="testimonial-quote">
                                     <i className="flaticon-quotation"></i>
@@ -614,8 +596,10 @@ const Home = () => {
                                     improve their digital marketing efforts.
                                   </p>
                                   <div className="testimonial-caption">
-                                    <h5>Sunny Nandwani</h5>
-                                    <label>Founder, Acuver</label>
+                                    <h5>Vishal</h5>
+                                    <label>
+                                      Head - Brand and Promotions, Haier
+                                    </label>
                                   </div>
                                 </div>
                               </div>
@@ -630,16 +614,7 @@ const Home = () => {
                         <div className="item">
                           <div className="testimonial style-2">
                             <div className="row align-items-center">
-                              <div className="col-lg-6 col-md-12">
-                                <div className="testimonial-img info-img round-animation">
-                                  <img
-                                    className="img-fluid leftRight"
-                                    src="images/home/testimonial/stuti.png"
-                                    alt="Stuti Shukla"
-                                  />
-                                </div>
-                              </div>
-                              <div className="col-lg-5 col-md-12 ms-auto mt-5 mt-lg-0">
+                              <div className="col-12">
                                 <div className="testimonial-content">
                                   <div className="testimonial-quote">
                                     <i className="flaticon-quotation"></i>
@@ -654,8 +629,8 @@ const Home = () => {
                                     grow their online presence.
                                   </p>
                                   <div className="testimonial-caption">
-                                    <h5>Stuti Shukla</h5>
-                                    <label>Senior Manager, Family Movers</label>
+                                    <h5>Alison</h5>
+                                    <label>CEO, Ooddles Kitchen, UK</label>
                                   </div>
                                 </div>
                               </div>
@@ -663,152 +638,6 @@ const Home = () => {
                           </div>
                         </div>
                       </div>
-                      {/* <div className="owl-item" style={{ width: "1296px" }}>
-                        <div className="item">
-                          <div className="testimonial style-2">
-                            <div className="row align-items-center">
-                              <div className="col-lg-6 col-md-12">
-                                <div className="testimonial-img info-img round-animation">
-                                  <img
-                                    className="img-fluid leftRight"
-                                    src="images/testimonial/01.png"
-                                    alt=""
-                                  />
-                                </div>
-                              </div>
-                              <div className="col-lg-5 col-md-12 ms-auto mt-5 mt-lg-0">
-                                <div className="testimonial-content">
-                                  <div className="testimonial-quote">
-                                    <i className="flaticon-quotation"></i>
-                                  </div>
-                                  <p>
-                                    Professional recommended and great
-                                    experience, Nam pulvinar vitae neque et
-                                    porttitor, Praesent sed nisi eleifend,
-                                    Consectetur adipisicing elit, sed do
-                                    eiusmodas temporo incididunt
-                                  </p>
-                                  <div className="testimonial-caption">
-                                    <h5>Lana Roadse</h5>
-                                    <label>CEO of Loptus</label>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div className="owl-item" style={{ width: "1296px" }}>
-                        <div className="item">
-                          <div className="testimonial style-2">
-                            <div className="row align-items-center">
-                              <div className="col-lg-6 col-md-12">
-                                <div className="testimonial-img info-img round-animation">
-                                  <img
-                                    className="img-fluid leftRight"
-                                    src="images/testimonial/01.png"
-                                    alt=""
-                                  />
-                                </div>
-                              </div>
-                              <div className="col-lg-5 col-md-12 ms-auto mt-5 mt-lg-0">
-                                <div className="testimonial-content">
-                                  <div className="testimonial-quote">
-                                    <i className="flaticon-quotation"></i>
-                                  </div>
-                                  <p>
-                                    Professional recommended and great
-                                    experience, Nam pulvinar vitae neque et
-                                    porttitor, Praesent sed nisi eleifend,
-                                    Consectetur adipisicing elit, sed do
-                                    eiusmodas temporo incididunt
-                                  </p>
-                                  <div className="testimonial-caption">
-                                    <h5>Lana Roadse</h5>
-                                    <label>CEO of Loptus</label>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div
-                        className="owl-item cloned"
-                        style={{ width: "1296px" }}
-                      >
-                        <div className="item">
-                          <div className="testimonial style-2">
-                            <div className="row align-items-center">
-                              <div className="col-lg-6 col-md-12">
-                                <div className="testimonial-img info-img round-animation">
-                                  <img
-                                    className="img-fluid leftRight"
-                                    src="images/testimonial/01.png"
-                                    alt=""
-                                  />
-                                </div>
-                              </div>
-                              <div className="col-lg-5 col-md-12 ms-auto mt-5 mt-lg-0">
-                                <div className="testimonial-content">
-                                  <div className="testimonial-quote">
-                                    <i className="flaticon-quotation"></i>
-                                  </div>
-                                  <p>
-                                    Professional recommended and great
-                                    experience, Nam pulvinar vitae neque et
-                                    porttitor, Praesent sed nisi eleifend,
-                                    Consectetur adipisicing elit, sed do
-                                    eiusmodas temporo incididunt
-                                  </p>
-                                  <div className="testimonial-caption">
-                                    <h5>Lana Roadse</h5>
-                                    <label>CEO of Loptus</label>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div
-                        className="owl-item cloned"
-                        style={{ width: "1296px" }}
-                      >
-                        <div className="item">
-                          <div className="testimonial style-2">
-                            <div className="row align-items-center">
-                              <div className="col-lg-6 col-md-12">
-                                <div className="testimonial-img info-img round-animation">
-                                  <img
-                                    className="img-fluid leftRight"
-                                    src="images/testimonial/01.png"
-                                    alt=""
-                                  />
-                                </div>
-                              </div>
-                              <div className="col-lg-5 col-md-12 ms-auto mt-5 mt-lg-0">
-                                <div className="testimonial-content">
-                                  <div className="testimonial-quote">
-                                    <i className="flaticon-quotation"></i>
-                                  </div>
-                                  <p>
-                                    Professional recommended and great
-                                    experience, Nam pulvinar vitae neque et
-                                    porttitor, Praesent sed nisi eleifend,
-                                    Consectetur adipisicing elit, sed do
-                                    eiusmodas temporo incididunt
-                                  </p>
-                                  <div className="testimonial-caption">
-                                    <h5>Lana Roadse</h5>
-                                    <label>CEO of Loptus</label>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div> */}
                     </div>
                   </div>
                   <div className="owl-nav disabled">
