@@ -465,147 +465,323 @@ const About = () => {
             </div>
             <div className="row">
               <div className="col-md-12">
-                <div className="ht-clients d-flex flex-wrap align-items-center text-center">
-                  <div className="clients-logo">
+                <div className="ht-clients d-flex flex-wrap text-center">
+                  <div
+                    className="clients-logo"
+                    style={{
+                      display: "flex",
+                      alignItems: "center",
+                      justifyContent: "center",
+                    }}
+                  >
                     <img
                       className="img-fluid"
                       src="images/home/clients/nostra.svg"
                       alt="Nostra"
                     />
                   </div>
-                  <div className="clients-logo">
+                  <div
+                    className="clients-logo"
+                    style={{
+                      display: "flex",
+                      alignItems: "center",
+                      justifyContent: "center",
+                    }}
+                  >
                     <img
                       className="img-fluid"
                       src="images/home/clients/ek-katha.svg"
                       alt="Ek Katha"
-                      style={{ maxWidth: "200px", height: "72px" }}
+                      style={{
+                        maxWidth: "110px",
+                        width: "100%",
+                        // height: "72px",
+                      }}
                     />
                   </div>
-                  <div className="clients-logo">
+                  <div
+                    className="clients-logo"
+                    style={{
+                      display: "flex",
+                      alignItems: "center",
+                      justifyContent: "center",
+                    }}
+                  >
                     <img
                       className="img-fluid"
                       src="images/home/clients/paytm.jpg"
                       alt="paytm"
-                      style={{ maxWidth: "200px", height: "72px" }}
+                      style={{
+                        maxWidth: "110px",
+                        width: "100%",
+                        // height: "72px",
+                      }}
                     />
                   </div>
-                  <div className="clients-logo">
+                  <div
+                    className="clients-logo"
+                    style={{
+                      display: "flex",
+                      alignItems: "center",
+                      justifyContent: "center",
+                    }}
+                  >
                     <img
                       className="img-fluid"
                       src="images/home/clients/ford.png"
                       alt="ford"
-                      style={{ maxWidth: "200px", height: "72px" }}
+                      style={{
+                        maxWidth: "110px",
+                        width: "100%",
+                        // height: "72px",
+                      }}
                     />
                   </div>
-                  <div className="clients-logo">
+                  <div
+                    className="clients-logo"
+                    style={{
+                      display: "flex",
+                      alignItems: "center",
+                      justifyContent: "center",
+                    }}
+                  >
                     <img
                       className="img-fluid"
                       src="images/home/clients/affinity.png"
                       alt="affinity"
                       style={{
-                        maxWidth: "200px",
-                        height: "72px",
+                        maxWidth: "110px",
+                        width: "100%",
+                        // height: "72px",
                       }}
                     />
                   </div>
-                  <div className="clients-logo">
+                  <div
+                    className="clients-logo"
+                    style={{
+                      display: "flex",
+                      alignItems: "center",
+                      justifyContent: "center",
+                    }}
+                  >
                     <img
                       className="img-fluid"
                       src="images/home/clients/car-dekho.png"
                       alt="Car Dekho"
                     />
                   </div>
-                  <div className="clients-logo">
+                  <div
+                    className="clients-logo"
+                    style={{
+                      display: "flex",
+                      alignItems: "center",
+                      justifyContent: "center",
+                    }}
+                  >
                     <img
                       className="img-fluid"
                       src="images/home/clients/design-pax.png"
                       alt="Design Pax"
                     />
                   </div>
-                  <div className="clients-logo">
+                  <div
+                    className="clients-logo"
+                    style={{
+                      display: "flex",
+                      alignItems: "center",
+                      justifyContent: "center",
+                    }}
+                  >
                     <img
                       className="img-fluid"
                       src="images/home/clients/glance.png"
                       alt="glance"
-                      style={{ maxWidth: "200px", height: "72px" }}
+                      style={{
+                        maxWidth: "110px",
+                        width: "100%",
+                        // height: "72px",
+                      }}
                     />
                   </div>
-                  <div className="clients-logo">
+                  <div
+                    className="clients-logo"
+                    style={{
+                      display: "flex",
+                      alignItems: "center",
+                      justifyContent: "center",
+                    }}
+                  >
                     <img
                       className="img-fluid"
                       src="images/home/clients/haier.png"
                       alt="haier"
-                      style={{ maxWidth: "200px", height: "72px" }}
+                      style={{
+                        maxWidth: "110px",
+                        width: "100%",
+                        // height: "72px",
+                      }}
                     />
                   </div>
-                  <div className="clients-logo">
+                  <div
+                    className="clients-logo"
+                    style={{
+                      display: "flex",
+                      alignItems: "center",
+                      justifyContent: "center",
+                    }}
+                  >
                     <img
                       className="img-fluid"
                       src="images/home/clients/astro-push.webp"
                       alt="astro-push"
-                      style={{ maxWidth: "200px", height: "72px" }}
+                      style={{
+                        maxWidth: "110px",
+                        width: "100%",
+                        // height: "72px",
+                      }}
                     />
                   </div>
-                  <div className="clients-logo">
+                  <div
+                    className="clients-logo"
+                    style={{
+                      display: "flex",
+                      alignItems: "center",
+                      justifyContent: "center",
+                    }}
+                  >
                     <img
                       className="img-fluid"
                       src="images/home/clients/marsh-mc-lennan.png"
                       alt="Marsh Mc Lennan"
                     />
                   </div>
-                  <div className="clients-logo">
+                  <div
+                    className="clients-logo"
+                    style={{
+                      display: "flex",
+                      alignItems: "center",
+                      justifyContent: "center",
+                    }}
+                  >
                     <img
                       className="img-fluid"
                       src="images/home/clients/interglobe.png"
                       alt="interglobe"
-                      style={{ maxWidth: "200px", height: "72px" }}
+                      style={{
+                        maxWidth: "110px",
+                        width: "100%",
+                        // height: "72px",
+                      }}
                     />
                   </div>
-                  <div className="clients-logo">
+                  <div
+                    className="clients-logo"
+                    style={{
+                      display: "flex",
+                      alignItems: "center",
+                      justifyContent: "center",
+                    }}
+                  >
                     <img
                       className="img-fluid"
                       src="images/home/clients/himalaya-wellness.png"
                       alt="himalaya-wellness"
-                      style={{ maxWidth: "200px", height: "72px" }}
+                      style={{
+                        maxWidth: "110px",
+                        width: "100%",
+                        height: "72px",
+                        objectFit: "contain",
+                      }}
                     />
                   </div>
-                  <div className="clients-logo">
+                  <div
+                    className="clients-logo"
+                    style={{
+                      display: "flex",
+                      alignItems: "center",
+                      justifyContent: "center",
+                    }}
+                  >
                     <img
                       className="img-fluid"
                       src="images/home/clients/air-tour-australia.png"
                       alt="Air Tour Australia"
                     />
                   </div>
-                  <div className="clients-logo">
+                  <div
+                    className="clients-logo"
+                    style={{
+                      display: "flex",
+                      alignItems: "center",
+                      justifyContent: "center",
+                    }}
+                  >
                     <img
                       className="img-fluid"
                       src="images/home/clients/newgen.png"
                       alt="newgen"
-                      style={{ maxWidth: "200px", height: "72px" }}
+                      style={{
+                        maxWidth: "110px",
+                        width: "100%",
+                        // height: "72px",
+                      }}
                     />
                   </div>
-                  <div className="clients-logo">
+                  <div
+                    className="clients-logo"
+                    style={{
+                      display: "flex",
+                      alignItems: "center",
+                      justifyContent: "center",
+                    }}
+                  >
                     <img
                       className="img-fluid"
                       src="images/home/clients/ooddles.png"
                       alt="ooddles"
-                      style={{ maxWidth: "200px", height: "72px" }}
+                      style={{
+                        maxWidth: "110px",
+                        width: "100%",
+                        // height: "72px",
+                      }}
                     />
                   </div>
-                  <div className="clients-logo">
+                  <div
+                    className="clients-logo"
+                    style={{
+                      display: "flex",
+                      alignItems: "center",
+                      justifyContent: "center",
+                    }}
+                  >
                     <img
                       className="img-fluid"
                       src="images/home/clients/sleepwell.png"
                       alt="sleepwell"
-                      style={{ maxWidth: "200px", height: "72px" }}
+                      style={{
+                        maxWidth: "110px",
+                        width: "100%",
+                        // height: "72px",
+                      }}
                     />
                   </div>
-                  <div className="clients-logo">
+                  <div
+                    className="clients-logo"
+                    style={{
+                      display: "flex",
+                      alignItems: "center",
+                      justifyContent: "center",
+                    }}
+                  >
                     <img
                       className="img-fluid"
                       src="images/home/clients/umar-ujala.png"
                       alt="umar-ujala"
-                      style={{ maxWidth: "200px", height: "72px" }}
+                      style={{
+                        maxWidth: "110px",
+                        width: "100%",
+                        // height: "72px",
+                      }}
                     />
                   </div>
                 </div>
