@@ -792,7 +792,7 @@ const About = () => {
         {/* clients end */}
 
         {/* Team start */}
-        <section
+        {/* <section
           className="bg-contain"
           data-bg-img="images/pattern/02.png"
           style={{ backgroundImage: "url(../images/pattern/02.png)" }}
@@ -1025,7 +1025,7 @@ const About = () => {
               </div>
             </div>
           </div>
-        </section>
+        </section> */}
         {/* Team end */}
       </div>
       {/* page content end */}
